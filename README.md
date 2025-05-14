@@ -17,3 +17,14 @@
     <li>Flask atau FastAPI (untuk REST API)</li>
     <li>Pandas, NumPy, scikit-learn</li>
   </ul>
+
+  <h2>⚙️ Instalasi</h2>
+  <ol>
+    <li>Clone repositori:</li>
+    <pre><code>git clone https://github.com/username/chatbot-motorcare.git
+cd chatbot-motorcare</code></pre>
+
+    <li>Instal dependensi:</li>
+    <pre><code>python -m venv env
+source env/bin/activate  # atau `env\Scripts\activate` di Windows
+pip install -r requirements.txt</code></pre>
