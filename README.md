@@ -1,4 +1,4 @@
-<h1>🤖 Chatbot MotorCare</h1>
+<h1>🤖 Chatbot FixPoint</h1>
   <p>Proyek chatbot ini dirancang untuk mendeteksi kerusakan motor berdasarkan keluhan pengguna serta memprediksi estimasi harga perbaikannya. Sistem ini dibangun dengan model <strong>BERT</strong> untuk memahami bahasa alami dalam percakapan teknis kendaraan bermotor.</p>
 
   <h2>🚀 Fitur</h2>
