@@ -24,7 +24,7 @@
     <pre><code>git clone https://github.com/fix-point-dbs/fixpoint-chatbot.git
 cd fixpoint-chatbot</code></pre>
 
-    <li>Instal dependensi:</li>
+  <li>Instal dependensi:</li>
     <pre><code>python -m venv env
 source env/bin/activate  # atau `env\Scripts\activate` di Windows
 pip install -r requirements.txt</code></pre>
