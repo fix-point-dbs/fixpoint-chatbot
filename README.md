@@ -21,8 +21,8 @@
   <h2>⚙️ Instalasi</h2>
   <ol>
     <li>Clone repositori:</li>
-    <pre><code>git clone https://github.com/username/chatbot-motorcare.git
-cd chatbot-motorcare</code></pre>
+    <pre><code>git clone https://github.com/fix-point-dbs/fixpoint-chatbot.git
+cd fixpoint-chatbot</code></pre>
 
     <li>Instal dependensi:</li>
     <pre><code>python -m venv env
