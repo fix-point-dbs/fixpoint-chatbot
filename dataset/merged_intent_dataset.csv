@@ -1,0 +1,2707 @@
+text,intent
+"halo bro, apa kabar?",greeting
+"selamat pagi, siap bantu!",greeting
+"hai, kendaraanmu baik-baik saja?",greeting
+"apa kabar, mekanik favoritmu di sini!",greeting
+"selamat malam, ada yang rusak?",greeting
+"pagi bro, motornya sehat?",greeting
+"siang, apa kabar roda duamu?",greeting
+"sore, mobilmu oke?",greeting
+"malam, butuh bantuan bengkel?",greeting
+"hallo, apa kabar mesinnya?",greeting
+"helo, apa kabar banmu?",greeting
+"hey, kendaraanmu butuh cek?",greeting
+"assalamualaikum, apa kabar kawan?",greeting
+selamat datang di bengkel virtual!,greeting
+"apa kabar hari ini, bro?",greeting
+"halo, senang ketemu lagi!",greeting
+"hai, apa kabar oli mesinmu?",greeting
+"selamat siang, apa kabar remnya?",greeting
+"selamat sore, apa kabar suspensinya?",greeting
+"selamat tidur, eh, maksudnya selamat malam!",greeting
+"apa kabar, temen setia bengkel?",greeting
+"bagaimana kabarmu, si roda empat?",greeting
+semoga harimu mulus seperti ban baru!,greeting
+"halo, apa kabar karburatornya?",greeting
+"hai, apa kabar knalpotmu?",greeting
+"selamat beraktivitas, kendaraanmu siap?",greeting
+"halo, apa kabar rantainya?",greeting
+"apa kabar, bro, motornya sehat?",greeting
+"selamat pagi, apa kabar koplingnya?",greeting
+"hai, apa kabar setirmu?",greeting
+"selamat malam, apa kabar akimu?",greeting
+"halo, apa kabar bensinnya?",greeting
+"hai, apa kabar radiatornya?",greeting
+"apa kabar, bro, mesinnya oke?",greeting
+"selamat siang, apa kabar shocknya?",greeting
+"halo, apa kabar bearingnya?",greeting
+"hai, apa kabar transmisinya?",greeting
+"selamat sore, apa kabar businya?",greeting
+"halo, apa kabar velgnya?",greeting
+"apa kabar, bro, banmu kempes?",greeting
+"selamat pagi, apa kabar kampas remnya?",greeting
+"hai, apa kabar lampunya?",greeting
+"selamat malam, apa kabar dinamo?",greeting
+"halo, apa kabar klaksonnya?",greeting
+"hai, apa kabar spionnya?",greeting
+"apa kabar, bro, oli mesinnya kering?",greeting
+"selamat siang, apa kabar karbunya?",greeting
+"halo, apa kabar filter udaranya?",greeting
+"hai, apa kabar injeksinya?",greeting
+"selamat sore, apa kabar pompa bensinnya?",greeting
+"saya mau servis motor sekarang, bisa?",service_booking
+bisa booking servis mobil untuk besok pagi?,service_booking
+jadwalkan servis motor buat hari Sabtu!,service_booking
+bisa pesan slot perbaikan mobil sore ini?,service_booking
+saya ingin cek mobilku yang bunyi aneh,service_booking
+"mau servis motor, kapan ada waktu?",service_booking
+booking servis mobil untuk hari Jumat,service_booking
+pesan jadwal servis rutin besok!,service_booking
+"servis motor mendesak, bisa sekarang?",service_booking
+"perbaikan mobil cepat, ada slot hari ini?",service_booking
+saya butuh servis motor sebelum weekend,service_booking
+bisa atur jadwal servis mobil minggu depan?,service_booking
+saya mau booking servis untuk ganti oli,service_booking
+ada slot buat servis motor siang ini?,service_booking
+saya ingin pesan servis untuk mobil tua saya,service_booking
+bisa tolong booking perbaikan rem?,service_booking
+"saya butuh servis darurat, motor mogok!",service_booking
+saya mau booking buat cek mesin mobil,service_booking
+bisa pesan servis motor untuk hari Rabu?,service_booking
+saya ingin jadwalin servis rutin mobil,service_booking
+ada waktu buat servis motor besok pagi?,service_booking
+"saya mau perbaikan ban motor, kapan bisa?",service_booking
+booking servis mobil untuk cek AC,service_booking
+"saya butuh servis cepat, motor mati total!",service_booking
+bisa atur slot buat servis motor sore ini?,service_booking
+saya mau pesan servis buat ganti kampas rem,service_booking
+ada jadwal buat perbaikan mobil hari ini?,service_booking
+"saya butuh servis motor, kapan kosong?",service_booking
+bisa booking servis mobil buat hari Senin?,service_booking
+saya mau atur jadwal cek suspensi,service_booking
+pesan servis motor untuk hari Kamis!,service_booking
+"saya butuh perbaikan mobil, ada waktu besok?",service_booking
+bisa booking servis rutin motor minggu ini?,service_booking
+saya mau pesan slot buat ganti ban,service_booking
+ada waktu buat servis mobil hari Sabtu?,service_booking
+saya butuh servis darurat buat motor!,service_booking
+bisa atur jadwal cek kelistrikan mobil?,service_booking
+saya mau booking servis buat ganti busi,service_booking
+pesan slot servis motor untuk hari Jumat!,service_booking
+"saya butuh perbaikan AC mobil, kapan bisa?",service_booking
+bisa booking servis rutin mobil besok?,service_booking
+saya mau atur jadwal cek knalpot motor,service_booking
+ada slot buat servis motor hari Minggu?,service_booking
+"saya butuh servis mobil cepat, ada waktu?",service_booking
+bisa pesan jadwal buat ganti aki motor?,service_booking
+saya mau booking servis buat cek radiator,service_booking
+pesan servis motor untuk hari Selasa!,service_booking
+saya butuh perbaikan transmisi mobil!,service_booking
+bisa atur slot servis mobil untuk hari ini?,service_booking
+saya mau pesan servis buat cek bearing,service_booking
+berapa biaya ganti oli motor matic?,price_inquiry
+harga servis mobil Avanza berapa?,price_inquiry
+berapa ongkos tune up motor bebek?,price_inquiry
+info harga perbaikan rem mobil sedan dong,price_inquiry
+berapa biaya benerin AC mobil yang mati?,price_inquiry
+biaya ganti kampas rem motor berapa?,price_inquiry
+harga servis rutin motor sport?,price_inquiry
+ongkos ganti aki mobil berapa ya?,price_inquiry
+biaya servis transmisi manual mobil?,price_inquiry
+harga perbaikan bodi mobil yang penyok?,price_inquiry
+berapa biaya ganti ban motor tubeless?,price_inquiry
+harga servis mesin diesel mobil?,price_inquiry
+biaya cek suspensi motor yang keras?,price_inquiry
+ongkos ganti filter oli motor?,price_inquiry
+biaya servis rem cakram motor?,price_inquiry
+harga benerin knalpot mobil yang bocor?,price_inquiry
+berapa biaya ganti busi iridium motor?,price_inquiry
+harga servis AC mobil yang kurang dingin?,price_inquiry
+biaya perbaikan radiator motor yang bocor?,price_inquiry
+ongkos ganti oli gardan motor?,price_inquiry
+biaya servis kopling mobil manual?,price_inquiry
+harga cek lampu mobil yang mati?,price_inquiry
+berapa biaya ganti bearing roda mobil?,price_inquiry
+harga servis power steering yang berat?,price_inquiry
+biaya benerin alternator mobil?,price_inquiry
+ongkos ganti rantai keteng motor?,price_inquiry
+biaya servis differential mobil 4WD?,price_inquiry
+harga perbaikan pompa bensin motor?,price_inquiry
+berapa biaya ganti shockbreaker motor?,price_inquiry
+harga servis pompa air mobil?,price_inquiry
+biaya benerin starter motor yang rusak?,price_inquiry
+ongkos ganti katalis mobil?,price_inquiry
+biaya servis throttle body mobil?,price_inquiry
+harga benerin turbo mobil diesel?,price_inquiry
+berapa biaya ganti katup EGR mobil?,price_inquiry
+harga servis injektor motor?,price_inquiry
+biaya perbaikan crankshaft yang aus?,price_inquiry
+ongkos ganti piston motor 2-tak?,price_inquiry
+biaya servis camshaft mobil?,price_inquiry
+harga benerin cylinder head yang bocor?,price_inquiry
+berapa biaya ganti valve motor?,price_inquiry
+harga servis rantai timing mobil?,price_inquiry
+biaya perbaikan panci oli mobil?,price_inquiry
+ongkos ganti filter bensin motor?,price_inquiry
+biaya servis filter udara mobil?,price_inquiry
+harga benerin fuel filter yang mampet?,price_inquiry
+berapa biaya ganti filter kabin mobil?,price_inquiry
+harga servis busi mobil tua?,price_inquiry
+biaya benerin koil motor yang mati?,price_inquiry
+ongkos servis dinamo starter mobil?,price_inquiry
+kenapa rem mobilku bunyi berdecit?,report_symptom_or_complaint
+mesin motor mati tiba-tiba di jalan,report_symptom_or_complaint
+mobilku susah nyala pagi hari,report_symptom_or_complaint
+ban motor kok cepet banget kempes?,report_symptom_or_complaint
+setir mobilku bergetar kenceng,report_symptom_or_complaint
+motor mogok pas hujan deras,report_symptom_or_complaint
+"mobil ga mau nyala, akinya lelet",report_symptom_or_complaint
+AC mobil cuma keluar angin doang,report_symptom_or_complaint
+lampu motor redup banget malem ini,report_symptom_or_complaint
+ada bunyi kretek dari mesin mobil,report_symptom_or_complaint
+transmisi mobilku ngadat pas ngegas,report_symptom_or_complaint
+kelistrikan motor mati total,report_symptom_or_complaint
+suspensi mobil bunyi gluduk-gluduk,report_symptom_or_complaint
+knalpot motor berasap hitam,report_symptom_or_complaint
+radiator mobilku netes air terus,report_symptom_or_complaint
+busi motor cepet banget mati,report_symptom_or_complaint
+bearing roda mobil bunyi ngorok,report_symptom_or_complaint
+power steering mobilku macet,report_symptom_or_complaint
+alternator mobil ga ngisi aki,report_symptom_or_complaint
+rantai keteng motor bunyi kletak-kletak,report_symptom_or_complaint
+differential mobil bunyi aneh pas belok,report_symptom_or_complaint
+pompa bensin motor ga nyala,report_symptom_or_complaint
+shockbreaker motor bocor oli,report_symptom_or_complaint
+"pompa air mobil mati, panas banget",report_symptom_or_complaint
+starter motor cuma bunyi cetak-cetek,report_symptom_or_complaint
+"katalis mobil buntu, tenaga drop",report_symptom_or_complaint
+"throttle body mobil kotor, tarikan lelet",report_symptom_or_complaint
+turbo mobil bunyi siul keras,report_symptom_or_complaint
+katup EGR mobil bikin mesin brebet,report_symptom_or_complaint
+"injektor motor mampet, bensin boros",report_symptom_or_complaint
+crankshaft mobil bunyi ketok-ketok,report_symptom_or_complaint
+"piston motor aus, asap putih keluar",report_symptom_or_complaint
+camshaft mobil bikin suara aneh,report_symptom_or_complaint
+"cylinder head motor retak, oli rembes",report_symptom_or_complaint
+"valve motor bengkok, mesin pincang",report_symptom_or_complaint
+"rantai timing mobil kendor, timing off",report_symptom_or_complaint
+"panci oli mobil bocor, oli abis",report_symptom_or_complaint
+"filter bensin motor buntu, mesin mati",report_symptom_or_complaint
+"filter udara mobil kotor, tarikan berat",report_symptom_or_complaint
+"fuel filter mampet, mobil brebet",report_symptom_or_complaint
+"filter kabin mobil bau, AC ga seger",report_symptom_or_complaint
+"busi motor mati satu, getar banget",report_symptom_or_complaint
+"koil motor rusak, ga ada percikan",report_symptom_or_complaint
+"starter motor macet, ga muter",report_symptom_or_complaint
+"kopling motor selip, ga enak ganti gigi",report_symptom_or_complaint
+"rantai motor kendor, bunyi berisik",report_symptom_or_complaint
+"kampas rem motor habis, rem blong",report_symptom_or_complaint
+"ban mobil aus, licin di jalan basah",report_symptom_or_complaint
+"aki motor drop, klakson ga bunyi",report_symptom_or_complaint
+"spion mobil goyang, ga bisa lihat belakang",report_symptom_or_complaint
+"makasih ya, bro!",end_or_pause_conversation
+sampai jumpa di bengkel!,end_or_pause_conversation
+"oke, ntar aku balik lagi",end_or_pause_conversation
+"baik, aku tunggu kabar dari bengkel",end_or_pause_conversation
+"terima kasih, mekanik hebat!",end_or_pause_conversation
+"dadah, sampai ketemu lagi!",end_or_pause_conversation
+"bye, kendaraanku udah oke!",end_or_pause_conversation
+"sampai nanti, bro!",end_or_pause_conversation
+"terima kasih banget, puas banget!",end_or_pause_conversation
+"sampai ketemu, motornya udah mulus!",end_or_pause_conversation
+"makasih, aku bakal rekomendasiin bengkelmu",end_or_pause_conversation
+"selamat malam, terima kasih ya!",end_or_pause_conversation
+"oke, aku kabarin temenku tentang bengkel ini",end_or_pause_conversation
+"baik, aku kasih bintang lima!",end_or_pause_conversation
+"terima kasih, mobilku jadi nyaman lagi",end_or_pause_conversation
+"dadah, aku balik lagi minggu depan!",end_or_pause_conversation
+"bye, seneng banget hasilnya!",end_or_pause_conversation
+"sampai nanti, aku bakal cerita ke temen!",end_or_pause_conversation
+"makasih banyak, bengkelmu top!",end_or_pause_conversation
+"sampai ketemu, aku bakal kasih review bagus!",end_or_pause_conversation
+"terima kasih, aku jadi langganan nih!",end_or_pause_conversation
+"selamat malam, puas banget sama servisnya!",end_or_pause_conversation
+"oke, aku bakal balik buat servis rutin",end_or_pause_conversation
+"baik, aku ceritain ke komunitas motor!",end_or_pause_conversation
+"makasih, bengkelmu bikin hari ini lancar",end_or_pause_conversation
+"dadah, sampai jumpa di servis berikutnya!",end_or_pause_conversation
+"bye, aku bakal kasih testimoni positif!",end_or_pause_conversation
+"sampai nanti, mobilku udah kinclong!",end_or_pause_conversation
+"terima kasih banget, bro, mantap!",end_or_pause_conversation
+"sampai ketemu, bengkelmu jadi andalan!",end_or_pause_conversation
+"makasih, aku bakal ajak temen kesini!",end_or_pause_conversation
+"selamat malam, hasilnya melebihi ekspektasi!",end_or_pause_conversation
+"oke, aku bakal promosiin bengkelmu!",end_or_pause_conversation
+"baik, aku kasih rating tinggi di apps!",end_or_pause_conversation
+"terima kasih, motornya jadi kenceng lagi!",end_or_pause_conversation
+"dadah, aku balik buat ganti oli!",end_or_pause_conversation
+"bye, bengkelmu bikin aku seneng!",end_or_pause_conversation
+"sampai nanti, aku bakal cerita ke keluarga!",end_or_pause_conversation
+"makasih banyak, hasilnya cakep banget!",end_or_pause_conversation
+"sampai ketemu, aku jadi pelanggan setia!",end_or_pause_conversation
+"terima kasih, aku bakal share pengalamanku!",end_or_pause_conversation
+"selamat malam, bengkelmu juara!",end_or_pause_conversation
+"oke, aku bakal balik buat cek rutin!",end_or_pause_conversation
+"baik, aku kasih ulasan bintang lima!",end_or_pause_conversation
+"makasih, pelayanannya ramah banget!",end_or_pause_conversation
+"dadah, aku ajak temen buat servis disini!",end_or_pause_conversation
+"bye, bengkelmu bikin aku takjub!",end_or_pause_conversation
+"sampai nanti, aku bakal promosiin ke temen!",end_or_pause_conversation
+"terima kasih banget, hasilnya keren!",end_or_pause_conversation
+"sampai ketemu, bengkelmu nomor satu!",end_or_pause_conversation
+berapa suhu di bulan hari ini?,fallback
+siapa gubernur Jakarta sekarang?,fallback
+aku pengen makan bakso,fallback
+kamu suka nonton film horor?,fallback
+berapa skor MotoGP kemarin?,fallback
+"apa warna kesukaanmu, biru atau merah?",fallback
+kapan hari ulang tahun bengkelmu?,fallback
+apa hobi mekanik disini?,fallback
+siapa nama istri mekaniknya?,fallback
+kamu kerja apa selain mekanik?,fallback
+hari ini kamu ngapain aja?,fallback
+tadi pagi kamu sarapan apa?,fallback
+kamu suka hujan apa panas?,fallback
+kamu ga suka apa di bengkel?,fallback
+kamu pengen libur kapan?,fallback
+kamu butuh apa sekarang?,fallback
+kamu nyanyi lagu apa tadi?,fallback
+kamu inget nomor teleponku ga?,fallback
+kamu lupa apa hari ini?,fallback
+kamu belajar apa di bengkel?,fallback
+kamu ngajarin apa ke mekanik baru?,fallback
+kamu denger berita apa?,fallback
+kamu lihat apa di jalan tadi?,fallback
+kamu ngerasa apa hari ini?,fallback
+kamu mikir apa sekarang?,fallback
+kamu lagi ngapain selain bales aku?,fallback
+kamu bilang apa ke bos tadi?,fallback
+kamu nulis apa di buku?,fallback
+kamu baca apa di koran?,fallback
+kamu nonton apa di TV semalem?,fallback
+kamu main apa pas kecil?,fallback
+kamu beli apa di warung tadi?,fallback
+kamu jual apa selain servis?,fallback
+kamu kasih apa ke temenmu?,fallback
+kamu dapet apa dari pelanggan?,fallback
+kamu mau ke mana abis ini?,fallback
+kamu punya apa di garasi?,fallback
+kamu pengen apa dari aku?,fallback
+kamu cari apa di toolbox?,fallback
+kamu inget apa dari kemaren?,fallback
+kamu lupa apa pas servis tadi?,fallback
+kamu pelajari apa dari mobilku?,fallback
+kamu ajarin apa ke anakmu?,fallback
+kamu denger apa dari mesin tadi?,fallback
+kamu lihat apa di bawah mobil?,fallback
+kamu ngerasa apa pas hujan?,fallback
+kamu mikir apa tentang cuaca?,fallback
+kamu ngapain pas weekend?,fallback
+kamu bilang apa ke istri tadi?,fallback
+kamu tulis apa di catatan servis?,fallback
+"Halo bro, mau booking servis motor nih!",start_booking
+"Saya ingin booking servis mobil, bisa?",start_booking
+"Oke, ayo atur jadwal servis motor gue!",start_booking
+"Mau booking servis, kapan slotnya kosong?",start_booking
+"Bro, bisa bantu booking servis matic?",start_booking
+"Halo, mau booking buat cek mesin mobil!",start_booking
+"Saya pengen booking servis rutin, bro!",start_booking
+"Hey, mau atur servis motor, bisa bantu?",start_booking
+"Booking servis motor matic dong, bro!",start_booking
+"Halo, mau booking servis buat mobil gue!",start_booking
+"Saya ingin booking servis, ada slot besok?",start_booking
+"Bro, ayo booking servis motor sport!",start_booking
+"Mau booking buat cek rem motor, kapan ya?",start_booking
+"Halo, bisa atur servis mobil cepet ga?",start_booking
+"Saya pengen booking servis, bro, kapan oke?",start_booking
+"Hey, mau booking servis rutin motor!",start_booking
+"Booking servis mobil dong, bro, kapan bisa?",start_booking
+"Halo, mau booking buat ganti oli motor!",start_booking
+"Saya ingin booking servis, ada waktu luang?",start_booking
+"Bro, booking servis motor matic yuk!",start_booking
+Mau booking servis buat cek aki mobil!,start_booking
+"Halo, bisa bantu booking servis besok?",start_booking
+Saya pengen booking buat servis motor sport!,start_booking
+"Hey, mau booking servis, slotnya ada ga?",start_booking
+"Booking servis mobil, bro, kapan pas?",start_booking
+"Halo, mau booking buat cek suspensi motor!",start_booking
+"Saya ingin booking servis rutin, bisa cepet?",start_booking
+"Bro, ayo booking servis buat motor gue!",start_booking
+"Mau booking servis mobil, ada slot minggu?",start_booking
+"Halo, bisa atur servis motor matic ga?",start_booking
+"Saya pengen booking servis, kapan free?",start_booking
+"Hey, mau booking buat cek mesin motor!",start_booking
+"Booking servis mobil dong, bro, cepet ya!",start_booking
+"Halo, mau booking servis buat ganti ban!",start_booking
+"Saya ingin booking servis, besok bisa ga?",start_booking
+"Bro, booking servis motor sport sekarang!",start_booking
+"Mau booking buat cek rem mobil, kapan oke?",start_booking
+"Halo, bisa bantu booking servis rutin?",start_booking
+"Saya pengen booking servis, bro, hari apa?",start_booking
+"Hey, mau booking servis matic, slot ada?",start_booking
+"Booking servis mobil, kapan bisa bro?",start_booking
+"Halo, mau booking buat cek oli motor!",start_booking
+"Saya ingin booking servis, ada slot sore?",start_booking
+"Bro, ayo booking servis buat motor matic!",start_booking
+"Mau booking servis mobil, besok pagi oke?",start_booking
+"Halo, bisa atur servis motor sport ga?",start_booking
+Saya pengen booking buat cek aki motor!,start_booking
+"Hey, mau booking servis, kapan kosong?",start_booking
+"Booking servis mobil rutin, bro, bisa?",start_booking
+"Halo, mau booking buat ganti kampas rem!",start_booking
+"Saya ingin booking servis, hari ini bisa?",start_booking
+Besok tanggal 20 Mei 2025 ya!,provide_booking_date
+Saya mau booking buat hari Sabtu ini!,provide_booking_date
+"Tanggal 21 Mei oke ga, bro?",provide_booking_date
+"Booking buat hari Jumat, 23 Mei!",provide_booking_date
+"Hari Minggu, 25 Mei, bisa servis?",provide_booking_date
+Saya mau tanggal 22 Mei 2025!,provide_booking_date
+"Besok lusa, 21 Mei, slot ada?",provide_booking_date
+"Tanggal 24 Mei, bro, bisa ga?",provide_booking_date
+"Hari Kamis, 22 Mei, oke buat servis!",provide_booking_date
+Saya pengen booking buat 26 Mei!,provide_booking_date
+"Tanggal 20 Mei sore, bisa ga?",provide_booking_date
+"Hari Rabu, 21 Mei, slot kosong?",provide_booking_date
+"Booking buat 25 Mei, bro, oke?",provide_booking_date
+"Tanggal 23 Mei pagi, bisa servis!",provide_booking_date
+"Saya mau hari Senin, 26 Mei!",provide_booking_date
+"Tanggal 27 Mei, ada slot ga?",provide_booking_date
+"Hari Selasa, 20 Mei, oke bro!",provide_booking_date
+"Booking buat 22 Mei, slot ada?",provide_booking_date
+"Tanggal 24 Mei pagi, bisa ga?",provide_booking_date
+"Saya pengen 21 Mei sore, bro!",provide_booking_date
+"Hari Jumat, 23 Mei, slot kosong?",provide_booking_date
+"Tanggal 25 Mei, servis bisa ga?",provide_booking_date
+"Booking buat 26 Mei pagi, oke!",provide_booking_date
+"Tanggal 20 Mei, bro, ada slot?",provide_booking_date
+"Hari Minggu, 25 Mei, bisa servis!",provide_booking_date
+Saya mau tanggal 22 Mei pagi!,provide_booking_date
+"Tanggal 21 Mei sore, slot ada?",provide_booking_date
+"Booking buat 23 Mei, bro, oke?",provide_booking_date
+"Hari Kamis, 22 Mei, bisa ga?",provide_booking_date
+"Tanggal 24 Mei sore, servis oke!",provide_booking_date
+"Saya pengen 26 Mei pagi, bro!",provide_booking_date
+"Hari Rabu, 21 Mei, slot ada?",provide_booking_date
+"Tanggal 25 Mei sore, bisa ga?",provide_booking_date
+"Booking buat 27 Mei, oke bro!",provide_booking_date
+"Tanggal 20 Mei pagi, slot kosong?",provide_booking_date
+"Hari Senin, 26 Mei, servis bisa!",provide_booking_date
+Saya mau tanggal 23 Mei sore!,provide_booking_date
+"Tanggal 22 Mei pagi, oke ga?",provide_booking_date
+"Booking buat 24 Mei, slot ada?",provide_booking_date
+"Hari Selasa, 20 Mei, bisa servis!",provide_booking_date
+"Tanggal 21 Mei, bro, oke ga?",provide_booking_date
+"Saya pengen 25 Mei pagi, slot ada?",provide_booking_date
+"Hari Jumat, 23 Mei, servis oke!",provide_booking_date
+"Tanggal 26 Mei sore, bisa ga?",provide_booking_date
+"Booking buat 22 Mei sore, oke!",provide_booking_date
+"Tanggal 20 Mei, slot pagi ada?",provide_booking_date
+"Hari Minggu, 25 Mei, slot kosong?",provide_booking_date
+Saya mau tanggal 21 Mei pagi!,provide_booking_date
+"Tanggal 24 Mei sore, oke bro!",provide_booking_date
+"Booking buat 23 Mei pagi, bisa?",provide_booking_date
+"Hari Kamis, 22 Mei, slot ada?",provide_booking_date
+"Pagi jam 9 ya, bro!",provide_booking_time
+"Saya mau jam 10 pagi, oke?",provide_booking_time
+"Jam 2 siang, slot ada ga?",provide_booking_time
+Booking buat jam 11 pagi!,provide_booking_time
+"Sore jam 4, bisa servis?",provide_booking_time
+Saya pengen jam 8 pagi!,provide_booking_time
+"Jam 3 sore, oke ga, bro?",provide_booking_time
+"Pagi jam 10.30, slot kosong?",provide_booking_time
+"Jam 5 sore, bisa ga?",provide_booking_time
+Saya mau jam 9.30 pagi!,provide_booking_time
+"Jam 1 siang, servis oke?",provide_booking_time
+Booking buat jam 4 sore!,provide_booking_time
+"Jam 8 pagi, bro, bisa ga?",provide_booking_time
+"Sore jam 3.30, slot ada?",provide_booking_time
+Saya pengen jam 11.30 pagi!,provide_booking_time
+"Jam 2.30 siang, oke bro!",provide_booking_time
+"Pagi jam 9.15, slot kosong?",provide_booking_time
+"Jam 4.30 sore, bisa servis?",provide_booking_time
+"Saya mau jam 10 pagi, bro!",provide_booking_time
+"Jam 5.30 sore, oke ga?",provide_booking_time
+Booking buat jam 12 siang!,provide_booking_time
+"Jam 8.30 pagi, slot ada?",provide_booking_time
+"Sore jam 3, servis bisa ga?",provide_booking_time
+"Saya pengen jam 9 pagi, bro!",provide_booking_time
+"Jam 1.30 siang, oke ga?",provide_booking_time
+"Pagi jam 10, slot kosong?",provide_booking_time
+"Jam 4 sore, bro, bisa ga?",provide_booking_time
+"Saya mau jam 11 pagi, oke?",provide_booking_time
+"Jam 2 siang, servis oke bro!",provide_booking_time
+Booking buat jam 5 sore!,provide_booking_time
+"Jam 8 pagi, slot ada ga?",provide_booking_time
+"Sore jam 3.15, oke ga?",provide_booking_time
+Saya pengen jam 9.30 pagi!,provide_booking_time
+"Jam 4.15 sore, slot kosong?",provide_booking_time
+"Pagi jam 10.45, bisa servis?",provide_booking_time
+"Jam 12.30 siang, oke bro!",provide_booking_time
+"Saya mau jam 3 sore, bro!",provide_booking_time
+"Jam 8.15 pagi, slot ada?",provide_booking_time
+"Sore jam 5, servis oke ga?",provide_booking_time
+Booking buat jam 11.15 pagi!,provide_booking_time
+"Jam 2.15 siang, oke bro!",provide_booking_time
+"Pagi jam 9.45, slot kosong?",provide_booking_time
+"Jam 4.45 sore, bisa ga?",provide_booking_time
+Saya pengen jam 10.30 pagi!,provide_booking_time
+"Jam 3.45 sore, oke ga?",provide_booking_time
+"Jam 1 siang, slot ada bro!",provide_booking_time
+Saya mau jam 8.45 pagi!,provide_booking_time
+"Sore jam 4.30, servis oke?",provide_booking_time
+"Pagi jam 9.30, bro, bisa?",provide_booking_time
+"Jam 5.15 sore, slot kosong?",provide_booking_time
+Saya pengen jam 11.45 pagi!,provide_booking_time
+"Motor matic, bro, bisa servis!",provide_vehicle_type
+"Saya punya motor sport, oke?",provide_vehicle_type
+"Moped, kapan bisa diservis?",provide_vehicle_type
+"Motor bebek, slot ada ga?",provide_vehicle_type
+Saya mau servis motor matic!,provide_vehicle_type
+"Motor sport, bro, cek apa?",provide_vehicle_type
+"Moped, bisa servis besok?",provide_vehicle_type
+"Motor bebek, oke ga, bro?",provide_vehicle_type
+"Saya punya motor matic, slot ada?",provide_vehicle_type
+"Motor sport, kapan kosong?",provide_vehicle_type
+"Moped, servis rutin oke ga?",provide_vehicle_type
+"Motor bebek, bro, bisa cepet?",provide_vehicle_type
+"Saya mau servis matic, bro!",provide_vehicle_type
+"Motor sport, cek rem oke?",provide_vehicle_type
+"Moped, slot sore ada ga?",provide_vehicle_type
+"Motor bebek, servis apa aja?",provide_vehicle_type
+"Saya punya matic, kapan bisa?",provide_vehicle_type
+"Motor sport, bro, slot pagi?",provide_vehicle_type
+"Moped, cek mesin oke ga?",provide_vehicle_type
+"Motor bebek, bisa servis cepet?",provide_vehicle_type
+"Saya mau matic, slot ada bro!",provide_vehicle_type
+"Motor sport, servis rutin ya!",provide_vehicle_type
+"Moped, kapan oke buat servis?",provide_vehicle_type
+"Motor bebek, slot kosong ga?",provide_vehicle_type
+"Saya punya motor matic, oke?",provide_vehicle_type
+"Motor sport, cek oli bro!",provide_vehicle_type
+"Moped, servis sore bisa ga?",provide_vehicle_type
+"Motor bebek, kapan slot ada?",provide_vehicle_type
+"Saya mau servis matic, cepet!",provide_vehicle_type
+"Motor sport, slot pagi oke?",provide_vehicle_type
+"Moped, cek aki bisa ga?",provide_vehicle_type
+"Motor bebek, servis apa bro?",provide_vehicle_type
+"Saya punya matic, slot sore?",provide_vehicle_type
+"Motor sport, kapan bisa servis?",provide_vehicle_type
+"Moped, cek rem oke ga?",provide_vehicle_type
+"Motor bebek, slot ada bro!",provide_vehicle_type
+"Saya mau matic, servis rutin!",provide_vehicle_type
+"Motor sport, cek mesin bro!",provide_vehicle_type
+"Moped, slot pagi kosong ga?",provide_vehicle_type
+"Motor bebek, servis cepet oke?",provide_vehicle_type
+"Saya punya motor matic, slot?",provide_vehicle_type
+"Motor sport, servis apa aja?",provide_vehicle_type
+"Moped, kapan oke buat cek?",provide_vehicle_type
+"Motor bebek, slot sore ada?",provide_vehicle_type
+"Saya mau matic, bro, oke ga?",provide_vehicle_type
+"Motor sport, cek ban bisa?",provide_vehicle_type
+"Moped, servis rutin bro!",provide_vehicle_type
+"Motor bebek, kapan kosong?",provide_vehicle_type
+"Saya punya matic, cek oli!",provide_vehicle_type
+"Motor sport, slot ada ga?",provide_vehicle_type
+"Motor bebek, servis pagi oke?",provide_vehicle_type
+"Honda Beat, bro, bisa servis!",provide_vehicle_model
+"Saya punya Yamaha NMax, oke?",provide_vehicle_model
+"Suzuki Satria, kapan diservis?",provide_vehicle_model
+"Kawasaki Ninja, slot ada ga?",provide_vehicle_model
+"Honda Vario, servis rutin ya!",provide_vehicle_model
+"Yamaha Mio, bro, cek apa?",provide_vehicle_model
+"Suzuki Address, bisa besok?",provide_vehicle_model
+"Kawasaki Z250, oke ga, bro?",provide_vehicle_model
+"Honda PCX, slot ada ga?",provide_vehicle_model
+"Yamaha Aerox, kapan kosong?",provide_vehicle_model
+"Suzuki Smash, servis oke ga?",provide_vehicle_model
+"Honda CBR, bro, bisa cepet?",provide_vehicle_model
+"Yamaha Jupiter, cek rem oke?",provide_vehicle_model
+"Suzuki Nex, slot sore ada?",provide_vehicle_model
+"Kawasaki KLX, servis apa aja?",provide_vehicle_model
+"Honda Scoopy, kapan bisa?",provide_vehicle_model
+"Yamaha XMax, bro, slot pagi?",provide_vehicle_model
+"Suzuki Spin, cek mesin oke?",provide_vehicle_model
+"Honda Genio, bisa servis cepet?",provide_vehicle_model
+"Yamaha Fino, slot ada bro!",provide_vehicle_model
+"Suzuki Hayate, servis rutin ya!",provide_vehicle_model
+"Kawasaki Versys, kapan oke?",provide_vehicle_model
+"Honda Supra, slot kosong ga?",provide_vehicle_model
+"Yamaha Vega, cek oli bro!",provide_vehicle_model
+"Suzuki Shogun, servis sore ga?",provide_vehicle_model
+"Kawasaki W175, kapan slot ada?",provide_vehicle_model
+"Honda ADV, servis apa bro?",provide_vehicle_model
+"Yamaha Soul, slot sore ada?",provide_vehicle_model
+"Suzuki Skydrive, kapan servis?",provide_vehicle_model
+"Honda Revo, cek ban bisa?",provide_vehicle_model
+"Yamaha Lexi, servis rutin bro!",provide_vehicle_model
+"Suzuki Thunder, slot pagi ga?",provide_vehicle_model
+"Kawasaki D-Tracker, servis oke?",provide_vehicle_model
+"Honda CB150R, slot ada bro!",provide_vehicle_model
+"Yamaha Vixion, cek mesin bro!",provide_vehicle_model
+"Suzuki GSX, slot pagi kosong?",provide_vehicle_model
+"Honda CRF, servis cepet oke?",provide_vehicle_model
+"Yamaha Byson, slot ada ga?",provide_vehicle_model
+"Suzuki Burgman, servis pagi?",provide_vehicle_model
+"Kawasaki ER6n, cek oli bro!",provide_vehicle_model
+"Honda Sonic, slot sore ada?",provide_vehicle_model
+"Yamaha R15, servis rutin oke?",provide_vehicle_model
+"Suzuki Inazuma, kapan kosong?",provide_vehicle_model
+"Honda Tiger, cek rem bro!",provide_vehicle_model
+"Yamaha R25, slot pagi ada?",provide_vehicle_model
+"Suzuki Gixxer, servis apa aja?",provide_vehicle_model
+"Kawasaki ZX25R, slot ada ga?",provide_vehicle_model
+"Honda Forza, cek aki bro!",provide_vehicle_model
+"Yamaha MT15, servis sore oke?",provide_vehicle_model
+"Suzuki V-Strom, slot kosong?",provide_vehicle_model
+"Honda Spacy, kapan bisa servis?",provide_vehicle_model
+"Iya bro, bookingnya bener!",confirm_booking
+"Ya, konfirmasi booking oke!",confirm_booking
+"Betul, gue setuju booking itu!",confirm_booking
+"Iya, jadwalnya pas, konfirm!",confirm_booking
+"Oke bro, booking dikonfirmasi!",confirm_booking
+"Ya, tanggal itu bener, lanjut!",confirm_booking
+"Konfirmasi bro, booking fix!",confirm_booking
+"Iya, slotnya cocok, oke!",confirm_booking
+"Betul, bookingnya gue setuju!",confirm_booking
+"Ya bro, konfirmasi jadwal itu!",confirm_booking
+"Oke, bookingnya sudah pas!",confirm_booking
+"Iya, tanggal dan jamnya oke!",confirm_booking
+"Konfirmasi, bro, lanjut ya!",confirm_booking
+"Ya, booking itu bener, fix!",confirm_booking
+"Betul bro, gue konfirmasi!",confirm_booking
+"Iya, jadwalnya cocok, oke!",confirm_booking
+"Oke bro, booking dikonfirm!",confirm_booking
+"Ya, tanggalnya pas, lanjut!",confirm_booking
+"Konfirmasi, bookingnya fix!",confirm_booking
+"Iya bro, slot itu gue ambil!",confirm_booking
+"Betul, bookingnya oke, ya!",confirm_booking
+"Ya, konfirmasi bro, lanjut!",confirm_booking
+"Oke, jadwal itu gue setuju!",confirm_booking
+"Iya, bookingnya pas, konfirm!",confirm_booking
+"Konfirmasi bro, tanggal oke!",confirm_booking
+"Ya bro, booking itu fix ya!",confirm_booking
+"Betul, slotnya cocok, lanjut!",confirm_booking
+"Iya, konfirmasi booking bro!",confirm_booking
+"Oke bro, jadwal itu pas!",confirm_booking
+"Ya, bookingnya gue konfirm!",confirm_booking
+"Konfirmasi, tanggalnya oke!",confirm_booking
+"Iya bro, slot itu bener!",confirm_booking
+"Betul, bookingnya fix, ya!",confirm_booking
+"Ya, konfirmasi, lanjut bro!",confirm_booking
+"Oke, jadwalnya cocok, fix!",confirm_booking
+"Iya, booking itu gue setuju!",confirm_booking
+"Konfirmasi bro, oke banget!",confirm_booking
+"Ya bro, tanggal itu pas!",confirm_booking
+"Betul, slot itu gue ambil!",confirm_booking
+"Iya, konfirmasi booking oke!",confirm_booking
+"Oke bro, bookingnya fix!",confirm_booking
+"Ya, jadwalnya bener, lanjut!",confirm_booking
+"Konfirmasi, bro, slot pas!",confirm_booking
+"Iya bro, booking itu cocok!",confirm_booking
+"Betul, tanggalnya oke, ya!",confirm_booking
+"Ya, konfirmasi bro, fix!",confirm_booking
+"Oke, slot itu gue setuju!",confirm_booking
+"Iya, bookingnya pas, lanjut!",confirm_booking
+"Konfirmasi, jadwalnya oke!",confirm_booking
+"Ya bro, booking itu bener!",confirm_booking
+"Betul, konfirmasi booking ya!",confirm_booking
+"Bro, gue mau cancel booking nih!",cancel_booking
+Bisa cancel booking tanggal 20 Mei?,cancel_booking
+"Saya pengen batalin booking, bro!",cancel_booking
+"Cancel booking hari Jumat, oke?",cancel_booking
+"Halo, booking gue mau dibatalin!",cancel_booking
+"Bro, cancel booking besok ya!",cancel_booking
+Saya mau batalin servis minggu ini!,cancel_booking
+Bisa cancel booking jam 10 pagi?,cancel_booking
+"Halo, booking gue ga jadi, bro!",cancel_booking
+Cancel booking tanggal 23 Mei!,cancel_booking
+Saya pengen batalin booking sore!,cancel_booking
+"Bro, booking gue mau dicancel!",cancel_booking
+Bisa cancel servis hari Sabtu?,cancel_booking
+"Halo, batalin booking gue dong!",cancel_booking
+Cancel booking jam 2 siang ya!,cancel_booking
+Saya mau cancel booking 21 Mei!,cancel_booking
+"Bro, booking tanggal 22 batal!",cancel_booking
+Bisa cancel servis besok pagi?,cancel_booking
+"Halo, booking gue ga lanjut!",cancel_booking
+"Cancel booking hari Senin, oke?",cancel_booking
+Saya pengen batalin booking bro!,cancel_booking
+"Bro, cancel booking jam 4 sore!",cancel_booking
+Bisa cancel servis tanggal 25?,cancel_booking
+"Halo, booking gue mau batal!",cancel_booking
+"Cancel booking 24 Mei, bro!",cancel_booking
+Saya mau batalin servis pagi!,cancel_booking
+"Bro, booking gue cancel ya!",cancel_booking
+Bisa cancel booking hari Rabu?,cancel_booking
+"Halo, servis gue ga jadi bro!",cancel_booking
+Cancel booking jam 9 pagi!,cancel_booking
+Saya pengen batalin booking 26 Mei!,cancel_booking
+"Bro, booking tanggal 20 batal!",cancel_booking
+Bisa cancel servis sore ini?,cancel_booking
+"Halo, booking gue dicancel ya!",cancel_booking
+"Cancel booking hari Kamis, oke?",cancel_booking
+Saya mau batalin booking bro!,cancel_booking
+"Bro, cancel booking jam 3 siang!",cancel_booking
+Bisa cancel servis tanggal 23?,cancel_booking
+"Halo, booking gue ga jadi lanjut!",cancel_booking
+"Cancel booking 22 Mei, bro!",cancel_booking
+Saya pengen batalin servis besok!,cancel_booking
+"Bro, booking gue batalin dong!",cancel_booking
+Bisa cancel booking jam 5 sore?,cancel_booking
+"Halo, servis gue cancel ya!",cancel_booking
+Cancel booking tanggal 21 Mei!,cancel_booking
+Saya mau batalin booking sore!,cancel_booking
+"Bro, booking gue ga jadi bro!",cancel_booking
+Bisa cancel servis hari Minggu?,cancel_booking
+"Halo, booking gue batalin oke!",cancel_booking
+Cancel booking jam 11 pagi ya!,cancel_booking
+Saya pengen batalin booking 25 Mei!,cancel_booking
+"Bro, bisa ganti jadwal booking gue?",reschedule_booking
+Saya mau reschedule booking ke 22 Mei!,reschedule_booking
+Bisa ubah booking ke hari Sabtu?,reschedule_booking
+"Halo, booking gue mau diganti tanggal!",reschedule_booking
+"Reschedule booking ke 24 Mei, oke?",reschedule_booking
+"Bro, ganti jadwal servis ke besok!",reschedule_booking
+Saya pengen ubah booking ke 23 Mei!,reschedule_booking
+Bisa reschedule booking jam 2 siang?,reschedule_booking
+"Halo, booking gue ganti ke 25 Mei!",reschedule_booking
+Ubah jadwal booking ke hari Jumat!,reschedule_booking
+"Saya mau reschedule ke 21 Mei, bro!",reschedule_booking
+"Bro, booking gue ganti ke sore!",reschedule_booking
+Bisa ubah servis ke tanggal 26 Mei?,reschedule_booking
+"Halo, reschedule booking gue dong!",reschedule_booking
+Ganti jadwal booking ke 20 Mei!,reschedule_booking
+Saya pengen ubah booking ke pagi!,reschedule_booking
+"Bro, reschedule booking ke 27 Mei!",reschedule_booking
+Bisa ganti jadwal servis ke Senin?,reschedule_booking
+"Halo, booking gue ubah ke 22 Mei!",reschedule_booking
+"Ubah booking ke jam 4 sore, oke?",reschedule_booking
+Saya mau reschedule ke 23 Mei pagi!,reschedule_booking
+"Bro, ganti jadwal booking ke Rabu!",reschedule_booking
+Bisa reschedule servis ke 25 Mei?,reschedule_booking
+"Halo, booking gue ganti ke 21 Mei!",reschedule_booking
+Reschedule booking ke hari Minggu!,reschedule_booking
+Saya pengen ubah booking ke jam 10!,reschedule_booking
+"Bro, ubah jadwal servis ke 24 Mei!",reschedule_booking
+Bisa ganti booking ke tanggal 20?,reschedule_booking
+"Halo, reschedule booking ke sore!",reschedule_booking
+"Ubah jadwal booking ke 26 Mei, bro!",reschedule_booking
+Saya mau reschedule ke 22 Mei pagi!,reschedule_booking
+"Bro, ganti booking ke hari Kamis!",reschedule_booking
+Bisa ubah servis ke jam 3 siang?,reschedule_booking
+"Halo, booking gue ganti ke 23 Mei!",reschedule_booking
+Reschedule booking ke 25 Mei sore!,reschedule_booking
+Saya pengen ubah jadwal ke 21 Mei!,reschedule_booking
+"Bro, ubah booking ke jam 9 pagi!",reschedule_booking
+Bisa ganti jadwal ke tanggal 27?,reschedule_booking
+"Halo, reschedule servis ke 20 Mei!",reschedule_booking
+"Ubah booking ke hari Selasa, oke?",reschedule_booking
+Saya mau reschedule ke 24 Mei pagi!,reschedule_booking
+"Bro, ganti jadwal ke 22 Mei sore!",reschedule_booking
+Bisa ubah booking ke jam 5 sore?,reschedule_booking
+"Halo, booking gue ganti ke 26 Mei!",reschedule_booking
+"Reschedule servis ke 23 Mei, bro!",reschedule_booking
+Saya pengen ubah ke 21 Mei sore!,reschedule_booking
+"Bro, ubah jadwal ke tanggal 25!",reschedule_booking
+Bisa ganti booking ke hari Senin?,reschedule_booking
+"Halo, reschedule booking ke 20 Mei!",reschedule_booking
+Ubah jadwal servis ke jam 11 pagi!,reschedule_booking
+"Bro, booking gue udah masuk belum?",ask_booking_status
+Status booking tanggal 20 Mei apa?,ask_booking_status
+"Saya mau cek status booking, bro!",ask_booking_status
+Booking hari Jumat udah fix ga?,ask_booking_status
+"Halo, booking gue statusnya apa?",ask_booking_status
+Cek status booking besok dong!,ask_booking_status
+Saya pengen tahu status booking!,ask_booking_status
+Booking jam 10 pagi udah oke?,ask_booking_status
+"Halo, status booking gue apa bro?",ask_booking_status
+"Cek booking tanggal 23 Mei, bro!",ask_booking_status
+Saya mau tahu booking sore statusnya!,ask_booking_status
+"Bro, booking gue udah dikonfirmasi?",ask_booking_status
+Status servis hari Sabtu apa ya?,ask_booking_status
+"Halo, booking gue udah masuk ga?",ask_booking_status
+Cek status booking jam 2 siang!,ask_booking_status
+Saya pengen cek booking 21 Mei!,ask_booking_status
+"Bro, status booking tanggal 22 apa?",ask_booking_status
+Status servis besok udah fix?,ask_booking_status
+"Cek booking hari Senin, bro!",ask_booking_status
+Saya mau tahu status booking gue!,ask_booking_status
+"Bro, booking jam 4 sore udah oke?",ask_booking_status
+Status servis tanggal 25 Mei apa?,ask_booking_status
+"Halo, cek status booking gue dong!",ask_booking_status
+"Cek booking 24 Mei, udah masuk?",ask_booking_status
+Saya pengen tahu status servis pagi!,ask_booking_status
+"Bro, booking gue udah diproses?",ask_booking_status
+Status booking hari Rabu apa bro?,ask_booking_status
+"Halo, booking gue udah dikonfirm?",ask_booking_status
+Cek status servis jam 9 pagi!,ask_booking_status
+Saya mau cek booking 26 Mei!,ask_booking_status
+"Bro, status booking tanggal 20 apa?",ask_booking_status
+Status servis sore ini udah oke?,ask_booking_status
+"Halo, booking gue statusnya apa bro?",ask_booking_status
+"Cek booking hari Kamis, udah fix?",ask_booking_status
+Saya pengen cek status booking!,ask_booking_status
+"Bro, booking jam 3 siang udah masuk?",ask_booking_status
+Status servis tanggal 23 Mei apa?,ask_booking_status
+"Halo, cek status booking gue ya!",ask_booking_status
+"Cek booking 22 Mei, bro, oke ga?",ask_booking_status
+Saya mau tahu status servis besok!,ask_booking_status
+"Bro, booking gue udah diatur ga?",ask_booking_status
+Status booking jam 5 sore apa?,ask_booking_status
+"Halo, cek status servis 25 Mei!",ask_booking_status
+"Cek booking tanggal 21 Mei, bro!",ask_booking_status
+Saya pengen cek status booking sore!,ask_booking_status
+"Bro, booking gue udah masuk sistem?",ask_booking_status
+Status servis hari Minggu apa ya?,ask_booking_status
+"Halo, booking gue udah fix ga?",ask_booking_status
+Cek status booking jam 11 pagi!,ask_booking_status
+Saya mau cek booking 24 Mei!,ask_booking_status
+"Bro, detail booking gue apa aja?",ask_booking_details
+Bisa kasih detail booking 20 Mei?,ask_booking_details
+"Saya mau tahu detail booking, bro!",ask_booking_details
+Booking hari Jumat detailnya apa?,ask_booking_details
+"Halo, detail booking gue dong!",ask_booking_details
+"Cek detail booking besok, bro!",ask_booking_details
+Saya pengen tahu detail servis!,ask_booking_details
+Detail booking jam 10 pagi apa?,ask_booking_details
+"Halo, kasih detail booking gue!",ask_booking_details
+"Detail booking tanggal 23 Mei, bro!",ask_booking_details
+Saya mau cek detail booking sore!,ask_booking_details
+"Bro, booking gue detailnya apa?",ask_booking_details
+Detail servis hari Sabtu apa ya?,ask_booking_details
+"Halo, detail booking gue apa bro?",ask_booking_details
+Cek detail booking jam 2 siang!,ask_booking_details
+Saya pengen tahu detail 21 Mei!,ask_booking_details
+"Bro, detail booking tanggal 22 apa?",ask_booking_details
+Detail servis besok apa aja?,ask_booking_details
+"Halo, kasih detail booking gue dong!",ask_booking_details
+Cek detail booking hari Senin!,ask_booking_details
+Saya mau tahu detail booking gue!,ask_booking_details
+"Bro, detail booking jam 4 sore apa?",ask_booking_details
+Detail servis tanggal 25 Mei apa?,ask_booking_details
+"Halo, cek detail booking gue ya!",ask_booking_details
+"Cek detail booking 24 Mei, bro!",ask_booking_details
+Saya pengen tahu detail servis pagi!,ask_booking_details
+Detail booking hari Rabu apa bro?,ask_booking_details
+"Halo, kasih detail servis gue!",ask_booking_details
+Cek detail booking jam 9 pagi!,ask_booking_details
+Saya mau cek detail 26 Mei!,ask_booking_details
+"Bro, detail booking tanggal 20 apa?",ask_booking_details
+Detail servis sore ini apa aja?,ask_booking_details
+Cek detail booking hari Kamis!,ask_booking_details
+Saya pengen cek detail booking!,ask_booking_details
+"Bro, detail booking jam 3 siang apa?",ask_booking_details
+Detail servis tanggal 23 Mei apa?,ask_booking_details
+"Cek detail booking 22 Mei, bro!",ask_booking_details
+Saya mau tahu detail servis besok!,ask_booking_details
+"Bro, detail booking gue lengkap ga?",ask_booking_details
+Detail booking jam 5 sore apa?,ask_booking_details
+"Halo, cek detail servis 25 Mei!",ask_booking_details
+Cek detail booking tanggal 21 Mei!,ask_booking_details
+Saya pengen cek detail booking sore!,ask_booking_details
+"Bro, detail booking gue apa bro?",ask_booking_details
+Detail servis hari Minggu apa ya?,ask_booking_details
+"Halo, kasih detail booking gue oke!",ask_booking_details
+Cek detail booking jam 11 pagi!,ask_booking_details
+Saya mau cek detail 24 Mei!,ask_booking_details
+"Halo bro, apa kabar?",greeting
+"Selamat pagi, bengkel buka ga?",greeting
+"Hai, ada mekanik di situ?",greeting
+"Halo, apa kabar bengkelnya?",greeting
+"Selamat malam, masih buka ga?",greeting
+"Hey, apa kabar bro?",greeting
+"Assalamualaikum, bengkel oke?",greeting
+"Pagi, motor gue sehat ga ya?",greeting
+"Halo, siap bantu kendaraan gue?",greeting
+"Selamat siang, apa kabar mesin?",greeting
+"Hai, bengkel masih ramai ga?",greeting
+"Halo bro, kendaraan gue butuh cek!",greeting
+"Selamat sore, apa kabar ban gue?",greeting
+"Hey, mekanik andalan di mana?",greeting
+"Halo, apa kabar oli mesin?",greeting
+"Selamat pagi bro, siap servis?",greeting
+"Hai, apa kabar knalpot gue?",greeting
+"Halo, bengkel ready ga?",greeting
+"Selamat malam, butuh bantuan nih!",greeting
+"Hey, apa kabar rem motor gue?",greeting
+"Halo bro, kendaraan gue oke ga?",greeting
+"Selamat siang, apa kabar aki?",greeting
+"Hai, bengkel ada promo ga?",greeting
+"Halo, apa kabar suspensi mobil?",greeting
+"Selamat sore, siap cek mesin?",greeting
+"Hey, apa kabar karburator?",greeting
+"Halo, bengkel buka sampai jam berapa?",greeting
+"Selamat pagi, apa kabar busi?",greeting
+"Hai, apa kabar kampas rem?",greeting
+"Halo bro, kendaraan gue minta diservis!",greeting
+"Selamat malam, mekanik ada di tempat?",greeting
+"Hey, apa kabar rantai motor?",greeting
+"Halo, apa kabar bengkel favorit gue?",greeting
+"Selamat siang, siap bantu cek ban?",greeting
+"Hai, apa kabar lampu mobil?",greeting
+"Halo, apa kabar dinamo starter?",greeting
+"Selamat sore, apa kabar klakson?",greeting
+"Hey, apa kabar spion mobil gue?",greeting
+"Halo bro, bengkel rame ga hari ini?",greeting
+"Selamat pagi, apa kabar filter udara?",greeting
+"Hai, apa kabar injeksi mesin?",greeting
+"Halo, apa kabar pompa bensin?",greeting
+"Selamat malam, apa kabar radiator?",greeting
+"Hey, apa kabar bearing roda?",greeting
+"Halo, apa kabar transmisi mobil?",greeting
+"Selamat siang, apa kabar shockbreaker?",greeting
+"Hai, apa kabar velg motor?",greeting
+"Halo bro, apa kabar bensinnya?",greeting
+"Selamat sore, apa kabar kopling?",greeting
+"Hai, apa kabar setir mobil?",greeting
+"Halo, apa kabar bengkel di weekend?",greeting
+"Selamat pagi, apa kabar mekanik bro?",greeting
+"Hai, apa kabar bengkel virtual ini?",greeting
+"Oke, sampai jumpa bro!",end_or_pause_conversation
+"Makasih ya, dadah!",end_or_pause_conversation
+"Sampai ketemu lagi, bengkel top!",end_or_pause_conversation
+"Bye, ntar gue balik lagi!",end_or_pause_conversation
+"Terima kasih, sampai nanti!",end_or_pause_conversation
+"Dadah, keep up the good work!",end_or_pause_conversation
+"Sampai jumpa, bengkel andalan!",end_or_pause_conversation
+"Oke, gue cabut dulu ya!",end_or_pause_conversation
+"Makasih bro, sampai ketemu!",end_or_pause_conversation
+"Bye bye, servisnya mantap!",end_or_pause_conversation
+"Sampai nanti, jaga mesin gue!",end_or_pause_conversation
+"Terima kasih, balik lagi soon!",end_or_pause_conversation
+"Dadah, bengkelmu juara!",end_or_pause_conversation
+"Oke, sampai jumpa di servis berikutnya!",end_or_pause_conversation
+"Makasih banyak, bye bro!",end_or_pause_conversation
+"Sampai ketemu, kendaraan gue udah oke!",end_or_pause_conversation
+"Bye, bengkelmu bikin puas!",end_or_pause_conversation
+"Sampai jumpa, jangan lupa promo ya!",end_or_pause_conversation
+"Terima kasih, ntar gue mampir lagi!",end_or_pause_conversation
+"Dadah, hasil servisnya kinclong!",end_or_pause_conversation
+"Oke, cabut dulu, makasih!",end_or_pause_conversation
+"Makasih bro, sampai nanti!",end_or_pause_conversation
+"Sampai ketemu, ban gue udah mulus!",end_or_pause_conversation
+"Bye, bengkelmu selalu top!",end_or_pause_conversation
+"Sampai jumpa, oli gue udah diganti!",end_or_pause_conversation
+"Terima kasih, keep it up!",end_or_pause_conversation
+"Dadah, ntar gue kasih bintang lima!",end_or_pause_conversation
+"Oke, sampai nanti, bro!",end_or_pause_conversation
+"Makasih, servisnya cepet banget!",end_or_pause_conversation
+"Sampai ketemu, motor gue udah ngegas!",end_or_pause_conversation
+"Bye, bengkelmu bikin senang!",end_or_pause_conversation
+"Sampai jumpa, rem gue udah pakem!",end_or_pause_conversation
+"Terima kasih, balik lagi besok!",end_or_pause_conversation
+"Dadah, bengkelmu nomor satu!",end_or_pause_conversation
+"Oke, gue off dulu, makasih!",end_or_pause_conversation
+"Makasih bro, sampai jumpa lagi!",end_or_pause_conversation
+"Sampai ketemu, mobil gue udah oke!",end_or_pause_conversation
+"Bye, bengkelmu bikin takjub!",end_or_pause_conversation
+"Sampai nanti, aki gue udah full!",end_or_pause_conversation
+"Terima kasih, ntar gue review!",end_or_pause_conversation
+"Dadah, servisnya bikin puas!",end_or_pause_conversation
+"Oke, sampai jumpa, bro!",end_or_pause_conversation
+"Makasih, bengkelmu selalu ramah!",end_or_pause_conversation
+"Sampai ketemu, knalpot gue udah normal!",end_or_pause_conversation
+"Bye, ntar gue ajak temen!",end_or_pause_conversation
+"Sampai jumpa, kampas rem udah diganti!",end_or_pause_conversation
+"Terima kasih, bengkelmu mantap!",end_or_pause_conversation
+"Dadah, ntar gue balik buat servis rutin!",end_or_pause_conversation
+"Oke, cabut dulu, sampai nanti!",end_or_pause_conversation
+"Makasih bro, bengkelmu jadi andalan!",end_or_pause_conversation
+"Sampai ketemu, suspensi gue udah nyaman!",end_or_pause_conversation
+"Bye, bengkelmu bikin hari ini lancar!",end_or_pause_conversation
+"Makasih bro, infonya membantu banget!",thank_you
+"Terima kasih, bengkelmu top!",thank_you
+"Thanks ya, cepet banget responnya!",thank_you
+"Makasih banyak, jelas banget!",thank_you
+"Terima kasih bro, bengkel andalan!",thank_you
+"Thanks, infonya bikin gue paham!",thank_you
+"Makasih, servisnya mantap!",thank_you
+"Terima kasih, bantuanmu juara!",thank_you
+"Thanks bro, bengkelmu keren!",thank_you
+"Makasih banyak, cepet banget!",thank_you
+"Terima kasih, infonya berguna!",thank_you
+"Thanks, bengkelmu selalu oke!",thank_you
+"Makasih bro, responsnya cepet!",thank_you
+"Terima kasih, bengkelmu nomor satu!",thank_you
+"Thanks ya, jelasinnya detail!",thank_you
+"Makasih, bantuanmu bikin senang!",thank_you
+"Terima kasih, servisnya puas!",thank_you
+"Thanks bro, infonya pas banget!",thank_you
+"Makasih banyak, bengkelmu ramah!",thank_you
+"Terima kasih, cepet tanggap!",thank_you
+"Thanks, bengkelmu bikin nyaman!",thank_you
+"Makasih bro, infonya jelas!",thank_you
+"Terima kasih, bantuanmu mantap!",thank_you
+"Thanks ya, bengkelmu top markotop!",thank_you
+"Makasih, responsnya super cepet!",thank_you
+"Terima kasih, infonya bikin lega!",thank_you
+"Thanks bro, bengkelmu selalu membantu!",thank_you
+"Makasih banyak, servisnya oke!",thank_you
+"Terima kasih, bengkelmu juara!",thank_you
+"Thanks, infonya bikin gue tenang!",thank_you
+"Makasih bro, bantuanmu keren!",thank_you
+"Terima kasih, responsnya mantap!",thank_you
+"Thanks ya, bengkelmu bikin puas!",thank_you
+"Makasih, infonya bikin jelas!",thank_you
+"Terima kasih, bengkelmu ramah banget!",thank_you
+"Thanks bro, cepet banget bantuannya!",thank_you
+"Makasih banyak, infonya pas!",thank_you
+"Terima kasih, bengkelmu selalu top!",thank_you
+"Thanks, bantuanmu bikin senang!",thank_you
+"Makasih bro, servisnya kinclong!",thank_you
+"Terima kasih, infonya super berguna!",thank_you
+"Thanks ya, bengkelmu nomor satu!",thank_you
+"Makasih, responsnya bikin lega!",thank_you
+"Terima kasih, bengkelmu cepet tanggap!",thank_you
+"Thanks bro, infonya bikin nyaman!",thank_you
+"Makasih banyak, bantuanmu juara!",thank_you
+"Terima kasih, servisnya bikin puas!",thank_you
+"Thanks, bengkelmu selalu ramah!",thank_you
+"Makasih bro, infonya bikin tenang!",thank_you
+"Terima kasih, bengkelmu mantap banget!",thank_you
+"Thanks ya, bantuanmu super cepet!",thank_you
+"Makasih, infonya bikin gue happy!",thank_you
+"Maaf bro, salah ketik tadi!",apology
+"Sorry, gue bingung nanya apa!",apology
+"Maaf, pertanyaannya ga jelas ya?",apology
+"Mohon maaf, tadi typo nih!",apology
+"Sorry bro, gue salah input!",apology
+"Maaf, maksud gue ga gitu!",apology
+"Mohon maaf, pertanyaannya ribet!",apology
+"Sorry, gue ga jelas tadi!",apology
+"Maaf bro, salah nanya tadi!",apology
+"Mohon maaf, gue bingung sendiri!",apology
+"Sorry, tadi ga fokus nanya!",apology
+"Maaf, pertanyaannya acak banget!",apology
+"Mohon maaf, salah ketik nih!",apology
+"Sorry bro, gue ga jelas maksudnya!",apology
+"Maaf, tadi salah kasih info!",apology
+"Mohon maaf, pertanyaannya ga nyambung!",apology
+"Sorry, gue typo tadi bro!",apology
+"Maaf, maksud gue salah paham!",apology
+"Mohon maaf, tadi ga jelas nanya!",apology
+"Sorry bro, pertanyaannya aneh!",apology
+"Maaf, gue salah input data!",apology
+"Mohon maaf, tadi buru-buru!",apology
+"Sorry, pertanyaannya ga pas!",apology
+"Maaf bro, gue bingung nanya!",apology
+"Mohon maaf, salah ketik tadi!",apology
+"Sorry, tadi ga sengaja salah!",apology
+"Maaf, pertanyaannya ga jelas banget!",apology
+"Mohon maaf, gue typo nih!",apology
+"Sorry bro, tadi salah nanya!",apology
+"Maaf, maksud gue ga gitu bro!",apology
+"Mohon maaf, pertanyaannya ribet ya!",apology
+"Sorry, gue ga fokus tadi!",apology
+"Maaf, tadi salah kasih pertanyaan!",apology
+"Sorry bro, pertanyaannya acak!",apology
+"Maaf, tadi typo parah!",apology
+"Mohon maaf, salah input nih!",apology
+"Sorry, gue ga jelas tadi bro!",apology
+"Maaf, pertanyaannya ga nyambung!",apology
+"Mohon maaf, tadi buru-buru nanya!",apology
+"Sorry bro, gue salah maksud!",apology
+"Maaf, tadi ga sengaja typo!",apology
+"Mohon maaf, pertanyaannya aneh ya!",apology
+"Sorry, gue bingung sendiri tadi!",apology
+"Maaf, salah ketik bro!",apology
+"Mohon maaf, tadi ga jelas banget!",apology
+"Sorry, pertanyaannya ga pas bro!",apology
+"Maaf, gue typo tadi nih!",apology
+"Mohon maaf, salah nanya tadi!",apology
+"Sorry bro, tadi ga fokus!",apology
+"Maaf, pertanyaannya bikin bingung!",apology
+"Apa kabar bro, bengkel ramai?",greeting
+"Halo, mekaniknya sehat ga?",greeting
+"Hey, apa kabar bengkel hari ini?",greeting
+"Gimana kabarnya, bro?",greeting
+"Apa kabar, bengkel oke ga?",greeting
+"Halo, mekaniknya lagi apa?",greeting
+"Hey, apa kabar tim bengkel?",greeting
+"Gimana kabar bro, sibuk ga?",greeting
+"Apa kabar, bengkel masih top?",greeting
+"Halo, mekaniknya happy ga?",greeting
+"Hey, apa kabar bengkel virtual?",greeting
+"Gimana kabarnya, bro, rame?",greeting
+"Apa kabar, bengkel siap servis?",greeting
+"Halo, mekaniknya lagi santai?",greeting
+"Hey, apa kabar bengkel di weekend?",greeting
+"Gimana kabar bro, bengkel oke?",greeting
+"Apa kabar, mekanik masih semangat?",greeting
+"Halo, bengkelnya lagi apa?",greeting
+"Hey, apa kabar bro, sehat?",greeting
+"Gimana kabarnya, bengkel ramai?",greeting
+"Apa kabar, mekaniknya fit ga?",greeting
+"Halo, bengkelnya lagi sibuk?",greeting
+"Hey, apa kabar bro, bengkel top?",greeting
+"Gimana kabar, mekanik oke?",greeting
+"Apa kabar, bengkel masih jaya?",greeting
+"Halo, apa kabar tim mekanik?",greeting
+"Hey, gimana kabar bro, happy?",greeting
+"Apa kabar, bengkel siap ngegas?",greeting
+"Halo, mekaniknya lagi apa bro?",greeting
+"Gimana kabar, bengkel masih mantap?",greeting
+"Apa kabar, bro, bengkel oke?",greeting
+"Hey, apa kabar mekanik andalan?",greeting
+"Halo, gimana kabar bengkel hari ini?",greeting
+"Apa kabar, bro, masih semangat?",greeting
+"Gimana kabar, bengkel rame ga?",greeting
+"Halo, apa kabar mekanik bro?",greeting
+"Hey, apa kabar bengkel virtual ini?",greeting
+"Apa kabar, bro, bengkel siap?",greeting
+"Halo, gimana kabar tim bengkel?",greeting
+"Gimana kabar, mekanik sehat?",greeting
+"Apa kabar, bengkel masih kinclong?",greeting
+"Halo, apa kabar bro, bengkel oke?",greeting
+"Hey, gimana kabar mekanik hari ini?",greeting
+"Apa kabar, bro, bengkel ramai?",greeting
+"Halo, apa kabar bengkel di pagi ini?",greeting
+"Gimana kabar, mekanik masih top?",greeting
+"Apa kabar, bro, bengkel happy?",greeting
+"Halo, apa kabar bengkel malam ini?",greeting
+"Hey, gimana kabar bro, bengkel siap?",greeting
+"Apa kabar, mekanik lagi santai?",greeting
+"Halo, apa kabar bengkel di weekend?",greeting
+"Gimana kabar, bro, bengkel mantap?",greeting
+"Bro, berapa biaya servis motor matic?",ask_service_price
+"Halo, harga servis rutin mobil berapa?",ask_service_price
+"Cek mesin motor sport, harganya berapa?",ask_service_price
+"Saya mau tahu biaya ganti oli motor, bro!",ask_service_price
+Harga servis rem motor bebek berapa ya?,ask_service_price
+"Berapa biaya cek aki mobil, bro?",ask_service_price
+"Halo, servis suspensi motor berapa harganya?",ask_service_price
+Biaya servis matic Honda Beat berapa?,ask_service_price
+"Bro, harga ganti kampas rem motor berapa?",ask_service_price
+Saya pengen tahu biaya servis karburator!,ask_service_price
+"Harga cek ban mobil berapa, bro?",ask_service_price
+Berapa biaya servis rutin motor sport?,ask_service_price
+"Halo, harga servis knalpot motor berapa?",ask_service_price
+Biaya ganti busi motor matic berapa?,ask_service_price
+"Bro, servis injeksi mesin harganya berapa?",ask_service_price
+Saya mau tahu harga servis radiator mobil!,ask_service_price
+"Harga servis moped berapa ya, bro?",ask_service_price
+Berapa biaya cek kopling motor matic?,ask_service_price
+"Halo, harga servis shockbreaker berapa?",ask_service_price
+Biaya servis motor Yamaha NMax berapa?,ask_service_price
+"Bro, berapa harga servis rantai motor?",ask_service_price
+Saya pengen tahu biaya servis lampu mobil!,ask_service_price
+Harga servis filter udara motor berapa?,ask_service_price
+"Berapa biaya ganti oli mobil, bro?",ask_service_price
+"Halo, servis transmisi mobil harganya berapa?",ask_service_price
+Biaya servis motor bebek Suzuki berapa?,ask_service_price
+"Bro, harga cek bearing roda berapa?",ask_service_price
+Saya mau tahu biaya servis velg motor!,ask_service_price
+Harga servis pompa bensin mobil berapa?,ask_service_price
+"Berapa biaya servis rutin matic, bro?",ask_service_price
+"Halo, harga servis klakson mobil berapa?",ask_service_price
+Biaya ganti spion motor berapa ya?,ask_service_price
+"Bro, servis dinamo starter harganya berapa?",ask_service_price
+Saya pengen tahu harga servis full motor!,ask_service_price
+Harga servis rem ABS mobil berapa?,ask_service_price
+Berapa biaya cek injeksi motor matic?,ask_service_price
+"Halo, servis setir mobil harganya berapa?",ask_service_price
+Biaya servis motor Kawasaki Ninja berapa?,ask_service_price
+"Bro, harga servis rantai keteng berapa?",ask_service_price
+Saya mau tahu biaya servis AC mobil!,ask_service_price
+Harga servis tune-up motor berapa?,ask_service_price
+Berapa biaya servis karburator motor bebek?,ask_service_price
+"Halo, harga servis ban tubeless berapa?",ask_service_price
+"Biaya servis motor Vario berapa, bro?",ask_service_price
+"Bro, berapa harga servis kopling mobil?",ask_service_price
+Saya pengen tahu biaya servis lampu rem!,ask_service_price
+Harga servis full tune-up mobil berapa?,ask_service_price
+Berapa biaya servis shock depan motor?,ask_service_price
+"Halo, harga servis wiper mobil berapa?",ask_service_price
+Biaya servis rantai motor sport berapa?,ask_service_price
+"Bro, berapa harga servis radiator motor?",ask_service_price
+"Bro, harga oli mesin motor berapa?",ask_sparepart_price
+"Halo, berapa harga kampas rem motor matic?",ask_sparepart_price
+Saya mau tahu harga busi motor sport!,ask_sparepart_price
+"Harga aki mobil berapa ya, bro?",ask_sparepart_price
+"Berapa harga ban motor matic, bro?",ask_sparepart_price
+"Bro, harga rantai motor bebek berapa?",ask_sparepart_price
+"Halo, berapa harga filter udara motor?",ask_sparepart_price
+Saya pengen tahu harga knalpot aftermarket!,ask_sparepart_price
+"Harga spion motor matic berapa, bro?",ask_sparepart_price
+Berapa harga kopling motor sport?,ask_sparepart_price
+"Bro, harga lampu depan mobil berapa?",ask_sparepart_price
+"Halo, berapa harga bearing roda motor?",ask_sparepart_price
+Saya mau tahu harga velg motor matic!,ask_sparepart_price
+"Harga shockbreaker motor berapa, bro?",ask_sparepart_price
+Berapa harga karburator motor bebek?,ask_sparepart_price
+"Bro, harga dinamo starter motor berapa?",ask_sparepart_price
+"Halo, berapa harga radiator mobil?",ask_sparepart_price
+Saya pengen tahu harga pompa bensin motor!,ask_sparepart_price
+"Harga klakson motor matic berapa, bro?",ask_sparepart_price
+Berapa harga injektor motor sport?,ask_sparepart_price
+"Bro, harga wiper mobil berapa ya?",ask_sparepart_price
+"Halo, berapa harga kampas kopling motor?",ask_sparepart_price
+Saya mau tahu harga ban tubeless motor!,ask_sparepart_price
+Harga aki motor Yamaha NMax berapa?,ask_sparepart_price
+"Berapa harga lampu rem mobil, bro?",ask_sparepart_price
+"Bro, harga rantai keteng motor berapa?",ask_sparepart_price
+"Halo, berapa harga filter oli mobil?",ask_sparepart_price
+Saya pengen tahu harga velg aftermarket!,ask_sparepart_price
+"Harga busi iridium motor berapa, bro?",ask_sparepart_price
+Berapa harga spion mobil Honda?,ask_sparepart_price
+"Bro, harga shockbreaker belakang berapa?",ask_sparepart_price
+"Halo, berapa harga karburator aftermarket?",ask_sparepart_price
+Saya mau tahu harga dinamo starter mobil!,ask_sparepart_price
+"Harga knalpot racing motor berapa, bro?",ask_sparepart_price
+Berapa harga oli gardan motor matic?,ask_sparepart_price
+"Bro, harga lampu sein motor berapa?",ask_sparepart_price
+"Halo, berapa harga bearing roda mobil?",ask_sparepart_price
+Saya pengen tahu harga pompa air radiator!,ask_sparepart_price
+"Harga ban mobil Bridgestone berapa, bro?",ask_sparepart_price
+"Berapa harga rantai motor sport, bro?",ask_sparepart_price
+"Bro, harga klakson aftermarket berapa?",ask_sparepart_price
+"Halo, berapa harga injektor mobil?",ask_sparepart_price
+Saya mau tahu harga wiper aftermarket!,ask_sparepart_price
+Harga kampas rem belakang motor berapa?,ask_sparepart_price
+"Berapa harga filter udara mobil, bro?",ask_sparepart_price
+"Bro, harga busi mobil Toyota berapa?",ask_sparepart_price
+"Halo, berapa harga velg racing motor?",ask_sparepart_price
+Saya pengen tahu harga oli mesin mobil!,ask_sparepart_price
+Harga shock depan motor matic berapa?,ask_sparepart_price
+"Berapa harga lampu LED motor, bro?",ask_sparepart_price
+"Bro, harga rantai timing motor berapa?",ask_sparepart_price
+"Bro, ada diskon servis motor gak?",ask_discount_info
+"Halo, promo apa yang lagi berlaku?",ask_discount_info
+Saya mau tahu info diskon ganti oli!,ask_discount_info
+"Ada promo servis mobil bulan ini, bro?",ask_discount_info
+Berapa diskon buat servis rutin matic?,ask_discount_info
+"Bro, ada promo ganti ban motor gak?",ask_discount_info
+"Halo, diskon servis motor sport berapa?",ask_discount_info
+Saya pengen tahu promo servis AC mobil!,ask_discount_info
+"Ada diskon buat ganti kampas rem, bro?",ask_discount_info
+Promo servis motor matic apa aja ya?,ask_discount_info
+"Bro, diskon ganti busi motor berapa?",ask_discount_info
+"Halo, ada promo servis rem mobil gak?",ask_discount_info
+Saya mau tahu info diskon tune-up motor!,ask_discount_info
+"Diskon servis motor bebek ada gak, bro?",ask_discount_info
+Berapa promo buat servis injeksi motor?,ask_discount_info
+"Bro, ada diskon ganti oli mobil gak?",ask_discount_info
+"Halo, promo servis radiator mobil apa?",ask_discount_info
+Saya pengen tahu diskon servis full motor!,ask_discount_info
+"Ada promo ganti aki motor, bro?",ask_discount_info
+Diskon servis shockbreaker berapa ya?,ask_discount_info
+"Bro, promo servis motor NMax ada gak?",ask_discount_info
+"Halo, ada diskon buat ganti rantai motor?",ask_discount_info
+Saya mau tahu promo servis lampu mobil!,ask_discount_info
+"Diskon servis karburator ada gak, bro?",ask_discount_info
+Berapa promo ganti ban tubeless motor?,ask_discount_info
+"Bro, ada diskon servis kopling mobil gak?",ask_discount_info
+"Halo, promo servis velg motor apa aja?",ask_discount_info
+Saya pengen tahu diskon ganti knalpot!,ask_discount_info
+"Ada promo servis motor sport, bro?",ask_discount_info
+Diskon ganti filter udara berapa ya?,ask_discount_info
+"Bro, promo servis rutin mobil ada gak?",ask_discount_info
+"Halo, ada diskon buat servis wiper mobil?",ask_discount_info
+Saya mau tahu promo ganti spion motor!,ask_discount_info
+Diskon servis dinamo starter ada gak?,ask_discount_info
+"Berapa promo servis rem ABS mobil, bro?",ask_discount_info
+"Bro, ada diskon ganti oli gardan gak?",ask_discount_info
+"Halo, promo servis rantai keteng apa?",ask_discount_info
+Saya pengen tahu diskon servis ban mobil!,ask_discount_info
+"Diskon servis motor Vario ada gak, bro?",ask_discount_info
+Berapa promo ganti lampu LED motor?,ask_discount_info
+"Bro, ada diskon servis full tune-up gak?",ask_discount_info
+"Halo, promo servis klakson mobil apa?",ask_discount_info
+Saya mau tahu diskon ganti busi iridium!,ask_discount_info
+Diskon servis injektor motor ada gak?,ask_discount_info
+Berapa promo servis shock depan motor?,ask_discount_info
+"Bro, ada diskon ganti kampas kopling gak?",ask_discount_info
+"Halo, promo servis motor Kawasaki apa?",ask_discount_info
+Saya pengen tahu diskon servis radiator!,ask_discount_info
+"Diskon servis lampu rem ada gak, bro?",ask_discount_info
+Berapa promo ganti oli mesin mobil?,ask_discount_info
+"Bro, ada diskon servis tune-up motor gak?",ask_discount_info
+"Bro, bisa bayar servis pake QRIS gak?",ask_payment_methods
+"Halo, metode pembayaran apa aja yang diterima?",ask_payment_methods
+Saya mau tahu cara bayar servis motor!,ask_payment_methods
+"Bisa bayar ganti oli pake kartu kredit, bro?",ask_payment_methods
+Metode pembayaran buat servis mobil apa aja?,ask_payment_methods
+"Bro, bisa bayar cash untuk servis matic gak?",ask_payment_methods
+"Halo, ada opsi bayar pake GoPay gak?",ask_payment_methods
+Saya pengen tahu bayar servis bisa transfer?,ask_payment_methods
+"Bisa bayar servis motor pake OVO, bro?",ask_payment_methods
+Metode pembayaran buat ganti ban apa aja?,ask_payment_methods
+"Bro, bisa bayar servis pake debit gak?",ask_payment_methods
+"Halo, bayar servis mobil bisa pake ShopeePay?",ask_payment_methods
+Saya mau tahu opsi bayar buat ganti busi!,ask_payment_methods
+"Bisa bayar cash aja buat servis motor, bro?",ask_payment_methods
+Metode pembayaran servis rem mobil apa aja?,ask_payment_methods
+"Bro, bisa bayar servis pake DANA gak?",ask_payment_methods
+"Halo, bayar ganti aki bisa kartu kredit gak?",ask_payment_methods
+Saya pengen tahu cara bayar servis rutin!,ask_payment_methods
+"Bisa bayar servis motor pake LinkAja, bro?",ask_payment_methods
+Metode pembayaran buat ganti oli mobil apa?,ask_payment_methods
+"Bro, bisa bayar servis pake transfer bank gak?",ask_payment_methods
+"Halo, bayar servis knalpot bisa QRIS gak?",ask_payment_methods
+Saya mau tahu opsi bayar buat ganti kampas rem!,ask_payment_methods
+"Bisa bayar cash untuk servis shockbreaker, bro?",ask_payment_methods
+Metode pembayaran servis AC mobil apa aja?,ask_payment_methods
+"Bro, bisa bayar servis pake kartu debit gak?",ask_payment_methods
+"Halo, bayar ganti velg bisa pake GoPay gak?",ask_payment_methods
+Saya pengen tahu cara bayar servis radiator!,ask_payment_methods
+"Bisa bayar servis motor pake ShopeePay, bro?",ask_payment_methods
+Metode pembayaran buat ganti rantai apa aja?,ask_payment_methods
+"Bro, bisa bayar servis pake OVO gak?",ask_payment_methods
+"Halo, bayar servis lampu mobil bisa transfer?",ask_payment_methods
+Saya mau tahu opsi bayar buat servis karburator!,ask_payment_methods
+"Bisa bayar cash aja buat servis injektor, bro?",ask_payment_methods
+Metode pembayaran servis tune-up apa aja?,ask_payment_methods
+"Halo, bayar ganti wiper bisa kartu kredit gak?",ask_payment_methods
+Saya pengen tahu cara bayar servis full motor!,ask_payment_methods
+Metode pembayaran buat ganti spion apa aja?,ask_payment_methods
+"Halo, bayar servis rem ABS bisa transfer gak?",ask_payment_methods
+Saya mau tahu opsi bayar buat ganti oli gardan!,ask_payment_methods
+"Bisa bayar cash untuk servis rantai keteng, bro?",ask_payment_methods
+Metode pembayaran servis ban mobil apa aja?,ask_payment_methods
+"Bro, bisa bayar servis pake GoPay gak?",ask_payment_methods
+"Halo, bayar servis klakson bisa kartu debit gak?",ask_payment_methods
+Saya pengen tahu cara bayar servis lampu rem!,ask_payment_methods
+Metode pembayaran buat ganti busi iridium apa?,ask_payment_methods
+"Bro, mesin motor gue bunyi aneh banget!",report_symptom_or_complaint
+"Halo, rem mobil saya kok blong, nih!",report_symptom_or_complaint
+"Saya mau komplain, motor matic sering mati!",report_symptom_or_complaint
+"Suspensi motor sport gue keras banget, bro!",report_symptom_or_complaint
+"Mobil saya berisik pas nyala, apa itu?",report_symptom_or_complaint
+"Bro, aki motor cepet banget habis!",report_symptom_or_complaint
+"Halo, knalpot motor gue bocor, dong!",report_symptom_or_complaint
+"Saya pengen komplain, lampu mobil ga nyala!",report_symptom_or_complaint
+"Kopling motor bebek gue selip, bro!",report_symptom_or_complaint
+"Mesin mobil panas banget, kenapa ya?",report_symptom_or_complaint
+"Bro, ban motor matic gue gampang kempes!",report_symptom_or_complaint
+"Halo, karburator motor sering mampet!",report_symptom_or_complaint
+"Saya mau lapor, AC mobil ga dingin!",report_symptom_or_complaint
+"Rantai motor sport gue kendor terus, bro!",report_symptom_or_complaint
+"Mobil saya geter pas ngegas, apa itu?",report_symptom_or_complaint
+"Bro, oli mesin motor cepet banget habis!",report_symptom_or_complaint
+"Halo, spion mobil gue lelet geraknya!",report_symptom_or_complaint
+"Saya pengen komplain, rem motor bunyi!",report_symptom_or_complaint
+"Shockbreaker motor matic rusak, bro!",report_symptom_or_complaint
+Mesin motor bebek gue ga bertenaga!,report_symptom_or_complaint
+"Bro, wiper mobil ga jalan, nih!",report_symptom_or_complaint
+"Halo, lampu sein motor mati sebelah!",report_symptom_or_complaint
+"Saya mau komplain, radiator mobil bocor!",report_symptom_or_complaint
+Knalpot motor sport gue asapnya tebel!,report_symptom_or_complaint
+"Mobil saya susah distarter, kenapa ya?",report_symptom_or_complaint
+"Bro, handle rem motor keras banget!",report_symptom_or_complaint
+"Halo, velg motor gue bengkok, dong!",report_symptom_or_complaint
+"Saya pengen lapor, injeksi motor bermasalah!",report_symptom_or_complaint
+"Ban mobil sering bocor, apa itu, bro?",report_symptom_or_complaint
+Mesin motor matic gue overheat terus!,report_symptom_or_complaint
+"Bro, klakson mobil ga bunyi sama sekali!",report_symptom_or_complaint
+"Halo, rantai keteng motor berisik banget!",report_symptom_or_complaint
+"Saya mau komplain, setir mobil berat!",report_symptom_or_complaint
+"Suspensi mobil bunyi jeduk-jeduk, bro!",report_symptom_or_complaint
+"Motor sport gue tarikannya lelet, kenapa?",report_symptom_or_complaint
+"Bro, lampu rem motor ga nyala!",report_symptom_or_complaint
+"Halo, pompa bensin mobil bermasalah!",report_symptom_or_complaint
+"Saya pengen komplain, karburator banjir!",report_symptom_or_complaint
+"Busi motor bebek gue cepet mati, bro!",report_symptom_or_complaint
+"Mobil saya bau bensin, kenapa ya?",report_symptom_or_complaint
+"Bro, shock depan motor bocor oli!",report_symptom_or_complaint
+"Halo, dinamo starter motor ga jalan!",report_symptom_or_complaint
+"Saya mau lapor, rem ABS mobil error!",report_symptom_or_complaint
+"Rantai motor matic gue putus, bro!",report_symptom_or_complaint
+"Mobil saya geter pas idle, apa itu?",report_symptom_or_complaint
+"Bro, injektor motor matic mampet!",report_symptom_or_complaint
+"Halo, lampu dashboard mobil mati!",report_symptom_or_complaint
+"Saya pengen komplain, kopling mobil selip!",report_symptom_or_complaint
+"Ban motor sport gue aus cepet, bro!",report_symptom_or_complaint
+"Mesin mobil bunyi tik-tik, kenapa ya?",report_symptom_or_complaint
+"Bro, filter udara motor kotor banget!",report_symptom_or_complaint
+"Halo, transmisi mobil bunyi aneh!",report_symptom_or_complaint
+"Bro, motor gue bunyi kletek-kletek pas jalan!",report_symptom_or_complaint
+"Halo, mobil saya goyang pas ngerem!",report_symptom_or_complaint
+Motor matic gue tarikannya berat banget!,report_symptom_or_complaint
+Saya dengar bunyi gemeretak dari ban mobil!,report_symptom_or_complaint
+"Mesin motor sport panas, asap keluar!",report_symptom_or_complaint
+"Bro, rem motor bebek gue bunyi cit-cit!",report_symptom_or_complaint
+"Halo, AC mobil dingin cuma 5 menit!",report_symptom_or_complaint
+Saya notice motor matic mati tiba-tiba!,report_symptom_or_complaint
+Kopling motor sport gue keras pas ditarik!,report_symptom_or_complaint
+"Mobil saya bau gosong pas nyala, bro!",report_symptom_or_complaint
+"Bro, rantai motor bebek bunyi kletuk-kletuk!",report_symptom_or_complaint
+"Halo, lampu depan motor redup banget!",report_symptom_or_complaint
+Saya lihat oli motor bocor di bawah!,report_symptom_or_complaint
+Suspensi mobil bunyi gluduk pas lewat polisi tidur!,report_symptom_or_complaint
+"Motor matic gue geter pas idle, bro!",report_symptom_or_complaint
+"Bro, setir mobil bergetar pas ngebut!",report_symptom_or_complaint
+"Halo, knalpot motor keluar asap putih!",report_symptom_or_complaint
+Saya dengar bunyi decit dari rem mobil!,report_symptom_or_complaint
+Shockbreaker motor sport keras banget!,report_symptom_or_complaint
+"Mobil saya susah pindah gigi, bro!",report_symptom_or_complaint
+"Bro, aki motor drop tiap malem!",report_symptom_or_complaint
+"Halo, karburator motor banjir pas gas!",report_symptom_or_complaint
+Saya notice mesin mobil bunyi kasar!,report_symptom_or_complaint
+Lampu sein motor nyala cuma sebelah!,report_symptom_or_complaint
+Motor bebek gue boros bensin banget!,report_symptom_or_complaint
+"Bro, wiper mobil cuma gerak pelan!",report_symptom_or_complaint
+"Halo, rantai keteng motor bunyi terus!",report_symptom_or_complaint
+Saya lihat ban mobil kempes sebelah!,report_symptom_or_complaint
+Mesin motor matic panas pas macet!,report_symptom_or_complaint
+Mobil saya geter pas gas di 80 km/jam!,report_symptom_or_complaint
+"Bro, klakson motor lelet bunyinya!",report_symptom_or_complaint
+"Halo, injektor motor bunyi aneh pas nyala!",report_symptom_or_complaint
+Saya dengar bunyi ketukan dari mesin mobil!,report_symptom_or_complaint
+Suspensi motor bebek amblas pas bonceng!,report_symptom_or_complaint
+Motor sport gue mati pas di lampu merah!,report_symptom_or_complaint
+"Bro, lampu rem mobil redup banget!",report_symptom_or_complaint
+"Halo, pompa bensin motor lelet nyedot!",report_symptom_or_complaint
+Saya notice setir mobil miring ke kiri!,report_symptom_or_complaint
+Rantai motor matic kendor tiap minggu!,report_symptom_or_complaint
+"Mobil saya bau oli pas AC nyala, bro!",report_symptom_or_complaint
+"Bro, shock depan motor bunyi glodak-glodak!",report_symptom_or_complaint
+"Halo, dinamo starter mobil cuma bunyi klik!",report_symptom_or_complaint
+Saya lihat asap hitam dari knalpot motor!,report_symptom_or_complaint
+"Rem motor sport gue ga pakem, bro!",report_symptom_or_complaint
+Mobil saya bunyi aneh pas belok!,report_symptom_or_complaint
+"Bro, filter udara motor bikin sesak mesin!",report_symptom_or_complaint
+"Halo, transmisi mobil tersendat pas pindah!",report_symptom_or_complaint
+Saya notice ban motor sport licin di basah!,report_symptom_or_complaint
+Mesin motor bebek bunyi ngorok pas gas!,report_symptom_or_complaint
+"Mobil saya geter pas rpm rendah, bro!",report_symptom_or_complaint
+"Bro, lampu dashboard motor ga nyala!",report_symptom_or_complaint
+"Halo, kopling motor matic slip pas nanjak!",report_symptom_or_complaint
+"Bro, mesin mobil bunyi aneh, cara benerinnya?",ask_troubleshooting
+"Halo, motor matic mati tiba-tiba, apa solusinya?",ask_troubleshooting
+Saya mau tahu cara atasi rem mobil blong!,ask_troubleshooting
+"Ban motor kempes terus, gimana benerinnya, bro?",ask_troubleshooting
+"Mobil saya geter pas ngegas, apa yang salah?",ask_troubleshooting
+"Bro, aki motor cepet habis, solusinya apa?",ask_troubleshooting
+"Halo, knalpot motor bocor, cara perbaikinya?",ask_troubleshooting
+Saya pengen tahu cara benerin lampu mobil mati!,ask_troubleshooting
+"Kopling motor selip, apa yang harus dicek?",ask_troubleshooting
+"Mesin mobil panas banget, solusi apa, bro?",ask_troubleshooting
+"Bro, rantai motor kendor, cara ngatasinnya?",ask_troubleshooting
+"Halo, karburator motor mampet, apa solusinya?",ask_troubleshooting
+"Saya mau atasi AC mobil ga dingin, gimana?",ask_troubleshooting
+"Suspensi motor bunyi, benerinnya gimana, bro?",ask_troubleshooting
+"Mobil saya susah distarter, apa yang dilakukan?",ask_troubleshooting
+"Bro, rem motor bunyi, cara ngilanginnya apa?",ask_troubleshooting
+"Halo, shockbreaker motor rusak, solusi apa?",ask_troubleshooting
+Saya pengen tahu cara benerin mesin motor lelet!,ask_troubleshooting
+"Wiper mobil ga jalan, gimana benerinnya, bro?",ask_troubleshooting
+"Lampu sein motor mati, apa yang harus diperbaiki?",ask_troubleshooting
+"Bro, radiator mobil bocor, solusinya apa?",ask_troubleshooting
+"Halo, knalpot motor asap tebel, cara atasinya?",ask_troubleshooting
+Saya mau tahu cara benerin setir mobil berat!,ask_troubleshooting
+"Rantai keteng motor berisik, gimana ngatasinnya?",ask_troubleshooting
+"Mobil saya bau bensin, apa solusinya, bro?",ask_troubleshooting
+"Bro, injektor motor mampet, cara bersihinnya?",ask_troubleshooting
+"Halo, lampu dashboard mobil mati, apa yang dicek?",ask_troubleshooting
+"Saya pengen atasi kopling mobil selip, gimana?",ask_troubleshooting
+"Ban motor aus cepet, solusi apa, bro?",ask_troubleshooting
+"Mesin motor overheat, cara ngatasinnya apa?",ask_troubleshooting
+"Bro, klakson mobil ga bunyi, benerinnya gimana?",ask_troubleshooting
+"Halo, velg motor bengkok, apa solusinya?",ask_troubleshooting
+Saya mau tahu cara benerin rem ABS mobil error!,ask_troubleshooting
+"Rantai motor putus, gimana ngatasinnya, bro?",ask_troubleshooting
+"Mobil geter pas idle, apa yang harus diperbaiki?",ask_troubleshooting
+"Bro, lampu rem motor ga nyala, solusi apa?",ask_troubleshooting
+"Halo, pompa bensin mobil bermasalah, cara benerin?",ask_troubleshooting
+Saya pengen tahu cara atasi karburator banjir!,ask_troubleshooting
+"Busi motor cepet mati, apa yang salah, bro?",ask_troubleshooting
+"Mobil bau oli, gimana cara ngatasinnya?",ask_troubleshooting
+"Bro, shock depan motor bocor, solusi apa?",ask_troubleshooting
+"Halo, dinamo starter motor ga jalan, apa solusinya?",ask_troubleshooting
+"Saya mau atasi rem motor keras, gimana caranya?",ask_troubleshooting
+"Injeksi motor bunyi aneh, benerinnya gimana?",ask_troubleshooting
+"Mobil bunyi tik-tik dari mesin, apa solusinya?",ask_troubleshooting
+"Bro, filter udara motor kotor, cara bersihinnya?",ask_troubleshooting
+"Halo, transmisi mobil bunyi, apa yang diperbaiki?",ask_troubleshooting
+Saya pengen tahu cara benerin ban mobil bocor!,ask_troubleshooting
+"Mesin motor ngorok, solusi apa, bro?",ask_troubleshooting
+"Mobil geter pas rpm rendah, gimana ngatasinnya?",ask_troubleshooting
+"Bro, lampu dashboard motor mati, apa solusinya?",ask_troubleshooting
+"Halo, kopling motor slip, cara benerinnya apa?",ask_troubleshooting
+"Bro, saran perawatan motor matic apa ya?",request_service_advice
+"Halo, tips jaga mesin mobil biar awet?",request_service_advice
+Saya mau tahu cara rawat rem motor bebek!,request_service_advice
+"Apa saran buat perawatan ban mobil, bro?",request_service_advice
+Tips merawat motor sport biar ga cepet rusak?,request_service_advice
+"Bro, cara jaga aki motor supaya tahan lama?",request_service_advice
+"Halo, saran perawatan knalpot motor apa?",request_service_advice
+Saya pengen tahu tips rawat lampu mobil!,request_service_advice
+Apa saran buat jaga kopling motor bebek?,request_service_advice
+"Tips perawatan mesin mobil, apa aja, bro?",request_service_advice
+"Bro, cara rawat rantai motor sport gimana?",request_service_advice
+"Halo, saran jaga karburator motor biar awet?",request_service_advice
+Saya mau tahu tips perawatan AC mobil!,request_service_advice
+"Apa saran buat rawat suspensi motor, bro?",request_service_advice
+"Tips jaga mesin motor matic, apa aja?",request_service_advice
+"Bro, cara rawat setir mobil supaya enteng?",request_service_advice
+"Halo, saran perawatan shockbreaker motor?",request_service_advice
+Saya pengen tahu tips jaga radiator mobil!,request_service_advice
+"Apa saran buat rawat ban motor matic, bro?",request_service_advice
+"Tips perawatan wiper mobil, apa aja?",request_service_advice
+"Bro, cara jaga lampu sein motor biar awet?",request_service_advice
+"Halo, saran rawat rantai keteng motor?",request_service_advice
+Saya mau tahu tips perawatan velg mobil!,request_service_advice
+"Apa saran buat jaga injeksi motor, bro?",request_service_advice
+"Tips rawat rem ABS mobil, apa aja?",request_service_advice
+"Bro, cara jaga klakson motor supaya tahan?",request_service_advice
+"Halo, saran perawatan pompa bensin mobil?",request_service_advice
+Saya pengen tahu tips rawat busi motor!,request_service_advice
+"Apa saran buat jaga shock depan motor, bro?",request_service_advice
+"Tips perawatan dinamo starter mobil, apa?",request_service_advice
+"Bro, cara rawat filter udara motor gimana?",request_service_advice
+"Halo, saran jaga transmisi mobil biar awet?",request_service_advice
+Saya mau tahu tips rawat lampu rem motor!,request_service_advice
+Apa saran buat jaga karburator motor bebek?,request_service_advice
+"Tips rawat ban tubeless motor, apa aja, bro?",request_service_advice
+"Bro, cara jaga oli mesin mobil supaya awet?",request_service_advice
+"Halo, saran perawatan spion mobil apa?",request_service_advice
+Saya pengen tahu tips jaga rantai motor!,request_service_advice
+Apa saran buat rawat knalpot racing motor?,request_service_advice
+"Tips perawatan kopling mobil, apa aja, bro?",request_service_advice
+"Bro, cara jaga velg aftermarket motor?",request_service_advice
+"Halo, saran rawat lampu LED motor biar awet?",request_service_advice
+Saya mau tahu tips jaga injektor mobil!,request_service_advice
+"Apa saran buat rawat rem motor sport, bro?",request_service_advice
+"Tips rawat rantai timing motor, apa aja?",request_service_advice
+"Bro, cara jaga filter oli mobil gimana?",request_service_advice
+"Halo, saran perawatan shock belakang motor?",request_service_advice
+Saya pengen tahu tips jaga busi iridium!,request_service_advice
+Apa saran buat rawat mesin motor Vario?,request_service_advice
+"Tips perawatan radiator motor, apa aja, bro?",request_service_advice
+"Bro, cara jaga lampu dashboard mobil?",request_service_advice
+"Halo, saran rawat kopling motor matic?",request_service_advice
+"Bro, bisa hubungin ke CS langsung gak?",request_human_agent
+"Halo, saya mau bicara sama orang bengkel!",request_human_agent
+Saya pengen ngobrol sama customer service!,request_human_agent
+"Tolong sambungkan ke tim support, bro!",request_human_agent
+Bisa minta tolong ke orang langsung gak?,request_human_agent
+"Bro, hubungin ke mekanik bengkel dong!",request_human_agent
+"Halo, saya butuh bantuan dari CS asli!",request_human_agent
+Saya mau ngomong langsung sama petugas!,request_human_agent
+"Tolong sambungkan ke human support, bro!",request_human_agent
+"Bisa hubungin ke tim bengkel gak, bro?",request_human_agent
+"Bro, saya pengen bicara sama orang langsung!",request_human_agent
+"Halo, tolong sambung ke customer service!",request_human_agent
+"Saya butuh ngobrol sama mekanik, bro!",request_human_agent
+Bisa minta bantuan ke CS manusia gak?,request_human_agent
+"Bro, sambungin ke tim support bengkel!",request_human_agent
+"Halo, saya mau bicara sama petugas bengkel!",request_human_agent
+"Saya pengen ngomong langsung ke CS, bro!",request_human_agent
+"Tolong hubungkan ke orang bengkel, dong!",request_human_agent
+"Bisa sambung ke human CS gak, bro?",request_human_agent
+"Bro, saya butuh bantuan dari mekanik asli!",request_human_agent
+"Halo, tolong sambungkan ke tim support!",request_human_agent
+"Saya mau bicara sama orang, bukan bot!",request_human_agent
+Bisa hubungin ke petugas bengkel gak?,request_human_agent
+"Bro, sambungin ke CS langsung dong!",request_human_agent
+"Halo, saya pengen ngobrol sama manusia!",request_human_agent
+"Saya butuh bantuan dari tim bengkel, bro!",request_human_agent
+Tolong sambungkan ke mekanik langsung!,request_human_agent
+"Bisa minta tolong ke CS asli gak, bro?",request_human_agent
+"Bro, hubungin ke orang support bengkel!",request_human_agent
+"Halo, saya mau bicara sama tim CS!",request_human_agent
+Saya pengen ngomong sama petugas langsung!,request_human_agent
+Bisa sambung ke customer service manusia?,request_human_agent
+"Bro, tolong hubungin ke mekanik bengkel!",request_human_agent
+"Halo, saya butuh ngobrol sama orang CS!",request_human_agent
+Saya mau bicara langsung ke tim support!,request_human_agent
+"Tolong sambungkan ke CS bengkel, bro!",request_human_agent
+Bisa hubungin ke petugas manusia gak?,request_human_agent
+"Bro, saya pengen bantuan dari mekanik!",request_human_agent
+"Halo, sambungkan ke customer service dong!",request_human_agent
+Saya butuh ngomong sama orang bengkel!,request_human_agent
+Bisa minta bantuan ke tim CS langsung?,request_human_agent
+"Bro, tolong sambung ke human support!",request_human_agent
+"Halo, saya mau bicara sama mekanik asli!",request_human_agent
+Saya pengen ngobrol langsung sama CS!,request_human_agent
+"Tolong hubungkan ke petugas bengkel, bro!",request_human_agent
+"Bisa sambungin ke orang CS gak, bro?",request_human_agent
+"Bro, saya butuh bantuan dari tim manusia!",request_human_agent
+"Halo, sambungkan ke tim bengkel langsung!",request_human_agent
+"Saya mau bicara sama petugas, bukan bot!",request_human_agent
+"Bisa hubungin ke CS bengkel gak, bro?",request_human_agent
+"Bro, tolong sambung ke mekanik langsung!",request_human_agent
+"Halo, saya pengen ngomong sama orang!",request_human_agent
+"Bro, jenis servis apa aja yang ada di bengkel?",ask_service_types
+"Halo, layanan servis motor apa yang tersedia?",ask_service_types
+"Saya mau tahu jenis servis buat mobil, bro!",ask_service_types
+Ada servis apa aja buat motor matic?,ask_service_types
+"Jenis layanan buat motor sport apa, bro?",ask_service_types
+"Bro, bengkel ini bisa servis apa aja sih?",ask_service_types
+"Halo, apa aja servis yang kalian tawarkan?",ask_service_types
+Saya pengen tahu layanan servis rutin mobil!,ask_service_types
+"Servis buat motor bebek ada apa aja, bro?",ask_service_types
+Jenis servis buat ganti oli motor apa ya?,ask_service_types
+"Bro, ada servis khusus buat mobil diesel gak?",ask_service_types
+"Halo, layanan servis AC mobil ada gak?",ask_service_types
+Saya mau tahu jenis servis rem motor!,ask_service_types
+Servis apa aja yang bisa buat motor matic?,ask_service_types
+"Bro, bengkel ini punya servis tune-up gak?",ask_service_types
+Jenis layanan buat mobil tua apa aja?,ask_service_types
+"Halo, ada servis ganti ban motor gak?",ask_service_types
+Saya pengen tahu servis buat suspensi mobil!,ask_service_types
+Servis knalpot motor apa aja yang ada?,ask_service_types
+"Bro, layanan servis injeksi motor ada gak?",ask_service_types
+Jenis servis buat motor Yamaha NMax apa?,ask_service_types
+"Halo, ada servis khusus karburator gak?",ask_service_types
+Saya mau tahu layanan servis lampu mobil!,ask_service_types
+"Servis apa aja buat motor sport, bro?",ask_service_types
+"Bro, bengkel ini bisa servis kopling mobil?",ask_service_types
+Jenis layanan buat ganti aki motor apa?,ask_service_types
+"Halo, ada servis buat radiator mobil gak?",ask_service_types
+Saya pengen tahu servis buat motor Vario!,ask_service_types
+"Servis rem ABS mobil ada gak, bro?",ask_service_types
+"Bro, layanan servis rantai motor apa aja?",ask_service_types
+Jenis servis buat mobil Honda apa aja?,ask_service_types
+"Halo, ada servis ganti busi motor gak?",ask_service_types
+Saya mau tahu layanan servis velg mobil!,ask_service_types
+Servis apa aja yang tersedia buat moped?,ask_service_types
+"Bro, bengkel ini punya servis wiper mobil?",ask_service_types
+"Jenis layanan buat motor bebek apa, bro?",ask_service_types
+"Halo, ada servis khusus shockbreaker gak?",ask_service_types
+Saya pengen tahu servis buat transmisi mobil!,ask_service_types
+Servis karburator motor apa aja yang ada?,ask_service_types
+"Bro, layanan servis dinamo starter ada gak?",ask_service_types
+Jenis servis buat motor sport Kawasaki apa?,ask_service_types
+"Halo, ada servis ganti kampas rem gak?",ask_service_types
+Saya mau tahu layanan servis lampu LED motor!,ask_service_types
+"Servis apa aja buat mobil Toyota, bro?",ask_service_types
+"Bro, bengkel ini bisa servis injektor mobil?",ask_service_types
+Jenis layanan buat ganti spion motor apa?,ask_service_types
+"Halo, ada servis buat klakson mobil gak?",ask_service_types
+Saya pengen tahu servis buat motor Honda Beat!,ask_service_types
+"Servis rantai keteng motor ada gak, bro?",ask_service_types
+"Bro, layanan servis full tune-up apa aja?",ask_service_types
+Jenis servis buat mobil listrik apa aja?,ask_service_types
+"Halo, ada servis ganti oli gardan gak?",ask_service_types
+"Bro, servis motor matic berapa lama sih?",ask_service_duration
+"Halo, ganti oli mobil butuh waktu berapa?",ask_service_duration
+Saya mau tahu durasi servis rutin motor!,ask_service_duration
+"Servis rem motor bebek berapa jam, bro?",ask_service_duration
+Berapa lama servis AC mobil selesai?,ask_service_duration
+"Bro, cek mesin motor sport butuh berapa lama?",ask_service_duration
+"Halo, servis suspensi motor berapa menit?",ask_service_duration
+Saya pengen tahu lama servis ganti ban mobil!,ask_service_duration
+Servis knalpot motor matic berapa lama?,ask_service_duration
+"Bro, ganti kampas rem mobil butuh waktu apa?",ask_service_duration
+"Durasi servis injeksi motor berapa, bro?",ask_service_duration
+"Halo, servis radiator mobil lama gak?",ask_service_duration
+Saya mau tahu berapa lama servis karburator!,ask_service_duration
+Servis rantai motor sport butuh berapa jam?,ask_service_duration
+"Bro, servis tune-up mobil berapa lama sih?",ask_service_duration
+Lama servis ganti aki motor berapa menit?,ask_service_duration
+"Halo, servis velg motor butuh waktu berapa?",ask_service_duration
+Saya pengen tahu durasi servis lampu mobil!,ask_service_duration
+"Servis kopling motor bebek berapa lama, bro?",ask_service_duration
+"Bro, ganti busi motor matic cepet gak?",ask_service_duration
+Durasi servis rem ABS mobil berapa jam?,ask_service_duration
+"Halo, servis wiper mobil lama gak sih?",ask_service_duration
+Saya mau tahu lama servis shockbreaker motor!,ask_service_duration
+Servis dinamo starter mobil berapa lama?,ask_service_duration
+"Bro, servis rantai keteng butuh berapa menit?",ask_service_duration
+"Lama servis full tune-up motor berapa, bro?",ask_service_duration
+"Halo, servis transmisi mobil butuh waktu apa?",ask_service_duration
+Saya pengen tahu durasi servis motor Vario!,ask_service_duration
+Servis injektor mobil berapa lama selesai?,ask_service_duration
+"Bro, ganti spion motor cepet gak sih?",ask_service_duration
+Durasi servis klakson mobil berapa menit?,ask_service_duration
+"Halo, servis lampu LED motor lama gak?",ask_service_duration
+Saya mau tahu lama servis motor Yamaha NMax!,ask_service_duration
+Servis karburator motor bebek berapa jam?,ask_service_duration
+"Bro, servis ganti oli gardan butuh berapa lama?",ask_service_duration
+"Lama servis suspensi mobil berapa, bro?",ask_service_duration
+"Halo, servis rantai motor matic cepet gak?",ask_service_duration
+Saya pengen tahu durasi servis motor sport!,ask_service_duration
+Servis velg mobil berapa lama selesai?,ask_service_duration
+"Bro, servis ganti ban tubeless butuh berapa jam?",ask_service_duration
+Durasi servis pompa bensin mobil berapa?,ask_service_duration
+"Halo, servis lampu rem motor lama gak sih?",ask_service_duration
+Saya mau tahu lama servis motor Honda Beat!,ask_service_duration
+"Servis kopling mobil berapa lama, bro?",ask_service_duration
+"Bro, servis tune-up motor cepet gak?",ask_service_duration
+Lama servis radiator motor berapa menit?,ask_service_duration
+"Halo, servis ganti busi mobil butuh waktu apa?",ask_service_duration
+Saya pengen tahu durasi servis shock depan motor!,ask_service_duration
+Servis knalpot racing motor berapa lama?,ask_service_duration
+"Bro, servis full mobil butuh berapa jam?",ask_service_duration
+Durasi servis motor matic reguler berapa?,ask_service_duration
+"Halo, servis ganti filter udara lama gak?",ask_service_duration
+"Bro, bengkel kalian ada di mana aja?",ask_location_info
+"Halo, lokasi cabang bengkel di Jakarta apa?",ask_location_info
+Saya mau tahu alamat bengkel terdekat!,ask_location_info
+"Cabang bengkel di Bandung ada gak, bro?",ask_location_info
+Lokasi bengkel buat servis motor di mana?,ask_location_info
+"Bro, bengkel ini punya cabang di Surabaya?",ask_location_info
+"Halo, alamat bengkel di Bali apa aja?",ask_location_info
+Saya pengen tahu lokasi bengkel di Jogja!,ask_location_info
+"Bengkel terdekat dari Depok di mana, bro?",ask_location_info
+Cabang bengkel di Bekasi ada gak?,ask_location_info
+"Bro, alamat bengkel di Tangerang apa?",ask_location_info
+"Halo, bengkel kalian ada di Bogor gak?",ask_location_info
+Saya mau tahu lokasi cabang di Semarang!,ask_location_info
+"Bengkel buat mobil ada di mana aja, bro?",ask_location_info
+Lokasi bengkel di Medan apa aja?,ask_location_info
+"Bro, cabang bengkel di Makassar ada gak?",ask_location_info
+"Halo, alamat bengkel di Palembang di mana?",ask_location_info
+Saya pengen tahu bengkel terdekat di Solo!,ask_location_info
+"Bengkel motor matic ada di mana, bro?",ask_location_info
+Cabang bengkel di Malang apa aja?,ask_location_info
+"Bro, lokasi bengkel di Cirebon di mana?",ask_location_info
+"Halo, bengkel kalian punya cabang di Lampung?",ask_location_info
+Saya mau tahu alamat bengkel di Batam!,ask_location_info
+"Bengkel terdekat dari Jaksel di mana, bro?",ask_location_info
+Lokasi cabang bengkel di Manado ada gak?,ask_location_info
+"Bro, alamat bengkel di Denpasar apa?",ask_location_info
+"Halo, bengkel buat motor sport di mana aja?",ask_location_info
+Saya pengen tahu lokasi bengkel di Pekanbaru!,ask_location_info
+"Cabang bengkel di Samarinda ada gak, bro?",ask_location_info
+Lokasi bengkel di Banjarmasin di mana?,ask_location_info
+"Bro, bengkel terdekat dari Bekasi apa?",ask_location_info
+"Halo, alamat bengkel di Padang ada gak?",ask_location_info
+Saya mau tahu cabang bengkel di Surakarta!,ask_location_info
+"Bengkel mobil di Bandung ada di mana, bro?",ask_location_info
+Lokasi bengkel di Pontianak apa aja?,ask_location_info
+"Bro, cabang bengkel di Balikpapan di mana?",ask_location_info
+"Halo, bengkel kalian ada di Jambi gak?",ask_location_info
+Saya pengen tahu alamat bengkel di Purwokerto!,ask_location_info
+"Bengkel motor bebek ada di mana aja, bro?",ask_location_info
+Cabang bengkel di Tegal ada gak?,ask_location_info
+"Bro, lokasi bengkel di Yogyakarta apa?",ask_location_info
+"Halo, alamat bengkel di Cianjur di mana?",ask_location_info
+Saya mau tahu bengkel terdekat di Bogor!,ask_location_info
+"Bengkel buat motor matic di mana, bro?",ask_location_info
+Lokasi cabang bengkel di Aceh ada gak?,ask_location_info
+"Bro, alamat bengkel di Sukabumi apa?",ask_location_info
+"Halo, bengkel kalian punya cabang di Kendari?",ask_location_info
+Saya pengen tahu lokasi bengkel di Serang!,ask_location_info
+"Cabang bengkel di Mataram ada gak, bro?",ask_location_info
+Lokasi bengkel di Tasikmalaya di mana?,ask_location_info
+"Bro, bengkel terdekat dari Jakbar apa?",ask_location_info
+"Halo, alamat bengkel di Kudus ada gak?",ask_location_info
+"Bro, bengkel buka jam berapa sih?",ask_workshop_hours
+"Halo, jam operasional bengkel apa aja?",ask_workshop_hours
+"Saya mau tahu jam buka bengkel, bro!",ask_workshop_hours
+"Bengkel tutup jam berapa, bro?",ask_workshop_hours
+"Jam buka bengkel di Jakarta apa, bro?",ask_workshop_hours
+"Bro, bengkel buka hari Minggu gak?",ask_workshop_hours
+"Halo, jam operasional bengkel di Bandung?",ask_workshop_hours
+Saya pengen tahu bengkel buka sampai kapan!,ask_workshop_hours
+Bengkel di Surabaya buka jam berapa?,ask_workshop_hours
+"Bro, jam tutup bengkel hari ini apa?",ask_workshop_hours
+"Jam buka bengkel di Jogja berapa, bro?",ask_workshop_hours
+"Halo, bengkel buka hari Sabtu gak?",ask_workshop_hours
+Saya mau tahu jam operasional di Bekasi!,ask_workshop_hours
+"Bengkel di Bali tutup jam berapa, bro?",ask_workshop_hours
+"Bro, bengkel buka pagi jam berapa?",ask_workshop_hours
+"Halo, jam buka bengkel di Bogor apa?",ask_workshop_hours
+Saya pengen tahu bengkel tutup hari apa!,ask_workshop_hours
+Bengkel di Medan buka sampai jam berapa?,ask_workshop_hours
+"Bro, jam operasional bengkel di Makassar?",ask_workshop_hours
+"Jam buka bengkel di Solo berapa, bro?",ask_workshop_hours
+"Halo, bengkel tutup jam berapa hari ini?",ask_workshop_hours
+Saya mau tahu jam buka bengkel di Malang!,ask_workshop_hours
+Bengkel di Palembang buka hari apa aja?,ask_workshop_hours
+"Bro, bengkel buka sore gak sih?",ask_workshop_hours
+"Halo, jam operasional bengkel di Semarang?",ask_workshop_hours
+Saya pengen tahu bengkel buka jam berapa!,ask_workshop_hours
+Bengkel di Denpasar tutup jam berapa?,ask_workshop_hours
+"Bro, jam buka bengkel di Pekanbaru apa?",ask_workshop_hours
+Jam operasional bengkel di Batam berapa?,ask_workshop_hours
+"Halo, bengkel buka hari Jumat gak?",ask_workshop_hours
+Saya mau tahu jam tutup bengkel di Manado!,ask_workshop_hours
+"Bengkel di Samarinda buka jam berapa, bro?",ask_workshop_hours
+"Bro, bengkel tutup hari Minggu gak?",ask_workshop_hours
+"Halo, jam buka bengkel di Banjarmasin apa?",ask_workshop_hours
+Saya pengen tahu jam operasional di Padang!,ask_workshop_hours
+Bengkel di Pontianak buka sampai kapan?,ask_workshop_hours
+"Bro, jam buka bengkel di Balikpapan berapa?",ask_workshop_hours
+"Halo, bengkel tutup jam berapa di Jambi?",ask_workshop_hours
+Saya mau tahu jam buka bengkel di Purwokerto!,ask_workshop_hours
+"Bengkel di Tegal buka hari apa aja, bro?",ask_workshop_hours
+"Bro, jam operasional bengkel di Cirebon apa?",ask_workshop_hours
+"Halo, bengkel buka pagi gak di Sukabumi?",ask_workshop_hours
+Saya pengen tahu jam tutup bengkel di Serang!,ask_workshop_hours
+"Bengkel di Mataram buka jam berapa, bro?",ask_workshop_hours
+"Bro, bengkel tutup sore apa malam?",ask_workshop_hours
+"Halo, jam buka bengkel di Tasikmalaya apa?",ask_workshop_hours
+Saya mau tahu jam operasional di Kudus!,ask_workshop_hours
+Bengkel di Aceh buka sampai jam berapa?,ask_workshop_hours
+"Bro, jam buka bengkel di Kendari berapa?",ask_workshop_hours
+"Halo, bengkel tutup hari apa di Cianjur?",ask_workshop_hours
+Saya pengen tahu jam buka bengkel di Jaksel!,ask_workshop_hours
+"Bengkel di Jakbar buka jam berapa, bro?",ask_workshop_hours
+"Bro, nomor telepon bengkel berapa?",ask_contact_info
+"Halo, bisa kasih kontak CS bengkel?",ask_contact_info
+"Saya mau tahu nomor WA bengkel, bro!",ask_contact_info
+"Email customer service bengkel apa, bro?",ask_contact_info
+Kontak bengkel di Jakarta apa aja?,ask_contact_info
+"Bro, nomor telepon cabang Surabaya berapa?",ask_contact_info
+"Halo, bisa kasih email bengkel Bandung?",ask_contact_info
+Saya pengen tahu kontak bengkel di Jogja!,ask_contact_info
+"Nomor CS bengkel di Bali apa, bro?",ask_contact_info
+"Bro, WA bengkel di Bekasi berapa?",ask_contact_info
+"Halo, nomor telepon bengkel Bogor apa?",ask_contact_info
+Saya mau tahu email CS bengkel Semarang!,ask_contact_info
+"Kontak bengkel di Medan apa aja, bro?",ask_contact_info
+"Bro, nomor WA bengkel Makassar berapa?",ask_contact_info
+"Halo, bisa kasih kontak bengkel Palembang?",ask_contact_info
+Saya pengen tahu nomor CS bengkel Solo!,ask_contact_info
+Nomor telepon bengkel di Malang apa?,ask_contact_info
+"Bro, email bengkel di Denpasar apa?",ask_contact_info
+"Halo, kontak bengkel di Pekanbaru berapa?",ask_contact_info
+Saya mau tahu nomor WA bengkel Batam!,ask_contact_info
+"Nomor CS bengkel di Samarinda apa, bro?",ask_contact_info
+"Bro, nomor telepon bengkel Banjarmasin?",ask_contact_info
+"Halo, bisa kasih email CS bengkel Padang?",ask_contact_info
+Saya pengen tahu kontak bengkel Pontianak!,ask_contact_info
+Kontak bengkel di Balikpapan apa aja?,ask_contact_info
+"Bro, nomor WA bengkel Jambi berapa?",ask_contact_info
+"Halo, nomor telepon bengkel Purwokerto?",ask_contact_info
+Saya mau tahu email bengkel di Tegal!,ask_contact_info
+"Nomor CS bengkel di Cirebon apa, bro?",ask_contact_info
+"Bro, kontak bengkel di Sukabumi berapa?",ask_contact_info
+"Halo, bisa kasih nomor WA bengkel Serang?",ask_contact_info
+Saya pengen tahu nomor telepon bengkel Mataram!,ask_contact_info
+Email CS bengkel di Tasikmalaya apa?,ask_contact_info
+"Bro, nomor telepon bengkel Kudus berapa?",ask_contact_info
+"Halo, kontak bengkel di Aceh apa aja?",ask_contact_info
+Saya mau tahu nomor WA bengkel Kendari!,ask_contact_info
+"Nomor CS bengkel di Cianjur apa, bro?",ask_contact_info
+"Bro, email bengkel di Jaksel apa?",ask_contact_info
+"Halo, bisa kasih kontak bengkel Jakbar?",ask_contact_info
+Saya pengen tahu nomor telepon bengkel Depok!,ask_contact_info
+Kontak bengkel di Tangerang apa aja?,ask_contact_info
+"Bro, nomor WA bengkel di Manado berapa?",ask_contact_info
+"Halo, nomor telepon bengkel Lampung apa?",ask_contact_info
+Saya mau tahu email CS bengkel Surakarta!,ask_contact_info
+"Nomor CS bengkel di Yogyakarta apa, bro?",ask_contact_info
+"Bro, kontak bengkel di Purwakarta berapa?",ask_contact_info
+"Halo, bisa kasih nomor WA bengkel Kuningan?",ask_contact_info
+Saya pengen tahu nomor telepon bengkel Banten!,ask_contact_info
+"Email bengkel di Subang apa, bro?",ask_contact_info
+"Bro, nomor telepon bengkel Garut berapa?",ask_contact_info
+"Halo, kontak CS bengkel di Cimahi apa?",ask_contact_info
+Saya mau tahu nomor WA bengkel di Bekasi!,ask_contact_info
+Ya,confirm_yes
+Betul,confirm_yes
+Iya,confirm_yes
+Oke,confirm_yes
+Bener,confirm_yes
+Yup,confirm_yes
+Sip,confirm_yes
+Benar,confirm_yes
+Setuju,confirm_yes
+Ya bro,confirm_yes
+Beres,confirm_yes
+Ok,confirm_yes
+Yoi,confirm_yes
+Tepat,confirm_yes
+Iya dong,confirm_yes
+Ya bener,confirm_yes
+Oke bro,confirm_yes
+Yup betul,confirm_yes
+Sipp,confirm_yes
+Iya bener,confirm_yes
+Ya oke,confirm_yes
+Betul bro,confirm_yes
+Ya sip,confirm_yes
+Bener banget,confirm_yes
+Iya ya,confirm_yes
+Ok bro,confirm_yes
+Yoi bener,confirm_yes
+Ya setuju,confirm_yes
+Benar dong,confirm_yes
+Iya oke,confirm_yes
+Ya betul,confirm_yes
+Sip bro,confirm_yes
+Yup oke,confirm_yes
+Beres bro,confirm_yes
+Iya sip,confirm_yes
+Ya beres,confirm_yes
+Betul dong,confirm_yes
+Oke bener,confirm_yes
+Yoi bro,confirm_yes
+Iya betul,confirm_yes
+Ya bener banget,confirm_yes
+Ok sip,confirm_yes
+Benar bro,confirm_yes
+Iya setuju,confirm_yes
+Ya ok,confirm_yes
+Bener dong,confirm_yes
+Yup sip,confirm_yes
+Iya beres,confirm_yes
+Ya tepat,confirm_yes
+Betul sip,confirm_yes
+Oke ya,confirm_yes
+Yoi setuju,confirm_yes
+Tidak,confirm_no
+Enggak,confirm_no
+Gak,confirm_no
+Nggak,confirm_no
+Bukan,confirm_no
+Nope,confirm_no
+Kagak,confirm_no
+Ga,confirm_no
+Ngga,confirm_no
+Beda,confirm_no
+Tidak bro,confirm_no
+Enggak dong,confirm_no
+Gak bener,confirm_no
+Nggak bro,confirm_no
+Bukan itu,confirm_no
+Nope bro,confirm_no
+Kagak bener,confirm_no
+Ga dong,confirm_no
+Ngga bener,confirm_no
+Beda bro,confirm_no
+Tidak sih,confirm_no
+Enggak ya,confirm_no
+Gak kok,confirm_no
+Nggak sih,confirm_no
+Bukan bro,confirm_no
+Nope gak,confirm_no
+Kagak dong,confirm_no
+Ga bener,confirm_no
+Ngga dong,confirm_no
+Beda dong,confirm_no
+Tidak kok,confirm_no
+Enggak bener,confirm_no
+Gak sih,confirm_no
+Nggak kok,confirm_no
+Bukan sih,confirm_no
+Nope dong,confirm_no
+Kagak ya,confirm_no
+Ga kok,confirm_no
+Ngga ya,confirm_no
+Beda sih,confirm_no
+Tidak gak,confirm_no
+Enggak kok,confirm_no
+Gak dong,confirm_no
+Nggak gak,confirm_no
+Bukan dong,confirm_no
+Nope sih,confirm_no
+Kagak sih,confirm_no
+Ga ya,confirm_no
+Ngga sih,confirm_no
+Beda ya,confirm_no
+Tidak ya,confirm_no
+Enggak sih,confirm_no
+"Bro, ulangin dong apa tadi?",request_repetition_or_clarification
+"Halo, bisa ulang penjelasannya?",request_repetition_or_clarification
+"Saya mau dengar lagi, apa tadi?",request_repetition_or_clarification
+"Ulang lagi dong, bro, ga kedenger!",request_repetition_or_clarification
+Bisa ulangin apa yang kamu bilang?,request_repetition_or_clarification
+"Bro, tadi bilang apa, ulang dong!",request_repetition_or_clarification
+"Halo, ulangin penjelasan tadi ya!",request_repetition_or_clarification
+"Saya pengen dengar ulang, apa tadi?",request_repetition_or_clarification
+"Ulang lagi bro, kurang jelas tadi!",request_repetition_or_clarification
+"Bisa ulang penjelasannya gak, bro?",request_repetition_or_clarification
+"Bro, apa tadi? Ulangin dong!",request_repetition_or_clarification
+"Halo, ulang lagi dong penjelasannya!",request_repetition_or_clarification
+"Saya ga nangkep, ulang dong tadi!",request_repetition_or_clarification
+"Ulangin bro, tadi ga ke dengar!",request_repetition_or_clarification
+"Bisa ulang apa tadi, bro?",request_repetition_or_clarification
+"Bro, ulang dong, apa tadi bilang?",request_repetition_or_clarification
+"Halo, ulangin apa yang tadi dijelasin!",request_repetition_or_clarification
+"Saya pengen ulang, tadi apa sih?",request_repetition_or_clarification
+"Ulang lagi dong, bro, ga paham!",request_repetition_or_clarification
+Bisa ulangin penjelasan tadi gak?,request_repetition_or_clarification
+"Bro, tadi ngomong apa, ulang dong!",request_repetition_or_clarification
+"Halo, ulang lagi ya, kurang jelas!",request_repetition_or_clarification
+"Saya ga denger, ulang dong bro!",request_repetition_or_clarification
+"Ulangin tadi, bro, apa itu?",request_repetition_or_clarification
+Bisa ulang apa yang kamu jelasin?,request_repetition_or_clarification
+"Bro, ulang dong, tadi cepet banget!",request_repetition_or_clarification
+"Halo, ulangin penjelasan sebelumnya!",request_repetition_or_clarification
+"Saya mau dengar lagi, ulang dong!",request_repetition_or_clarification
+"Ulang lagi bro, ga nangkep tadi!",request_repetition_or_clarification
+"Bisa ulangin apa tadi, gak paham?",request_repetition_or_clarification
+"Bro, apa tadi, ulangin dong ya!",request_repetition_or_clarification
+"Halo, ulang lagi dong, ga kedenger!",request_repetition_or_clarification
+"Saya pengen ulang, tadi kurang jelas!",request_repetition_or_clarification
+"Ulangin bro, apa yang tadi diomongin?",request_repetition_or_clarification
+"Bisa ulang penjelasannya, bro?",request_repetition_or_clarification
+"Bro, ulang dong, tadi ga nyantol!",request_repetition_or_clarification
+"Halo, ulangin apa tadi, plis!",request_repetition_or_clarification
+"Saya ga paham, ulang dong tadi!",request_repetition_or_clarification
+"Ulang lagi bro, tadi buru-buru!",request_repetition_or_clarification
+"Bisa ulangin apa yang tadi, bro?",request_repetition_or_clarification
+"Bro, ulang dong, ga denger jelas!",request_repetition_or_clarification
+"Halo, ulang lagi ya penjelasannya!",request_repetition_or_clarification
+"Saya mau dengar ulang, apa tadi bro?",request_repetition_or_clarification
+"Ulangin tadi, ga nangkep, bro!",request_repetition_or_clarification
+Bisa ulang apa tadi dijelasin?,request_repetition_or_clarification
+"Bro, ulang dong, tadi apa sih?",request_repetition_or_clarification
+"Halo, ulangin dong, kurang paham!",request_repetition_or_clarification
+"Saya pengen ulang, tadi ga denger!",request_repetition_or_clarification
+"Ulang lagi bro, apa tadi ngomong?",request_repetition_or_clarification
+"Bisa ulangin penjelasan tadi, bro?",request_repetition_or_clarification
+"Bro, ulang dong, tadi ga jelas banget!",request_repetition_or_clarification
+"Bro, bisa jelasin lebih detail gak?",request_repetition_or_clarification
+"Halo, maksudnya apa, jelasin dong!",request_repetition_or_clarification
+"Saya mau tahu lebih jelas, apa tadi?",request_repetition_or_clarification
+"Bisa kasih penjelasan lebih lanjut, bro?",request_repetition_or_clarification
+"Jelasin lagi dong, kur aton tadi!",request_repetition_or_clarification
+"Bro, apa sih maksudnya, jelasin lebih!",request_repetition_or_clarification
+"Halo, bisa detailin penjelasannya?",request_repetition_or_clarification
+"Saya pengen tahu lebih, jelasin dong!",request_repetition_or_clarification
+"Kasih penjelasan lebih jelas, bro!",request_repetition_or_clarification
+"Bisa jelasin lebih rinci gak, bro?",request_repetition_or_clarification
+"Bro, tadi maksudnya apa, jelasin dong!",request_repetition_or_clarification
+"Halo, jelasin lebih detail ya!",request_repetition_or_clarification
+"Saya ga paham, kasih detail dong!",request_repetition_or_clarification
+"Jelasin lebih lanjut bro, ga nangkep!",request_repetition_or_clarification
+"Bisa kasih penjelasan lebih, bro?",request_repetition_or_clarification
+"Bro, apa tadi, jelasin lebih jelas!",request_repetition_or_clarification
+"Halo, detailin lagi dong penjelasannya!",request_repetition_or_clarification
+"Saya pengen lebih jelas, apa itu?",request_repetition_or_clarification
+"Kasih penjelasan lebih rinci, bro!",request_repetition_or_clarification
+Bisa jelasin lebih lengkap gak?,request_repetition_or_clarification
+"Bro, maksudnya apa, kasih detail!",request_repetition_or_clarification
+"Halo, jelasin lagi ya, kurang paham!",request_repetition_or_clarification
+"Saya mau penjelasan lebih, bro!",request_repetition_or_clarification
+"Jelasin lebih detail dong, ga paham!",request_repetition_or_clarification
+"Bisa kasih detail lebih lanjut, bro?",request_repetition_or_clarification
+"Bro, tadi ngomong apa, jelasin lagi!",request_repetition_or_clarification
+"Halo, penjelasannya kurang jelas, detailin!",request_repetition_or_clarification
+"Saya pengen tahu lebih, kasih jelas!",request_repetition_or_clarification
+"Kasih penjelasan lengkap dong, bro!",request_repetition_or_clarification
+Bisa jelasin lebih rinci lagi gak?,request_repetition_or_clarification
+"Bro, apa maksudnya, jelasin detail!",request_repetition_or_clarification
+"Halo, bisa kasih penjelasan lebih ya!",request_repetition_or_clarification
+"Saya ga nangkep, jelasin lebih dong!",request_repetition_or_clarification
+"Jelasin lagi bro, kasih detail lebih!",request_repetition_or_clarification
+"Bisa kasih penjelasan lengkap, bro?",request_repetition_or_clarification
+"Bro, tadi apa sih, jelasin lebih!",request_repetition_or_clarification
+"Halo, detailin penjelasan tadi dong!",request_repetition_or_clarification
+"Saya mau lebih jelas, kasih detail!",request_repetition_or_clarification
+"Kasih penjelasan lebih lengkap, bro!",request_repetition_or_clarification
+"Bisa jelasin lebih detail lagi, bro?",request_repetition_or_clarification
+"Bro, maksudnya apa tadi, jelasin!",request_repetition_or_clarification
+"Halo, jelasin lebih rinci ya, plis!",request_repetition_or_clarification
+"Saya pengen penjelasan lebih, jelasin!",request_repetition_or_clarification
+"Jelasin lagi dong, kasih lebih detail!",request_repetition_or_clarification
+Bisa kasih detail penjelasan tadi?,request_repetition_or_clarification
+"Bro, apa tadi, kasih penjelasan jelas!",request_repetition_or_clarification
+"Halo, jelasin lebih lengkap dong!",request_repetition_or_clarification
+"Saya ga paham, kasih penjelasan lebih!",request_repetition_or_clarification
+"Jelasin lebih rinci bro, kurang jelas!",request_repetition_or_clarification
+"Bisa kasih penjelasan lebih detail, bro?",request_repetition_or_clarification
+"Bro, tadi maksudnya apa, jelasin jelas!",request_repetition_or_clarification
+"Bro, servis motor matic di bengkel kalian mantap banget!",give_feedback
+"Halo, saya puas sama pelayanan ganti oli mobil tadi!",give_feedback
+"Saya mau kasih masukan, mekaniknya ramah tapi agak lama.",give_feedback
+"Servis rem motor bebek oke, tapi ruang tunggu kurang nyaman.",give_feedback
+"Bro, bengkel kalian top, cepet banget ganti ban mobil!",give_feedback
+"Pelayanan di cabang Jakarta bagus, tapi antrean panjang.",give_feedback
+"Halo, mekaniknya profesional, servis AC mobil oke!",give_feedback
+Saya suka banget sama hasil tune-up motor sport tadi!,give_feedback
+"Masukan nih, bro, kasih wifi di ruang tunggu dong!",give_feedback
+"Servis knalpot motor matic kalian juara, bro!",give_feedback
+"Bro, ganti aki mobil cepet, tapi harganya agak mahal.",give_feedback
+"Halo, feedback saya, pelayanan ramah, hasil bersih!",give_feedback
+"Saya puas sama servis rantai motor, mekaniknya jago!",give_feedback
+"Servis suspensi mobil di bengkel kalian mantap, bro!",give_feedback
+"Bro, masukan, tolong tambah kursi di ruang tunggu!",give_feedback
+"Pelayanan ganti busi motor cepet, tapi sparepart mahal.",give_feedback
+"Halo, servis radiator mobil oke, mekaniknya teliti!",give_feedback
+Saya seneng banget sama hasil servis karburator motor!,give_feedback
+"Feedback nih, bro, antrean servis motor terlalu lama.",give_feedback
+Servis velg mobil di bengkel kalian bagus banget!,give_feedback
+"Bro, mekaniknya ramah, tapi prosesnya agak ribet.",give_feedback
+"Halo, ganti spion motor cepet, pelayanan oke!",give_feedback
+"Saya puas sama servis injeksi motor sport, bro!",give_feedback
+"Masukan, tolong kasih harga lebih transparan, bro!",give_feedback
+"Servis wiper mobil kalian mantap, hasilnya bersih!",give_feedback
+"Bro, servis kopling motor bebek oke, tapi lama nunggu.",give_feedback
+"Halo, feedback, pelayanan di cabang Bandung top!",give_feedback
+"Saya suka hasil servis lampu mobil, terang banget!",give_feedback
+"Servis rantai keteng motor kalian juara, bro!",give_feedback
+"Bro, ganti ban tubeless motor cepet, tapi agak mahal.",give_feedback
+"Pelayanan servis rem ABS mobil oke, mekaniknya jago!",give_feedback
+"Halo, masukan, tolong tambah petugas di loket, bro!",give_feedback
+Saya puas sama servis dinamo starter mobil tadi!,give_feedback
+"Servis shockbreaker motor matic mantap, bro!",give_feedback
+"Bro, feedback, ruang tunggu panas, kasih AC dong!",give_feedback
+"Halo, ganti oli gardan motor cepet, pelayanan oke!",give_feedback
+Saya seneng banget sama servis full tune-up mobil!,give_feedback
+"Masukan, bro, tolong kasih nomor antrean biar jelas!",give_feedback
+Servis lampu LED motor di bengkel kalian top!,give_feedback
+"Bro, pelayanan ganti kampas rem mobil mantap!",give_feedback
+"Halo, feedback, mekaniknya teliti, tapi lama selesai.",give_feedback
+"Saya puas sama servis transmisi mobil, hasil oke!",give_feedback
+"Servis injektor motor sport kalian bagus, bro!",give_feedback
+"Bro, masukan, tolong kasih diskon buat pelanggan setia!",give_feedback
+"Halo, ganti busi iridium motor cepet, pelayanan top!",give_feedback
+"Saya suka hasil servis radiator motor, bro!",give_feedback
+"Feedback, antrean di cabang Surabaya perlu dibenahi!",give_feedback
+"Servis klakson mobil oke, mekaniknya ramah!",give_feedback
+"Bro, ganti shock depan motor mantap, tapi agak mahal.",give_feedback
+"Halo, saya puas sama servis motor Vario tadi!",give_feedback
+"Masukan, tolong kasih tempat parkir lebih luas, bro!",give_feedback
+Servis lampu rem motor di bengkel kalian juara!,give_feedback
+"Bro, cara kasih feedback buat bengkel gimana?",ask_feedback_process
+"Halo, bagaimana caranya ngasih masukan pelayanan?",ask_feedback_process
+Saya mau tahu gimana kasih review servis motor!,ask_feedback_process
+"Bisa kasih tahu cara ngasih feedback, bro?",ask_feedback_process
+Gimana sih caranya kasih masukan ke bengkel?,ask_feedback_process
+"Bro, kasih feedback buat servis mobil caranya apa?",ask_feedback_process
+"Halo, saya pengen kasih review, caranya gimana?",ask_feedback_process
+Saya mau tahu proses kasih feedback pelayanan!,ask_feedback_process
+"Cara ngasih masukan buat bengkel apa, bro?",ask_feedback_process
+Bisa jelasin gimana kasih feedback servis motor?,ask_feedback_process
+"Bro, caranya kasih review bengkel itu apa?",ask_feedback_process
+"Halo, bagaimana proses ngasih masukan tadi?",ask_feedback_process
+"Saya pengen kasih feedback, caranya apa, bro?",ask_feedback_process
+Gimana ya cara kasih review buat servis mobil?,ask_feedback_process
+"Bro, kasih masukan pelayanan caranya gimana?",ask_feedback_process
+"Halo, bisa kasih tahu cara kasih feedback bengkel?",ask_feedback_process
+Saya mau tahu gimana ngasih masukan servis motor!,ask_feedback_process
+"Cara kasih feedback buat bengkel apa aja, bro?",ask_feedback_process
+Bisa jelasin proses kasih review pelayanan?,ask_feedback_process
+"Bro, gimana sih cara ngasih feedback tadi?",ask_feedback_process
+"Halo, saya pengen tahu cara kasih masukan bengkel!",ask_feedback_process
+"Saya mau kasih review, caranya apa, bro?",ask_feedback_process
+Gimana cara ngasih feedback buat servis rem?,ask_feedback_process
+"Bro, proses kasih masukan pelayanan apa ya?",ask_feedback_process
+"Halo, bisa kasih tahu gimana kasih review mobil?",ask_feedback_process
+"Saya pengen kasih feedback, prosesnya apa?",ask_feedback_process
+"Cara kasih masukan buat servis motor gimana, bro?",ask_feedback_process
+Bisa jelasin cara ngasih feedback bengkel?,ask_feedback_process
+"Bro, gimana caranya kasih review servis tadi?",ask_feedback_process
+"Halo, saya mau tahu proses kasih masukan pelayanan!",ask_feedback_process
+"Saya pengen kasih review bengkel, caranya apa?",ask_feedback_process
+Gimana ya cara kasih feedback buat mekanik?,ask_feedback_process
+"Bro, cara ngasih masukan servis mobil apa aja?",ask_feedback_process
+"Halo, bisa kasih tahu proses kasih feedback tadi?",ask_feedback_process
+"Saya mau kasih feedback, gimana caranya, bro?",ask_feedback_process
+"Cara kasih review buat bengkel apa, bro?",ask_feedback_process
+Bisa jelasin gimana ngasih masukan pelayanan?,ask_feedback_process
+"Bro, proses kasih feedback bengkel caranya apa?",ask_feedback_process
+"Halo, saya pengen tahu cara kasih review servis!",ask_feedback_process
+"Saya mau kasih masukan, caranya gimana, bro?",ask_feedback_process
+Gimana cara ngasih feedback buat cabang Bandung?,ask_feedback_process
+"Bro, cara kasih review pelayanan apa aja?",ask_feedback_process
+"Halo, bisa kasih tahu gimana kasih masukan motor?",ask_feedback_process
+"Saya pengen kasih feedback, apa prosesnya?",ask_feedback_process
+Cara kasih review buat servis AC mobil gimana?,ask_feedback_process
+"Bisa jelasin cara ngasih feedback pelayanan, bro?",ask_feedback_process
+"Bro, gimana sih proses kasih masukan tadi?",ask_feedback_process
+"Halo, saya mau tahu cara kasih review bengkel!",ask_feedback_process
+"Saya pengen kasih feedback servis, caranya apa?",ask_feedback_process
+Gimana cara ngasih masukan buat servis tune-up?,ask_feedback_process
+"Bro, cara kasih review buat mekanik gimana?",ask_feedback_process
+"Halo, bisa kasih tahu proses kasih feedback mobil?",ask_feedback_process
+"Bro, saya kasih bintang 5 buat servis motor!",rate_service
+"Halo, rating saya 4 bintang untuk ganti oli mobil.",rate_service
+Saya kasih nilai 8 buat pelayanan bengkel tadi!,rate_service
+"Servis rem motor dapat bintang 3, bro.",rate_service
+"Rating 5 bintang buat servis AC mobil, mantap!",rate_service
+"Bro, ganti ban mobil saya kasih bintang 4!",rate_service
+"Halo, saya kasih rating 7 buat servis motor sport.",rate_service
+Saya kasih bintang 5 untuk tune-up mobil tadi!,rate_service
+"Rating servis knalpot motor bintang 4, bro.",rate_service
+"Bro, saya kasih nilai 9 buat ganti aki mobil!",rate_service
+"Halo, servis rantai motor dapat bintang 3.",rate_service
+Saya kasih rating 8 untuk servis suspensi mobil!,rate_service
+"Servis karburator motor bintang 5, bro!",rate_service
+"Bro, ganti busi motor saya kasih bintang 4.",rate_service
+"Halo, rating 6 buat servis velg mobil tadi.",rate_service
+Saya kasih bintang 5 buat servis injeksi motor!,rate_service
+"Rating servis wiper mobil bintang 3, bro.",rate_service
+"Bro, saya kasih nilai 7 buat ganti spion motor.",rate_service
+"Halo, servis radiator mobil dapat bintang 4!",rate_service
+Saya kasih bintang 5 untuk servis lampu mobil!,rate_service
+"Rating servis kopling motor bintang 4, bro.",rate_service
+"Bro, ganti oli gardan saya kasih bintang 3!",rate_service
+"Halo, saya kasih rating 8 buat servis full motor.",rate_service
+Saya kasih bintang 5 buat servis rem ABS mobil!,rate_service
+"Rating servis shockbreaker bintang 4, bro.",rate_service
+"Bro, saya kasih nilai 9 buat ganti ban tubeless!",rate_service
+"Halo, servis dinamo starter bintang 3.",rate_service
+Saya kasih bintang 5 untuk servis lampu LED motor!,rate_service
+"Rating servis transmisi mobil bintang 4, bro.",rate_service
+"Bro, ganti kampas rem saya kasih bintang 5!",rate_service
+"Halo, saya kasih rating 7 buat servis motor Vario.",rate_service
+Saya kasih bintang 4 buat servis rantai keteng!,rate_service
+"Rating servis klakson mobil bintang 3, bro.",rate_service
+"Bro, saya kasih nilai 8 buat ganti busi iridium!",rate_service
+"Halo, servis radiator motor bintang 5.",rate_service
+Saya kasih bintang 4 untuk servis injektor mobil!,rate_service
+"Rating servis lampu rem bintang 5, bro.",rate_service
+"Bro, ganti shock depan saya kasih bintang 3.",rate_service
+"Halo, saya kasih rating 9 buat servis tune-up motor!",rate_service
+Saya kasih bintang 5 buat servis motor Honda Beat!,rate_service
+"Rating servis AC mobil bintang 4, bro.",rate_service
+"Bro, saya kasih nilai 7 buat ganti oli mobil!",rate_service
+"Halo, servis suspensi motor bintang 5.",rate_service
+Saya kasih bintang 4 buat servis knalpot racing!,rate_service
+"Rating servis velg motor bintang 3, bro.",rate_service
+"Bro, saya kasih bintang 5 buat ganti spion mobil!",rate_service
+"Halo, servis karburator bintang 4.",rate_service
+Saya kasih rating 8 buat servis motor sport!,rate_service
+"Rating servis wiper motor bintang 5, bro.",rate_service
+"Bro, saya kasih bintang 4 buat ganti ban mobil!",rate_service
+"Halo, servis lampu dashboard bintang 3.",rate_service
+Saya kasih bintang 5 buat servis kopling mobil!,rate_service
+"Bro, apa sih ini?",fallback
+"Halo, maksudnya apa ya?",fallback
+"Saya ga ngerti, apa tadi?",fallback
+"Eh, ini ngomong apa sih, bro?",fallback
+Bisa jelasin apa artinya?,fallback
+"Bro, kok ga nyambung sih?",fallback
+"Halo, ini apa maksudnya?",fallback
+"Saya bingung, apa itu, bro?",fallback
+"Ngomong apa tadi, ga paham!",fallback
+"Bro, ini kenapa gini ya?",fallback
+"Halo, kok ga jelas sih?",fallback
+"Saya ga nangkep, apa tadi?",fallback
+"Apa sih, bro, ga ngerti!",fallback
+"Bisa ulang, ga paham sama sekali!",fallback
+"Bro, ini bicara apa sih?",fallback
+"Halo, apa yang kamu maksud?",fallback
+"Saya ga tahu ini apa, bro!",fallback
+"Eh, kok aneh sih jawabannya?",fallback
+"Bro, ga nyambung banget nih!",fallback
+"Halo, maksudnya apa tadi?",fallback
+"Saya bingung banget, apa itu?",fallback
+"Ngapain sih, ga ngerti, bro!",fallback
+"Bro, ini apa, ga jelas banget!",fallback
+"Halo, kok ga masuk akal sih?",fallback
+"Saya ga paham, apa maksudnya?",fallback
+"Apa tadi, bro, ga nyantol!",fallback
+"Bisa jelasin lain, ga ngerti!",fallback
+"Bro, kok gitu sih jawabannya?",fallback
+"Halo, ini ngomongin apa sih?",fallback
+"Saya ga ngerti sama sekali, bro!",fallback
+"Eh, apa sih, ga paham banget!",fallback
+"Bro, kok ga nyambung gitu?",fallback
+"Halo, apa artinya tadi, bro?",fallback
+"Saya bingung, ini apa sih?",fallback
+"Ngomong apa, ga jelas, bro!",fallback
+"Bro, maksudnya apa, ga ngerti!",fallback
+"Halo, kok aneh banget sih?",fallback
+Saya ga tahu maksudnya apa!,fallback
+"Apa sih ini, bro, bingung!",fallback
+"Bisa kasih penjelasan lain, ga paham!",fallback
+"Bro, ini kenapa ga jelas sih?",fallback
+"Halo, ngomong apa tadi, bro?",fallback
+"Saya ga ngerti, jelasin dong!",fallback
+"Eh, kok ga nyambung, bro?",fallback
+"Bro, apa tadi, ga paham nih!",fallback
+"Halo, ini maksudnya apa sih?",fallback
+"Saya bingung banget, jelasin!",fallback
+"Ngapain sih, ga ngerti tadi!",fallback
+"Bro, kok jawabannya gitu sih?",fallback
+"Halo, apa sih, ga jelas banget!",fallback
+"Saya ga paham, apa tadi, bro?",fallback
+"Apa maksudnya, ga nyambung!",fallback
+"Bro, sambungin ke orang langsung dong!",request_human_agent
+"Halo, bisa hubungin ke CS manusia?",request_human_agent
+"Saya mau ngobrol sama petugas, bro!",request_human_agent
+Tolong sambungkan ke mekanik langsung!,request_human_agent
+"Bisa kasih ke human agent gak, bro?",request_human_agent
+"Bro, hubungin ke tim bengkel dong!",request_human_agent
+"Halo, saya pengen bicara sama orang!",request_human_agent
+Saya butuh ngomong sama CS asli!,request_human_agent
+"Tolong sambung ke customer service, bro!",request_human_agent
+Bisa hubungin ke petugas bengkel gak?,request_human_agent
+"Bro, saya mau bicara sama mekanik!",request_human_agent
+"Halo, sambungkan ke tim support ya!",request_human_agent
+Saya pengen ngobrol sama orang bengkel!,request_human_agent
+"Bisa kasih ke CS langsung gak, bro?",request_human_agent
+"Bro, hubungin ke human support dong!",request_human_agent
+"Halo, saya butuh bicara sama petugas!",request_human_agent
+"Saya mau ngomong sama orang, bukan bot!",request_human_agent
+"Tolong sambungkan ke mekanik, bro!",request_human_agent
+Bisa hubungin ke tim CS asli gak?,request_human_agent
+"Bro, sambungin ke orang bengkel dong!",request_human_agent
+"Halo, saya pengen bicara sama manusia!",request_human_agent
+Saya butuh ngobrol sama tim support!,request_human_agent
+"Tolong sambung ke petugas langsung, bro!",request_human_agent
+Bisa kasih ke customer service gak?,request_human_agent
+"Bro, hubungin ke mekanik bengkel dong!",request_human_agent
+"Halo, saya mau ngomong sama CS!",request_human_agent
+Saya pengen bicara sama orang langsung!,request_human_agent
+"Tolong sambungkan ke human agent, bro!",request_human_agent
+Bisa hubungin ke tim support bengkel?,request_human_agent
+"Bro, sambungin ke petugas CS dong!",request_human_agent
+"Halo, saya butuh ngobrol sama orang!",request_human_agent
+Saya mau bicara sama mekanik asli!,request_human_agent
+"Tolong sambung ke tim bengkel, bro!",request_human_agent
+"Bisa kasih ke CS manusia gak, bro?",request_human_agent
+"Bro, hubungin ke orang support dong!",request_human_agent
+"Halo, saya pengen ngomong sama petugas!",request_human_agent
+Saya butuh bicara sama orang bengkel!,request_human_agent
+"Tolong sambungkan ke CS langsung, bro!",request_human_agent
+Bisa hubungin ke mekanik langsung gak?,request_human_agent
+"Bro, sambungin ke human CS dong!",request_human_agent
+"Halo, saya mau ngobrol sama tim CS!",request_human_agent
+"Saya pengen bicara sama orang, bro!",request_human_agent
+"Tolong sambung ke petugas bengkel, bro!",request_human_agent
+Bisa kasih ke tim support manusia gak?,request_human_agent
+"Bro, hubungin ke CS bengkel dong!",request_human_agent
+"Halo, saya butuh ngomong sama manusia!",request_human_agent
+Saya mau bicara sama petugas langsung!,request_human_agent
+"Bisa hubungin ke orang CS gak, bro?",request_human_agent
+"Bro, sambungin ke tim bengkel dong!",request_human_agent
+"Halo, saya pengen bicara sama orang CS!",request_human_agent
+"Saya butuh ngobrol sama petugas, bro!",request_human_agent
+"Bro, tadi malam nonton bola ga?",off_topic
+"Halo, kamu tahu resep nasi goreng enak?",off_topic
+"Saya pengen cerita, tadi ketemu temen lama!",off_topic
+"Cuaca hari ini panas banget ya, bro?",off_topic
+"Bro, kamu suka main game apa sih?",off_topic
+"Halo, ada rekomendasi film bagus ga?",off_topic
+"Saya baru beli sepatu keren, bro!",off_topic
+"Kamu tahu ga, ada konser di Jakarta?",off_topic
+"Bro, apa kabar kucing peliharaanmu?",off_topic
+"Halo, saya lagi bingung pilih hp baru!",off_topic
+"Saya pengen libur ke Bali, bro!",off_topic
+"Kamu suka makan bakso apa soto, bro?",off_topic
+"Bro, tadi pagi macet banget di tol!",off_topic
+"Halo, kamu pernah ke Lombok ga?",off_topic
+"Saya baru nyanyi karaoke tadi, seru!",off_topic
+"Kamu tahu ga, harga bensin naik lagi?",off_topic
+"Bro, saya lagi pengen beli motor baru!",off_topic
+"Halo, ada rekomendasi tempat makan enak?",off_topic
+"Saya tadi lihat sunset keren, bro!",off_topic
+"Kamu suka olahraga apa, bro?",off_topic
+"Bro, tadi malam mimpi aneh banget!",off_topic
+"Halo, saya lagi dengerin lagu baru!",off_topic
+"Saya pengen belajar gitar, bro!",off_topic
+"Kamu tahu ga, ada pasar malam di dekat sini?",off_topic
+"Bro, saya baru selesai baca buku keren!",off_topic
+"Halo, kamu suka kopi apa teh, bro?",off_topic
+"Saya tadi ketemu artis di mall, bro!",off_topic
+"Kamu pernah coba diving ga, bro?",off_topic
+"Bro, saya lagi pengen ke gym nih!",off_topic
+"Halo, ada rekomendasi destinasi liburan?",off_topic
+"Saya baru nonton serial Netflix, seru!",off_topic
+"Kamu tahu ga, ada diskon di toko baju?",off_topic
+"Bro, tadi pagi lari pagi, capek banget!",off_topic
+"Halo, saya lagi cari resep kue enak!",off_topic
+"Saya pengen ke pameran otomotif, bro!",off_topic
+"Kamu suka main catur apa domino, bro?",off_topic
+"Bro, tadi malam hujan deres banget!",off_topic
+"Halo, kamu tahu ga ada event di kota?",off_topic
+"Saya baru coba masak rendang, bro!",off_topic
+"Kamu pernah ke museum ga, bro?",off_topic
+"Bro, saya lagi pengen beli laptop baru!",off_topic
+"Halo, ada rekomendasi podcast keren?",off_topic
+Saya tadi lihat video lucu di TikTok!,off_topic
+"Kamu tahu ga, ada bazaar di dekat sini?",off_topic
+"Bro, saya baru join kelas yoga, seru!",off_topic
+"Halo, saya lagi cari tempat nongkrong!",off_topic
+"Saya pengen ke pantai akhir pekan, bro!",off_topic
+"Kamu suka fotografi apa videografi, bro?",off_topic
+"Bro, tadi pagi lihat sunrise, keren!",off_topic
+"Halo, kamu tahu ga ada acara amal?",off_topic
+"Saya baru selesai main badminton, bro!",off_topic
+"Kamu pernah coba naik gunung ga, bro?",off_topic
+"Bro, siapa nama kamu?",ask_bot_name
+"Halo, nama chatbot ini apa?",ask_bot_name
+"Saya mau tahu nama kamu, bro!",ask_bot_name
+"Bot, kamu namanya apa sih?",ask_bot_name
+"Nama kamu apa, bro?",ask_bot_name
+"Halo, siapa nama bot ini?",ask_bot_name
+"Bro, chatbot ini namanya apa?",ask_bot_name
+"Saya pengen tahu nama bot, bro!",ask_bot_name
+"Eh, nama kamu apa, bot?",ask_bot_name
+"Bro, kamu dipanggil apa sih?",ask_bot_name
+"Halo, nama kamu apa ya?",ask_bot_name
+"Saya mau tahu, bot ini namanya apa?",ask_bot_name
+"Bro, apa sih nama chatbot ini?",ask_bot_name
+"Bot, panggilan kamu apa?",ask_bot_name
+"Halo, kamu namanya apa, bro?",ask_bot_name
+Saya pengen tahu nama kamu!,ask_bot_name
+"Bro, nama bot ini apa sih?",ask_bot_name
+"Eh, kamu siapa, nama kamu apa?",ask_bot_name
+"Halo, bot ini dipanggil apa?",ask_bot_name
+"Bro, kasih tahu nama kamu dong!",ask_bot_name
+"Saya mau tahu nama chatbot, bro!",ask_bot_name
+"Bot, kamu namanya apa, bro?",ask_bot_name
+"Halo, nama bot ini apa ya?",ask_bot_name
+"Bro, kamu panggilannya apa sih?",ask_bot_name
+"Saya pengen tahu, nama kamu apa?",ask_bot_name
+"Eh, bot, nama kamu apa dong?",ask_bot_name
+"Halo, siapa sih nama kamu?",ask_bot_name
+"Bro, chatbot ini panggilannya apa?",ask_bot_name
+Saya mau tahu nama bot ini!,ask_bot_name
+"Bot, kasih tahu nama kamu, bro!",ask_bot_name
+"Halo, nama kamu apa sih, bot?",ask_bot_name
+"Bro, apa nama kamu, bot?",ask_bot_name
+Saya pengen tahu nama chatbot ini!,ask_bot_name
+"Eh, kamu namanya apa, bro?",ask_bot_name
+"Halo, bot ini namanya apa dong?",ask_bot_name
+"Bro, kasih tahu panggilan kamu!",ask_bot_name
+"Saya mau tahu, bot ini siapa?",ask_bot_name
+"Bot, nama kamu apa sih?",ask_bot_name
+"Halo, kamu dipanggil apa, bro?",ask_bot_name
+"Bro, nama chatbot ini apa ya?",ask_bot_name
+"Saya pengen tahu nama bot, dong!",ask_bot_name
+"Eh, bot, kamu namanya apa sih?",ask_bot_name
+"Halo, kasih tahu nama kamu!",ask_bot_name
+"Bro, apa sih panggilan bot ini?",ask_bot_name
+"Saya mau tahu nama kamu, bot!",ask_bot_name
+"Bot, kamu siapa, nama apa?",ask_bot_name
+"Halo, nama bot ini apa, bro?",ask_bot_name
+"Bro, kamu namanya apa dong?",ask_bot_name
+Saya pengen tahu panggilan bot!,ask_bot_name
+"Eh, nama kamu apa sih, bot?",ask_bot_name
+"Halo, bot ini panggilannya apa?",ask_bot_name
+"Bro, kamu bisa ngapain aja sih?",ask_bot_capabilities
+"Halo, apa aja yang bisa kamu lakuin?",ask_bot_capabilities
+"Saya mau tahu kemampuan kamu, bro!",ask_bot_capabilities
+"Bot, kamu bisa bantu apa aja?",ask_bot_capabilities
+"Apa sih yang bisa kamu bantu, bro?",ask_bot_capabilities
+"Halo, kamu bisa apa aja, bot?",ask_bot_capabilities
+"Bro, kemampuan chatbot ini apa aja?",ask_bot_capabilities
+Saya pengen tahu apa yang kamu bisa!,ask_bot_capabilities
+"Eh, bot, kamu bisa ngapain sih?",ask_bot_capabilities
+"Bro, kamu bisa bantu apa, bot?",ask_bot_capabilities
+"Halo, apa kemampuan kamu, bro?",ask_bot_capabilities
+"Saya mau tahu, bot ini bisa apa?",ask_bot_capabilities
+"Bro, apa aja sih yang kamu bisa?",ask_bot_capabilities
+"Bot, kamu bisa ngapain aja, bro?",ask_bot_capabilities
+"Halo, kasih tahu kemampuan kamu!",ask_bot_capabilities
+Saya pengen tahu kamu bisa bantu apa!,ask_bot_capabilities
+"Bro, bot ini bisa apa aja sih?",ask_bot_capabilities
+"Eh, kamu bisa apa, bot?",ask_bot_capabilities
+"Halo, apa aja yang bot ini bisa?",ask_bot_capabilities
+"Bro, kasih tahu apa yang kamu bisa!",ask_bot_capabilities
+Saya mau tahu kemampuan bot ini!,ask_bot_capabilities
+"Bot, kamu bisa bantu apa sih?",ask_bot_capabilities
+"Halo, kamu bisa apa, bot?",ask_bot_capabilities
+"Bro, apa sih kemampuan kamu?",ask_bot_capabilities
+Saya pengen tahu bot ini bisa ngapain!,ask_bot_capabilities
+"Eh, bot, kasih tahu kemampuan kamu!",ask_bot_capabilities
+"Halo, kamu bisa bantu apa aja, bro?",ask_bot_capabilities
+"Bro, bot ini bisa ngapain sih?",ask_bot_capabilities
+Saya mau tahu apa yang bot bisa!,ask_bot_capabilities
+"Bot, apa aja yang kamu bisa bantu?",ask_bot_capabilities
+"Halo, kasih tahu apa kamu bisa!",ask_bot_capabilities
+"Bro, kamu bisa apa aja, bot?",ask_bot_capabilities
+"Saya pengen tahu kemampuan kamu, bot!",ask_bot_capabilities
+"Eh, kamu bisa ngapain, bro?",ask_bot_capabilities
+"Halo, bot ini bisa apa aja, bro?",ask_bot_capabilities
+"Bro, kasih tahu kamu bisa apa!",ask_bot_capabilities
+Saya mau tahu bot ini bisa bantu apa!,ask_bot_capabilities
+"Bot, kamu bisa apa sih, bro?",ask_bot_capabilities
+"Halo, apa yang kamu bisa lakuin?",ask_bot_capabilities
+"Bro, kemampuan bot ini apa sih?",ask_bot_capabilities
+Saya pengen tahu apa aja yang kamu bisa!,ask_bot_capabilities
+"Eh, bot, kamu bisa apa aja?",ask_bot_capabilities
+"Halo, kasih tahu kemampuan bot ini!",ask_bot_capabilities
+"Bro, kamu bisa bantu apa, bro?",ask_bot_capabilities
+Saya mau tahu apa sih yang kamu bisa?,ask_bot_capabilities
+"Bot, kasih tahu apa yang kamu bisa!",ask_bot_capabilities
+"Halo, kamu bisa ngapain aja, bot?",ask_bot_capabilities
+"Bro, apa aja kemampuan kamu?",ask_bot_capabilities
+Saya pengen tahu bot bisa apa aja!,ask_bot_capabilities
+"Eh, kamu bisa bantu apa, bot?",ask_bot_capabilities
+"Halo, bot ini bisa ngapain, bro?",ask_bot_capabilities
+"Bro, cuaca di Jakarta hari ini gimana?",ask_weather
+"Halo, apa kabar cuaca di Bandung?",ask_weather
+"Saya mau tahu cuaca Surabaya, bro!",ask_weather
+"Cuaca di Bali sekarang apa, bro?",ask_weather
+"Halo, cuaca Jogja hari ini gimana?",ask_weather
+"Bro, apa kabar cuaca di Medan?",ask_weather
+Saya pengen tahu cuaca di Bogor!,ask_weather
+"Cuaca di Makassar hari ini apa, bro?",ask_weather
+"Halo, kasih tahu cuaca di Semarang!",ask_weather
+"Bro, cuaca di Denpasar gimana sih?",ask_weather
+Saya mau tahu cuaca di Palembang!,ask_weather
+"Cuaca di Bekasi hari ini apa, bro?",ask_weather
+"Halo, cuaca di Tangerang gimana?",ask_weather
+"Bro, apa kabar cuaca di Malang?",ask_weather
+Saya pengen tahu cuaca di Solo!,ask_weather
+"Cuaca di Batam sekarang apa, bro?",ask_weather
+"Halo, kasih tahu cuaca di Pekanbaru!",ask_weather
+"Bro, cuaca di Manado hari ini gimana?",ask_weather
+Saya mau tahu cuaca di Padang!,ask_weather
+"Cuaca di Samarinda apa, bro?",ask_weather
+"Halo, cuaca di Banjarmasin gimana?",ask_weather
+"Bro, apa kabar cuaca di Pontianak?",ask_weather
+Saya pengen tahu cuaca di Balikpapan!,ask_weather
+"Cuaca di Jambi hari ini apa, bro?",ask_weather
+"Halo, kasih tahu cuaca di Lampung!",ask_weather
+"Bro, cuaca di Cirebon gimana sih?",ask_weather
+Saya mau tahu cuaca di Purwokerto!,ask_weather
+"Cuaca di Tegal sekarang apa, bro?",ask_weather
+"Halo, cuaca di Sukabumi hari ini gimana?",ask_weather
+"Bro, apa kabar cuaca di Serang?",ask_weather
+Saya pengen tahu cuaca di Mataram!,ask_weather
+"Cuaca di Tasikmalaya apa, bro?",ask_weather
+"Halo, kasih tahu cuaca di Kudus!",ask_weather
+"Bro, cuaca di Aceh hari ini gimana?",ask_weather
+Saya mau tahu cuaca di Kendari!,ask_weather
+"Cuaca di Cianjur sekarang apa, bro?",ask_weather
+"Halo, cuaca di Depok gimana sih?",ask_weather
+"Bro, apa kabar cuaca di Jaksel?",ask_weather
+Saya pengen tahu cuaca di Jakbar!,ask_weather
+"Cuaca di Yogyakarta hari ini apa, bro?",ask_weather
+"Halo, kasih tahu cuaca di Surakarta!",ask_weather
+"Bro, cuaca di Banten gimana sih?",ask_weather
+Saya mau tahu cuaca di Purwakarta!,ask_weather
+"Cuaca di Kuningan apa, bro?",ask_weather
+"Halo, cuaca di Subang hari ini gimana?",ask_weather
+"Bro, apa kabar cuaca di Garut?",ask_weather
+Saya pengen tahu cuaca di Cimahi!,ask_weather
+"Cuaca di Bekasi sekarang apa, bro?",ask_weather
+"Halo, kasih tahu cuaca di Jakarta Utara!",ask_weather
+"Bro, cuaca di Bogor hari ini gimana?",ask_weather
+Saya mau tahu cuaca di Bandung Barat!,ask_weather
+"Bro, ceritain dong lelucon lucu!",tell_joke
+"Halo, kasih tahu joke yang bikin ketawa!",tell_joke
+"Saya mau dengar lelucon, bro!",tell_joke
+"Bot, ceritain joke lucu dong!",tell_joke
+"Bisa kasih lelucon gak, bro?",tell_joke
+"Bro, kasih joke yang seru dong!",tell_joke
+"Halo, ceritain lelucon buat hiburan!",tell_joke
+"Saya pengen dengar joke lucu, bro!",tell_joke
+"Eh, bot, kasih lelucon dong!",tell_joke
+"Bro, ceritain sesuatu yang lucu!",tell_joke
+"Halo, kasih tahu joke bikin ngakak!",tell_joke
+"Saya mau lelucon yang seru, bro!",tell_joke
+"Bot, ceritain joke gokil dong!",tell_joke
+"Bisa kasih lelucon lucu gak, bro?",tell_joke
+"Bro, kasih joke yang bikin ketawa!",tell_joke
+"Halo, ceritain lelucon asik dong!",tell_joke
+"Saya pengen tahu joke lucu, bro!",tell_joke
+"Eh, bot, ceritain lelucon seru!",tell_joke
+"Bro, kasih lelucon yang gokil dong!",tell_joke
+"Halo, kasih tahu joke yang lucu!",tell_joke
+Saya mau dengar lelucon bikin ngakak!,tell_joke
+"Bot, ceritain sesuatu yang lucu, bro!",tell_joke
+"Bisa kasih joke seru gak, bro?",tell_joke
+"Bro, kasih lelucon yang asik dong!",tell_joke
+"Halo, ceritain joke yang bikin ketawa!",tell_joke
+"Saya pengen dengar lelucon gokil, bro!",tell_joke
+"Eh, bot, kasih joke lucu dong!",tell_joke
+"Bro, ceritain lelucon yang seru banget!",tell_joke
+"Halo, kasih tahu lelucon yang asik!",tell_joke
+"Saya mau lelucon lucu, bro!",tell_joke
+"Bot, ceritain joke yang bikin ngakak!",tell_joke
+"Bisa kasih lelucon gokil gak, bro?",tell_joke
+"Bro, kasih joke yang lucu banget!",tell_joke
+"Halo, ceritain lelucon yang gokil dong!",tell_joke
+"Saya pengen tahu joke seru, bro!",tell_joke
+"Eh, bot, ceritain sesuatu yang lucu!",tell_joke
+"Bro, kasih lelucon yang bikin ngakak!",tell_joke
+"Halo, kasih tahu joke yang seru banget!",tell_joke
+"Saya mau dengar lelucon asik, bro!",tell_joke
+"Bot, ceritain lelucon lucu dong!",tell_joke
+Bisa kasih joke yang bikin ketawa gak?,tell_joke
+"Bro, kasih lelucon yang gokil banget!",tell_joke
+"Halo, ceritain joke lucu dong, bro!",tell_joke
+Saya pengen dengar lelucon yang asik!,tell_joke
+"Eh, bot, kasih lelucon yang bikin ngakak!",tell_joke
+"Bro, ceritain joke yang lucu dong!",tell_joke
+"Halo, kasih tahu lelucon gokil, bro!",tell_joke
+Saya mau lelucon yang bikin ketawa!,tell_joke
+"Bot, ceritain sesuatu yang seru, bro!",tell_joke
+Bisa kasih lelucon lucu banget gak?,tell_joke
+"Bro, kasih joke yang asik banget!",tell_joke
+"Bro, saya seneng banget hari ini!",express_emotion
+"Halo, saya lagi sedih nih, bro.",express_emotion
+"Saya kesel banget, motor mogok lagi!",express_emotion
+"Seneng bro, servisnya cepet banget!",express_emotion
+"Halo, saya lagi bete nih, apa kabar?",express_emotion
+"Bro, saya happy, akhirnya motor selesai!",express_emotion
+"Saya sedih, mobil rusak parah, bro!",express_emotion
+"Halo, kesel banget, antrean lama!",express_emotion
+"Saya seneng, pelayanan bengkel oke!",express_emotion
+"Bro, lagi bad mood, apa kabar?",express_emotion
+"Halo, saya bahagia, motor kinclong!",express_emotion
+"Saya kesel, servis mahal banget, bro!",express_emotion
+"Seneng banget, bro, hasilnya bagus!",express_emotion
+"Halo, saya lagi sedih, apa kabar?",express_emotion
+"Bro, saya happy banget hari ini!",express_emotion
+"Saya bete, motor bermasalah lagi!",express_emotion
+"Halo, seneng nih, servisnya mantap!",express_emotion
+"Saya kesel, bro, lama banget nunggu!",express_emotion
+"Bro, saya seneng, mobil udah beres!",express_emotion
+"Halo, lagi sedih, motor ga jalan!",express_emotion
+"Saya bahagia, bro, bengkel kalian top!",express_emotion
+"Kesel banget, bro, harganya mahal!",express_emotion
+"Halo, seneng banget, cepet selesai!",express_emotion
+"Saya sedih, bro, aki motor mati!",express_emotion
+"Bro, saya happy, servisnya oke banget!",express_emotion
+"Halo, kesel nih, antrean panjang!",express_emotion
+"Saya seneng, motor udah kinclong!",express_emotion
+"Bro, lagi bete, apa kabar bro?",express_emotion
+"Halo, saya bahagia, mobil selesai!",express_emotion
+"Saya kesel, servisnya lama, bro!",express_emotion
+"Seneng banget, bro, mekaniknya jago!",express_emotion
+"Halo, sedih nih, ban motor bocor!",express_emotion
+"Bro, saya happy, bengkel kalian juara!",express_emotion
+"Saya bete, bro, nunggu lama banget!",express_emotion
+"Halo, seneng, servis rem oke banget!",express_emotion
+"Kesel banget, bro, harganya gila!",express_emotion
+"Bro, saya seneng, motor udah beres!",express_emotion
+"Halo, sedih, mobil mogok di jalan!",express_emotion
+"Saya bahagia, bro, pelayanan mantap!",express_emotion
+"Bro, kesel, antrean ga ketolong!",express_emotion
+"Saya sedih, bro, motor ga nyala!",express_emotion
+"Bro, saya happy, hasil servis bagus!",express_emotion
+"Halo, bete nih, apa kabar bro?",express_emotion
+"Saya seneng, bengkel kalian oke!",express_emotion
+"Kesel banget, bro, lama nunggu!",express_emotion
+"Halo, bahagia, motor kinclong lagi!",express_emotion
+"Saya sedih, bro, mobil bermasalah!",express_emotion
+"Bro, seneng banget, servisnya top!",express_emotion
+"Halo, kesel, harganya mahal banget!",express_emotion
+"Saya happy, bro, bengkel kalian juara!",express_emotion
+"Bro, mulai dari awal dong!",start_over
+"Halo, bisa mulai ulang percakapan?",start_over
+"Saya mau mulai dari nol, bro!",start_over
+"Bot, reset obrolan kita dong!",start_over
+"Bisa ulang dari awal gak, bro?",start_over
+"Bro, kita mulai lagi dari awal ya!",start_over
+"Halo, saya pengen restart chat!",start_over
+Saya mau mulai percakapan baru!,start_over
+"Eh, bro, ulang dari awal dong!",start_over
+"Bro, reset dulu obrolannya!",start_over
+"Halo, bisa mulai dari awal lagi?",start_over
+"Saya mau start dari awal, bro!",start_over
+"Bot, ulang dari pertama dong!",start_over
+"Bisa restart percakapan gak, bro?",start_over
+"Bro, mulai ulang chatnya dong!",start_over
+"Halo, saya pengen mulai dari nol!",start_over
+"Saya mau obrolan baru, bro!",start_over
+"Eh, bot, mulai lagi dari awal!",start_over
+"Bro, kasih reset percakapan dong!",start_over
+"Halo, ulang dari awal ya, bro!",start_over
+Saya mau mulai ulang obrolan!,start_over
+"Bot, start over dong, bro!",start_over
+Bisa ulang percakapan dari awal?,start_over
+"Bro, reset obrolan kita ya!",start_over
+"Halo, saya pengen start ulang!",start_over
+Saya mau mulai dari awal lagi!,start_over
+"Eh, bro, ulang dari nol dong!",start_over
+"Bro, mulai dari awal lagi ya!",start_over
+"Halo, bisa reset percakapan?",start_over
+"Saya mau restart chat, bro!",start_over
+"Bot, ulang dari awal dong!",start_over
+Bisa mulai ulang obrolan gak?,start_over
+"Bro, start dari awal dong!",start_over
+"Halo, saya pengen ulang dari nol!",start_over
+"Saya mau percakapan baru, bro!",start_over
+"Eh, bot, reset dulu dong!",start_over
+"Bro, ulang obrolan dari awal!",start_over
+"Halo, mulai lagi dari awal ya!",start_over
+"Saya mau start over, bro!",start_over
+"Bot, reset percakapan dong!",start_over
+"Bisa ulang dari awal, bro?",start_over
+"Bro, mulai ulang dari nol ya!",start_over
+"Halo, saya pengen mulai baru!",start_over
+"Saya mau ulang dari awal, bro!",start_over
+"Eh, bro, start dari awal lagi!",start_over
+"Bro, reset chatnya dong!",start_over
+"Halo, bisa ulang dari pertama?",start_over
+"Saya mau mulai lagi, bro!",start_over
+"Bot, mulai dari awal ya!",start_over
+"Bisa restart chat, bro?",start_over
+"Bro, ulang dari awal dong!",start_over
+"Bro, udah dulu ya, makasih!",end_or_pause_conversation
+"Halo, saya mau akhiri obrolan!",end_or_pause_conversation
+"Saya cukup dulu, bro, bye!",end_or_pause_conversation
+"Bot, stop dulu, makasih ya!",end_or_pause_conversation
+"Bisa akhiri percakapan gak, bro?",end_or_pause_conversation
+"Bro, udahan dulu, terima kasih!",end_or_pause_conversation
+"Halo, saya mau selesai chat!",end_or_pause_conversation
+"Saya pengen stop obrolan, bro!",end_or_pause_conversation
+"Eh, bro, cukup dulu ya!",end_or_pause_conversation
+"Bro, akhiri obrolan kita dong!",end_or_pause_conversation
+"Halo, udah cukup, makasih!",end_or_pause_conversation
+"Saya mau akhiri, bro, bye!",end_or_pause_conversation
+"Bot, selesai dulu ya, bro!",end_or_pause_conversation
+"Bisa stop percakapan, bro?",end_or_pause_conversation
+"Bro, udah selesai, makasih!",end_or_pause_conversation
+"Halo, saya pengen akhiri obrolan!",end_or_pause_conversation
+"Saya mau stop, bro, thanks!",end_or_pause_conversation
+"Eh, bot, udahan dulu dong!",end_or_pause_conversation
+"Bro, cukup dulu obrolannya!",end_or_pause_conversation
+"Halo, akhiri chatnya ya!",end_or_pause_conversation
+"Saya mau selesai, bro, makasih!",end_or_pause_conversation
+"Bot, stop obrolan dong!",end_or_pause_conversation
+"Bisa akhiri obrolan, bro?",end_or_pause_conversation
+"Bro, udah dulu, bye bro!",end_or_pause_conversation
+"Halo, saya cukup dulu ya!",end_or_pause_conversation
+"Saya pengen akhiri chat, bro!",end_or_pause_conversation
+"Eh, bro, stop dulu dong!",end_or_pause_conversation
+"Bro, selesai dulu ya, thanks!",end_or_pause_conversation
+"Halo, udah selesai obrolan!",end_or_pause_conversation
+Saya mau akhiri percakapan!,end_or_pause_conversation
+"Bot, cukup dulu, makasih bro!",end_or_pause_conversation
+"Bisa stop chat, bro?",end_or_pause_conversation
+"Bro, akhiri dulu, terima kasih!",end_or_pause_conversation
+"Halo, saya mau stop obrolan!",end_or_pause_conversation
+"Saya pengen selesai, bro!",end_or_pause_conversation
+"Eh, bot, udah dulu ya!",end_or_pause_conversation
+"Bro, stop percakapan dong!",end_or_pause_conversation
+"Halo, cukup dulu, bye!",end_or_pause_conversation
+"Saya mau akhiri, bro, thanks!",end_or_pause_conversation
+"Bot, selesai obrolan ya!",end_or_pause_conversation
+"Bisa akhiri chat, bro?",end_or_pause_conversation
+"Bro, udah cukup, makasih ya!",end_or_pause_conversation
+"Halo, saya pengen stop, bro!",end_or_pause_conversation
+"Saya mau selesai chat, bro!",end_or_pause_conversation
+"Eh, bro, akhiri dulu dong!",end_or_pause_conversation
+"Bro, udahan dulu ya, bye!",end_or_pause_conversation
+"Halo, stop dulu obrolan!",end_or_pause_conversation
+"Saya pengen akhiri, bro!",end_or_pause_conversation
+"Bot, cukup dulu ya, bye!",end_or_pause_conversation
+"Bisa stop obrolan, bro?",end_or_pause_conversation
+"Bro, selesai dulu, makasih!",end_or_pause_conversation
+"Bro, tahan dulu, nanti lanjut!",end_or_pause_conversation
+"Halo, bisa jeda obrolan sebentar?",end_or_pause_conversation
+"Saya mau pause dulu, bro!",end_or_pause_conversation
+"Bot, tunda dulu, nanti kita lanjut!",end_or_pause_conversation
+"Bisa jeda percakapan gak, bro?",end_or_pause_conversation
+"Bro, tunggu dulu, lanjut nanti ya!",end_or_pause_conversation
+"Halo, saya pengen jeda obrolan!",end_or_pause_conversation
+"Saya mau tahan dulu, bro!",end_or_pause_conversation
+"Eh, bro, pause dulu dong!",end_or_pause_conversation
+"Bro, tunda obrolan kita sebentar!",end_or_pause_conversation
+"Halo, bisa tahan dulu obrolan?",end_or_pause_conversation
+"Saya mau jeda, nanti lanjut, bro!",end_or_pause_conversation
+"Bot, pause dulu dong, bro!",end_or_pause_conversation
+"Bisa tunda percakapan, bro?",end_or_pause_conversation
+"Halo, saya pengen pause sebentar!",end_or_pause_conversation
+"Saya mau tunda dulu, bro!",end_or_pause_conversation
+"Eh, bot, jeda dulu dong!",end_or_pause_conversation
+"Bro, pause obrolan sebentar ya!",end_or_pause_conversation
+"Halo, tahan dulu chatnya!",end_or_pause_conversation
+"Saya mau jeda obrolan, bro!",end_or_pause_conversation
+"Bot, tunda dulu ya, nanti lanjut!",end_or_pause_conversation
+"Bisa pause percakapan, bro?",end_or_pause_conversation
+"Bro, tunggu dulu, lanjut nanti!",end_or_pause_conversation
+"Halo, saya mau tahan obrolan!",end_or_pause_conversation
+"Saya pengen jeda dulu, bro!",end_or_pause_conversation
+"Eh, bro, tunda dulu dong!",end_or_pause_conversation
+"Bro, pause dulu, nanti lanjut!",end_or_pause_conversation
+"Halo, bisa jeda dulu obrolan?",end_or_pause_conversation
+"Saya mau tahan, nanti lanjut!",end_or_pause_conversation
+"Bot, jeda dulu, bro, nanti lanjut!",end_or_pause_conversation
+"Bisa tunda chat, bro?",end_or_pause_conversation
+"Bro, tahan obrolan dulu ya!",end_or_pause_conversation
+"Halo, saya pengen pause chat!",end_or_pause_conversation
+"Saya mau jeda, bro, nanti lanjut!",end_or_pause_conversation
+"Eh, bot, pause dulu ya!",end_or_pause_conversation
+"Bro, tunda dulu obrolannya!",end_or_pause_conversation
+"Halo, tahan dulu, nanti lanjut!",end_or_pause_conversation
+"Saya mau pause obrolan, bro!",end_or_pause_conversation
+"Bot, tunggu dulu, lanjut nanti!",end_or_pause_conversation
+"Bisa jeda obrolan, bro?",end_or_pause_conversation
+"Bro, pause dulu chatnya dong!",end_or_pause_conversation
+"Halo, saya mau tunda sebentar!",end_or_pause_conversation
+"Saya pengen tahan dulu, bro!",end_or_pause_conversation
+"Eh, bro, jeda dulu, nanti lanjut!",end_or_pause_conversation
+"Bro, tunggu dulu obrolan ya!",end_or_pause_conversation
+"Halo, bisa pause dulu, bro?",end_or_pause_conversation
+"Saya mau tunda, nanti lanjut, bro!",end_or_pause_conversation
+"Bot, tahan dulu dong, nanti lanjut!",end_or_pause_conversation
+"Bisa tunda obrolan, bro?",end_or_pause_conversation
+"Bro, jeda dulu, lanjut nanti ya!",end_or_pause_conversation

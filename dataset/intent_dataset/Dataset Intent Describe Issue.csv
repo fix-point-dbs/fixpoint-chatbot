@@ -1,0 +1,878 @@
+intent,text
+describe_issue,Mobil saya kok tiba-tiba susah distarter, apa ya masalahnya?
+describe_issue,Motor saya bunyi aneh dari mesin, kayak ketukan gitu.
+describe_issue,Oli di mobil saya bocor, ada tetesan di bawah mesin.
+describe_issue,AC mobil saya ga dingin lagi, cuma keluar angin doang.
+describe_issue,Ban motor saya kempes terus, padahal baru ditambal.
+describe_issue,Mesin mobil saya overheat, suhu naik terus pas jalan.
+describe_issue,Lampu depan motor saya mati sebelah, ga nyala sama sekali.
+describe_issue,Rem mobil saya bunyi berdecit tiap ngerem, kenapa ya?
+describe_issue,Gear motor saya susah masuk, keras banget rasanya.
+describe_issue,Asap knalpot mobil saya putih banget, apa itu normal?
+describe_issue,Motor saya goyang-goyang pas ngebut, ga stabil.
+describe_issue,Power mobil saya kayak lelet, ga bertenaga pas nanjak.
+describe_issue,Suara mesin motor saya kasar banget, ga halus lagi.
+describe_issue,Klakson mobil saya ga bunyi, udah coba tapi diam.
+describe_issue,Spion motor saya longgar, geter terus pas jalan.
+describe_issue,Mobil saya tarikannya berat, kayak ada yang nahan.
+describe_issue,Busi motor saya cepet banget mati, baru ganti bulan lalu.
+describe_issue,Wiper mobil saya ga jalan, cuma gerak pelan banget.
+describe_issue,Kopling motor saya selip, gas naik tapi ga lari.
+describe_issue,Mesin mobil saya mati sendiri pas berhenti di lampu merah.
+describe_issue,Shockbreaker motor saya bocor, oli netes di roda.
+describe_issue,Lampu sein mobil saya ga nyala, padahal saklar udah on.
+describe_issue,Motor saya susah nyala pagi-pagi, harus starter lama.
+describe_issue,Stir mobil saya bergetar pas ngebut di tol, kenapa ya?
+describe_issue,Chain motor saya kendor, bunyi kletak-kletak pas jalan.
+describe_issue,Air radiator mobil saya cepet habis, apa ada kebocoran?
+describe_issue,Motor saya boros bensin banget, ga wajar kayaknya.
+describe_issue,Jok mobil saya basah, kayak ada rembesan dari mana gitu.
+describe_issue,Speedometer motor saya ga jalan, stuck di nol.
+describe_issue,Mobil saya bunyi gluduk-gluduk dari kolong pas lewat polisi tidur.
+describe_issue,Mesin motor saya panas banget, sampe bau gosong.
+describe_issue,Power window mobil saya macet, ga bisa naik-turun.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Suspensi mobil saya keras banget, ga nyaman di jalan.
+describe_issue,Rem motor saya blong, ga pakem lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala terus, tanda check engine.
+describe_issue,Motor saya geter hebat pas idle, kayak mau mati.
+describe_issue,Mobil saya bau bensin di kabin, apa ada yang bocor?
+describe_issue,Aki motor saya lelet, starter ga kuat lagi.
+describe_issue,Gas mobil saya ga responsif, injak gas kok lambat.
+describe_issue,Motor saya keluar asap hitam dari knalpot, apa itu bahaya?
+describe_issue,Transmisi mobil saya bunyi aneh pas pindah gigi.
+describe_issue,Handle motor saya keras, susah buat belok.
+describe_issue,Mobil saya goyang pas ngerem, apa rotor bremnya bermasalah?
+describe_issue,Lampu rem motor saya ga nyala, padahal rem udah ditekan.
+describe_issue,Mesin mobil saya bunyi tik-tik, apa itu serius?
+describe_issue,Motor saya tarikannya lelet, kayak kehabisan tenaga.
+describe_issue,Kaca mobil saya buram, wiper ga bisa bersihin.
+describe_issue,Shock motor saya amblas, ga balik lagi ke posisi awal.
+describe_issue,Mobil saya susah pindah gigi, keras banget rasanya.
+describe_issue,Motor saya bau oli terbakar, apa mesinnya bermasalah?
+describe_issue,AC mobil saya bau apek, ga enak banget baunya.
+describe_issue,Motor saya bunyi ngorok pas digas, dari mesin kayaknya.
+describe_issue,Stir mobil saya berat banget, ga enteng lagi.
+describe_issue,Ban motor saya aus sebelah, apa perlu spooring?
+describe_issue,Mobil saya bunyi kretek-kretek pas muter setir.
+describe_issue,Motor saya ga bisa nyala, padahal bensin penuh.
+describe_issue,Radiator mobil saya bocor, air netes di bawah.
+describe_issue,Motor saya bunyi aneh dari rem, kayak gesekan besi.
+describe_issue,Lampu utama mobil saya redup banget, ga terang lagi.
+describe_issue,Motor saya ga stabil pas ngebut, goyang ke kiri-kanan.
+describe_issue,Mobil saya bau seperti karet terbakar, apa itu bahaya?
+describe_issue,Aki motor saya cepet soak, baru sebulan udah lelet.
+describe_issue,Transmisi mobil saya selip, ga smooth pas pindah gigi.
+describe_issue,Motor saya susah distarter, harus injak berkali-kali.
+describe_issue,Mobil saya geter pas jalan pelan, apa mesinnya bermasalah?
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas.
+describe_issue,Lampu indikator mobil saya nyala, tanda oli rendah.
+describe_issue,Motor saya keluar asap putih dari knalpot, apa itu normal?
+describe_issue,Power steering mobil saya bunyi, kayak mendengung.
+describe_issue,Motor saya ga bertenaga pas nanjak, lelet banget.
+describe_issue,Mobil saya bunyi aneh dari ban, kayak ada batu nyangkut.
+describe_issue,Chain motor saya bunyi kletek-kletek, apa perlu ganti?
+describe_issue,AC mobil saya cuma dingin sebentar, abis itu panas lagi.
+describe_issue,Motor saya mati sendiri pas lagi pelan di lampu merah.
+describe_issue,Suspensi mobil saya bunyi krek-krek pas lewat lubang.
+describe_issue,Motor saya bensinnya bocor, netes di karburator.
+describe_issue,Lampu kabut mobil saya ga nyala, padahal udah dihidupkan.
+describe_issue,Motor saya bunyi ngiung-ngiung dari mesin, apa itu serius?
+describe_issue,Mobil saya tarikannya ga stabil, kadang cepet kadang lelet.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Dashboard mobil saya nyala tanda ABS, apa itu bermasalah?
+describe_issue,Motor saya geter parah pas digas, apa businya mati?
+describe_issue,Mobil saya bau aneh dari mesin, kayak oli gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas pindah ke gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya boros bensin, sekali isi cuma cukup dua hari.
+describe_issue,Mobil saya bunyi aneh dari roda, kayak gesekan besi.
+describe_issue,Rem motor saya bunyi cit-cit tiap narik tuas rem.
+describe_issue,Stir mobil saya berat banget, ga enteng kayak dulu.
+describe_issue,Motor saya ga stabil pas belok, kayak oleng gitu.
+describe_issue,Mobil saya bau oli di kabin, apa ada kebocoran?
+describe_issue,Aki motor saya cepet habis, lampu meredup cepet.
+describe_issue,Transmisi mobil saya bunyi krek pas pindah gigi.
+describe_issue,Motor saya susah nyala, harus starter berkali-kali.
+describe_issue,Mobil saya geter pas idle, apa mesinnya bermasalah?
+describe_issue,Ban motor saya aus parah, apa perlu ganti baru?
+describe_issue,AC mobil saya bau apek, kayak ada jamur di dalam.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa serius?
+describe_issue,Lampu sein mobil saya ga nyala sebelah, apa kabelnya putus?
+describe_issue,Motor saya tarikannya lelet, gas dibuka tapi ga lari.
+describe_issue,Mobil saya bunyi gemeretak pas lewat jalan rusak.
+describe_issue,Shockbreaker motor saya bocor, oli netes di ban.
+describe_issue,Power window mobil saya macet, ga bisa turun sama sekali.
+describe_issue,Motor saya asapnya hitam banget, apa mesinnya bermasalah?
+describe_issue,Mobil saya susah starter, bunyi cekrik tapi ga nyala.
+describe_issue,Rem motor saya ga nyaman, kayak licin pas narik.
+describe_issue,Lampu dashboard mobil saya nyala tanda check engine, apa itu serius?
+describe_issue,Motor saya geter parah pas digas, apa businya soak?
+describe_issue,Mobil saya bau aneh dari mesin, kayak karet gosong.
+describe_issue,Aki motor saya ga ngisi, lampu redup banget.
+describe_issue,Transmisi mobil saya bunyi gluduk pas masuk gigi mundur.
+describe_issue,Motor saya susah nyala pas hujan, apa karburatornya basah?
+describe_issue,Mobil saya bunyi aneh dari kolong, kayak besi kendor.
+describe_issue,Ban motor saya bunyi decit pas belok, apa itu normal?
+describe_issue,AC mobil saya ga nyala sama sekali, cuma bunyi klik.
+describe_issue,Motor saya boros oli, cepet banget habis.
+describe_issue,Stir mobil saya miring, tarik ke kiri terus.
+describe_issue,Motor saya bunyi ketuk-ketuk dari mesin, apa perlu turun mesin?
+describe_issue,Lampu sein mobil saya kedip cepet, apa lampunya rusak?
+describe_issue,Motor saya ga bertenaga, gas dibuka full tapi lambat.
+describe_issue,Mobil saya bunyi gemeretak pas jalan di jalan berbatu.
+describe_issue,Shockbreaker motor saya bunyi, kayak ada yang lepas.
+describe_issue,Power window mobil saya cuma turun setengah, macet.
+describe_issue,Motor saya asapnya bau, kayak bensin mentah.
+describe_issue,Mobil saya susah starter pagi-pagi, bunyi cekrik-cekrik.
+describe_issue,Rem motor saya keras, ga lembut lagi pas ditarik.
+describe_issue,Lampu dashboard mobil saya nyala tanda baterai, apa itu aki soak?
+describe_issue,Motor saya bunyi aneh pas idle, kayak mesin bergetar.
+describe_issue,Mobil saya bau bensin pas AC dinyalakan, kenapa ya?
+describe_issue,Kopling motor saya bunyi, kayak gesekan pas lepas kopling.
+describe_issue,Suspensi mobil saya amblas sebelah, apa patah per?
+describe_issue,Motor saya tarikannya tersendat, ga mulus lagi.
+describe_issue,Lampu utama mobil saya ga fokus, cahayanya nyebar.
+describe_issue,Motor saya bunyi kletuk-kletuk dari roda belakang.
+describe_issue,Mobil saya bunyi aneh dari mesin, kayak ada air mendidih.
+describe_issue,Aki motor saya panas banget, apa itu normal?
+describe_issue,Transmisi mobil saya ga masuk ke gigi tertentu, macet.
+describe_issue,Motor saya geter pas jalan pelan, apa rantainya bermasalah?
+describe_issue,Mobil saya bunyi decit dari sabuk mesin, apa perlu ganti?
+describe_issue,Rem motor saya ga pakem, harus narik kuat banget.
+describe_issue,AC mobil saya bunyi berisik, kayak ada yang longgar.
+describe_issue,Motor saya susah pindah gigi, keras banget rasanya.
+describe_issue,Mobil saya tarikannya loyo, ga kayak biasanya.
+describe_issue,Lampu rem motor saya redup, hampir ga kelihatan.
+describe_issue,Suspensi mobil saya bunyi gluduk pas lewat polisi tidur.
+describe_issue,Motor saya bau gosong pas lama dipakai, kenapa ya?
+describe_issue,Power steering mobil saya bocor, ada oli netes di bawah.
+describe_issue,Motor saya bunyi ngorok pas digas, dari karburator kayaknya.
+describe_issue,Mobil saya geter hebat pas ngebut, apa ban ga balance?
+describe_issue,Chain motor saya kendor banget, bunyi kletak-kletak.
+describe_issue,AC mobil saya cuma keluar angin panas, ga dingin sama sekali.
+describe_issue,Motor saya mati mendadak pas lagi riding, ga tahu kenapa.
+describe_issue,Lampu dashboard mobil saya nyala tanda suhu tinggi, apa radiatornya bermasalah?
+describe_issue,Motor saya
