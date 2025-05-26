@@ -1,0 +1,1001 @@
+vehicle_type,problem_description,diagnosis,first_aid,second_aid,third_aid
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+motor,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+motor,rem blong,kampas rem habis,isi minyak rem atau ganti kampas,ganti kampas rem,servis rem secara total
+mobil,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting
+mobil,mesin overheat,radiator bocor,isi ulang air radiator,ganti radiator,servis sistem pendingin
+mobil,ban bocor,ban pecah,ganti ban dengan cadangan,tambal ban di tukang tambal,ganti ban seluruhnya jika aus
+mobil,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+motor,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,indikator check engine menyala,sensor rusak,reset ECU,bawa ke bengkel untuk pengecekan sensor,ganti sensor dan reset sistem
+mobil,mesin mati,aki tekor,cek dan jumper aki,ganti aki baru,cek sistem kelistrikan secara menyeluruh
+motor,knalpot mengeluarkan asap tebal,oli mesin habis,isi oli mesin,ganti oli dan filter oli,overhaul mesin
+mobil,kopling slip,kampas kopling aus,sesuaikan kopling sementara,ganti kampas kopling,servis transmisi
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+motor,lampu tidak menyala,kabel konslet,periksa dan ganti kabel,bawa ke bengkel untuk ganti kabel,periksa sistem kelistrikan dan ECU
+mobil,kendaraan tidak mau menyala,starter rusak,cek dan pukul ringan motor starter,ganti motor starter,servis sistem starter
+mobil,getaran tidak normal saat berkendara,engine mounting rusak,kurangi kecepatan dan hindari jalan rusak,bawa ke bengkel untuk pengecekan mounting,ganti engine mounting

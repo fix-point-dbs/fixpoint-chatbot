@@ -1,0 +1,405 @@
+vehicle_type,problem_description,diagnosis,first_aid,second_aid,third_aid
+mobil,mesin mati,aki tekor,Periksa koneksi kabel aki dan pastikan tidak longgar,Bersihkan terminal aki dari korosi,Jumper aki atau ganti aki baru
+motor,lampu tidak nyala,konslet pada kabel lampu,Periksa kabel lampu apakah ada yang putus,Ganti sekring lampu jika putus,Bawa ke bengkel untuk pemeriksaan rangkaian listrik
+mobil,mesin overheat,radiator bocor,Periksa level air radiator dan isi jika kurang,Tambal kebocoran radiator dengan sealant sementara,Ganti radiator di bengkel
+motor,ban kempes,ban bocor,Periksa ban untuk menemukan lubang,Tambal ban dengan kit tambal ban sementara,Ganti ban dalam atau luar di bengkel
+mobil,rem blong,minyak rem habis,Periksa level minyak rem di reservoir,Isi ulang minyak rem dengan tipe yang sesuai,Periksa kebocoran sistem rem di bengkel
+motor,mesin bergetar hebat,kopling aus,Periksa kondisi kopling saat mesin hidup,Setel kopling untuk mengurangi getaran,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,gas freon habis,Periksa tekanan freon di sistem AC,Isi ulang freon di bengkel AC,Ganti kompresor AC jika masih tidak dingin
+motor,starter tidak berfungsi,starter motor lemah,Periksa aki motor dan pastikan terisi penuh,Ganti relay starter jika rusak,Bawa ke bengkel untuk perbaikan starter motor
+mobil,suara berdecit saat rem,kanvas rem aus,Periksa keausan kanvas rem,Ganti kanvas rem dengan yang baru,Periksa cakram rem untuk kerusakan lebih lanjut
+motor,mesin sulit menyala,busi kotor,Periksa dan bersihkan busi,Ganti busi jika sudah aus,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Cuci tangki bahan bakar,Ganti pompa bahan bakar di bengkel
+motor,stang bergetar,roda tidak seimbang,Periksa tekanan angin ban dan sesuaikan,Balance roda di bengkel,Ganti pelek jika bengkok
+mobil,klakson tidak bunyi,sekring klakson putus,Periksa sekring klakson di kotak sekring,Ganti sekring klakson dengan yang baru,Periksa kabel klakson di bengkel
+motor,mesin mati saat idle,karburator kotor,Setel idle pada karburator,Bersihkan karburator dengan cairan pembersih,Ganti karburator jika rusak parah
+mobil,wiper tidak berfungsi,motor wiper rusak,Periksa sekring wiper,Ganti sekring wiper jika putus,Bawa ke bengkel untuk ganti motor wiper
+motor,rem kurang pakem,kampas rem aus,Periksa ketebalan kampas rem,Ganti kampas rem dengan yang baru,Periksa tromol rem untuk kerusakan
+mobil,mesin berasap putih,oli bocor ke ruang bakar,Periksa level oli mesin,Kurangi oli jika berlebih,Bawa ke bengkel untuk perbaikan seal mesin
+motor,lampu redup,alternator lemah,Periksa output alternator dengan multimeter,Ganti regulator tegangan,Bawa ke bengkel untuk perbaikan alternator
+mobil,kemudi berat,pompa power steering lemah,Periksa level cairan power steering,Isi ulang cairan power steering,Ganti pompa power steering di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai dengan pelumas khusus,Ganti rantai dan gir di bengkel
+mobil,mesin tidak bertenaga,filter udara kotor,Periksa filter udara dan bersihkan,Ganti filter udara jika sangat kotor,Bawa ke bengkel untuk pemeriksaan sistem bahan bakar
+motor,ban selip di jalan basah,ban aus,Periksa kedalaman alur ban,Ganti ban dengan pola alur yang sesuai,Bawa ke bengkel untuk pemeriksaan suspensi
+mobil,mesin bergetar saat idle,sensor idle rusak,Periksa koneksi sensor idle,Reset ECU dengan alat scan,Bawa ke bengkel untuk ganti sensor idle
+motor,starter berbunyi tapi mesin tidak hidup,bendix starter aus,Periksa bendix starter,Ganti bendix starter,Bawa ke bengkel untuk pemeriksaan sistem starter
+mobil,ac berbau tidak sedap,filter kabin kotor,Periksa dan bersihkan filter kabin,Ganti filter kabin dengan yang baru,Lakukan pembersihan sistem AC di bengkel
+motor,mesin mati saat gas ditarik,filter bahan bakar tersumbat,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+mobil,lampu sein tidak menyala,flasher rusak,Periksa flasher di kotak sekring,Ganti flasher dengan yang baru,Periksa kabel sein di bengkel
+motor,shockbreaker bocor,seal shockbreaker rusak,Periksa kebocoran oli pada shockbreaker,Ganti seal shockbreaker,Ganti shockbreaker di bengkel
+mobil,mesin sulit distarter pagi hari,busi aus,Periksa busi dan bersihkan,Ganti busi dengan yang baru,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+motor,mesin overheat,kipas radiator mati,Periksa koneksi kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,ban bergetar di kecepatan tinggi,roda tidak seimbang,Periksa tekanan angin ban dan sesuaikan,Lakukan balancing roda di bengkel,Ganti pelek jika bengkok
+motor,lampu rem tidak menyala,switch rem rusak,Periksa switch rem pada tuas,Ganti switch rem,Bawa ke bengkel untuk pemeriksaan kabel rem
+mobil,suara gemeretak saat belok,CV joint aus,Periksa boot CV joint untuk kebocoran gemuk,Ganti gemuk CV joint,Ganti CV joint di bengkel
+motor,mesin boros bahan bakar,karburator tidak seimbang,Setel karburator untuk campuran udara-bahan bakar,Bersihkan karburator secara menyeluruh,Ganti karburator di bengkel
+mobil,mesin mati saat AC dinyalakan,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk perbaikan kompresor AC
+motor,rem berdecit,kampas rem kotor,Periksa kampas rem dan bersihkan,Ganti kampas rem jika aus,Periksa tromol rem untuk kerusakan
+mobil,mesin berasap hitam,penyemprotan injektor kotor,Periksa filter udara dan ganti jika kotor,Bersihkan injektor dengan cairan pembersih,Bawa ke bengkel untuk servis injektor
+motor,mesin tersendat saat digas,selang bahan bakar tersumbat,Periksa selang bahan bakar,Ganti selang bahan bakar,Bawa ke bengkel untuk pemeriksaan sistem bahan bakar
+mobil,kaca jendela tidak bisa naik turun,motor penggerak kaca rusak,Periksa sekring motor kaca,Ganti sekring motor kaca,Bawa ke bengkel untuk ganti motor penggerak
+motor,mesin mati mendadak,koil pengapian rusak,Periksa koil pengapian dengan multimeter,Ganti koil pengapian,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin tidak stabil,rpm sensor rusak,Periksa koneksi rpm sensor,Reset ECU dengan alat scan,Bawa ke bengkel untuk ganti rpm sensor
+motor,stang kemudi berat,bearing stang aus,Periksa bearing stang,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,mesin overheat saat macet,thermostat macet,Periksa level air radiator dan isi jika kurang,Periksa thermostat dan ganti jika macet,Bawa ke bengkel untuk pemeriksaan sistem pendingin
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem terasa spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem untuk keluarkan udara,Bawa ke bengkel untuk pemeriksaan master rem
+motor,mesin bergetar saat digas,kopling slip,Setel kekencangan kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,mesin mati saat idle,throttle body kotor,Bersihkan throttle body dengan pembersih khusus,Periksa sensor throttle,Ganti throttle body di bengkel
+motor,ban goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda di bengkel,Ganti pelek di bengkel
+mobil,ac tidak merata,blend door macet,Periksa pengaturan ventilasi AC,Periksa aktuator blend door,Ganti aktuator blend door di bengkel
+motor,mesin tidak bertenaga,filter udara kotor,Periksa filter udara dan bersihkan,Ganti filter udara,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin berdecit,v-belt kendor,Periksa kekencangan v-belt,Setel v-belt ke kekencangan yang sesuai,Ganti v-belt di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai dengan pelumas,Ganti rantai dan gir di bengkel
+mobil,lampu dashboard redup,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi dengan lap kering,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin bergetar hebat,mounting mesin rusak,Periksa mounting mesin untuk retakan,Ganti mounting mesin,Bawa ke bengkel untuk pemeriksaan lebih lanjut
+motor,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+mobil,mesin sulit menyala,koil pengapian lemah,Periksa koil pengapian dengan multimeter,Ganti koil pengapian,Bawa ke bengkel untuk pemeriksaan ECU
+motor,rem tidak berfungsi,selang rem bocor,Periksa selang rem untuk kebocoran,Tambal selang rem sementara,Ganti selang rem di bengkel
+mobil,mesin berasap biru,ring piston aus,Periksa level oli mesin,Kurangi oli jika berlebih,Bawa ke bengkel untuk overhaul mesin
+motor,mesin tersendat di putaran rendah,karburator kotor,Bersihkan karburator dengan pembersih,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,ac berisik,kompresor AC rusak,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,stang kemudi goyang,bearing stang longgar,Periksa bearing stang dan kencangkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,rem bergetar,rotor rem bengkok,Periksa rotor rem untuk keausan,Bubut rotor rem di bengkel,Ganti rotor rem
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin tidak bertenaga,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,rantai berisik saat digas,rantai kendor,Setel kekencangan rantai,Lumasi rantai dengan pelumas,Ganti rantai dan gir di bengkel
+mobil,ac tidak dingin,filter kabin tersumbat,Periksa filter kabin dan bersihkan,Ganti filter kabin,Lakukan servis sistem AC di bengkel
+motor,mesin bergetar di kecepatan tinggi,roda tidak seimbang,Periksa tekanan angin ban,Balance roda di bengkel,Ganti pelek jika bengkok
+mobil,mesin mati mendadak,pompa bahan bakar rusak,Periksa sekring pompa bahan bakar,Ganti sekring pompa bahan bakar,Bawa ke bengkel untuk ganti pompa bahan bakar
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator dengan multimeter,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban dan sesuaikan,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,mesin sulit menyala pagi hari,busi kotor,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit saat hidup,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala,karburator kotor,Bersihkan karburator,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,kemudi berat,cairan power steering kurang,Periksa level cairan power steering,Isi ulang cairan power steering,Periksa pompa power steering di bengkel
+motor,lampu sein tidak menyala,flasher rusak,Periksa flasher,Ganti flasher,Periksa kabel sein di bengkel
+mobil,mesin berasap hitam,injektor kotor,Bersihkan injektor dengan cairan pembersih,Ganti injektor,Bawa ke bengkel untuk servis sistem bahan bakar
+motor,rem blong,master rem rusak,Periksa master rem,Ganti seal master rem,Bawa ke bengkel untuk ganti master rem
+mobil,mesin mati mendadak,ECU error,Periksa kode error dengan alat scan,Reset ECU,Bawa ke bengkel untuk perbaikan ECU
+motor,stang goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda,Ganti pelek di bengkel
+mobil,ac tidak merata,ventilasi tersumbat,Periksa ventilasi AC,Bersihkan ventilasi AC,Lakukan servis sistem AC di bengkel
+motor,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin bergetar,sensor throttle rusak,Periksa koneksi sensor throttle,Reset ECU,Ganti sensor throttle di bengkel
+motor,ban bergetar,roda tidak seimbang,Periksa tekanan angin ban,Balance roda,Ganti pelek di bengkel
+mobil,lampu dashboard mati,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,rem spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem,Bawa ke bengkel untuk pemeriksaan master rem
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,mesin sulit distarter,aki lemah,Periksa koneksi aki,Bersihkan terminal aki,Ganti aki di bengkel
+motor,mesin bergetar,kopling slip,Setel kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,ac berbau,filter kabin kotor,Periksa filter kabin,Ganti filter kabin,Lakukan pembersihan sistem AC di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,mesin tersendat,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala,karburator kotor,Bersihkan karburator,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,kemudi berat,cairan power steering kurang,Periksa level cairan power steering,Isi ulang cairan power steering,Periksa pompa power steering di bengkel
+motor,lampu sein tidak menyala,flasher rusak,Periksa flasher,Ganti flasher,Periksa kabel sein di bengkel
+mobil,mesin berasap hitam,injektor kotor,Bersihkan injektor dengan cairan pembersih,Ganti injektor,Bawa ke bengkel untuk servis sistem bahan bakar
+motor,rem blong,master rem rusak,Periksa master rem,Ganti seal master rem,Bawa ke bengkel untuk ganti master rem
+mobil,mesin mati mendadak,ECU error,Periksa kode error dengan alat scan,Reset ECU,Bawa ke bengkel untuk perbaikan ECU
+motor,stang goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda,Ganti pelek di bengkel
+mobil,ac tidak merata,ventilasi tersumbat,Periksa ventilasi AC,Bersihkan ventilasi AC,Lakukan servis sistem AC di bengkel
+motor,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin bergetar,sensor throttle rusak,Periksa koneksi sensor throttle,Reset ECU,Ganti sensor throttle di bengkel
+motor,ban bergetar,roda tidak seimbang,Periksa tekanan angin ban,Balance roda,Ganti pelek di bengkel
+mobil,lampu dashboard mati,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,rem spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem,Bawa ke bengkel untuk pemeriksaan master rem
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,mesin sulit distarter,aki lemah,Periksa koneksi aki,Bersihkan terminal aki,Ganti aki di bengkel
+motor,mesin bergetar,kopling slip,Setel kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,ac berbau,filter kabin kotor,Periksa filter kabin,Ganti filter kabin,Lakukan pembersihan sistem AC di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,mesin tersendat,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala,karburator kotor,Bersihkan karburator,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,kemudi berat,cairan power steering kurang,Periksa level cairan power steering,Isi ulang cairan power steering,Periksa pompa power steering di bengkel
+motor,lampu sein tidak menyala,flasher rusak,Periksa flasher,Ganti flasher,Periksa kabel sein di bengkel
+mobil,mesin berasap hitam,injektor kotor,Bersihkan injektor dengan cairan pembersih,Ganti injektor,Bawa ke bengkel untuk servis sistem bahan bakar
+motor,rem blong,master rem rusak,Periksa master rem,Ganti seal master rem,Bawa ke bengkel untuk ganti master rem
+mobil,mesin mati mendadak,ECU error,Periksa kode error dengan alat scan,Reset ECU,Bawa ke bengkel untuk perbaikan ECU
+motor,stang goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda,Ganti pelek di bengkel
+mobil,ac tidak merata,ventilasi tersumbat,Periksa ventilasi AC,Bersihkan ventilasi AC,Lakukan servis sistem AC di bengkel
+motor,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin bergetar,sensor throttle rusak,Periksa koneksi sensor throttle,Reset ECU,Ganti sensor throttle di bengkel
+motor,ban bergetar,roda tidak seimbang,Periksa tekanan angin ban,Balance roda,Ganti pelek di bengkel
+mobil,lampu dashboard mati,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,rem spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem,Bawa ke bengkel untuk pemeriksaan master rem
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,mesin sulit distarter,aki lemah,Periksa koneksi aki,Bersihkan terminal aki,Ganti aki di bengkel
+motor,mesin bergetar,kopling slip,Setel kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,ac berbau,filter kabin kotor,Periksa filter kabin,Ganti filter kabin,Lakukan pembersihan sistem AC di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,mesin tersendat,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan subsistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala,karburator kotor,Bersihkan karburator,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,kemudi berat,cairan power steering kurang,Periksa level cairan power steering,Isi ulang cairan power steering,Periksa pompa power steering di bengkel
+motor,lampu sein tidak menyala,flasher rusak,Periksa flasher,Ganti flasher,Periksa kabel sein di bengkel
+mobil,mesin berasap hitam,injektor kotor,Bersihkan injektor dengan cairan pembersih,Ganti injektor,Bawa ke bengkel untuk servis sistem bahan bakar
+motor,rem blong,master rem rusak,Periksa master rem,Ganti seal master rem,Bawa ke bengkel untuk ganti master rem
+mobil,mesin mati mendadak,ECU error,Periksa kode error dengan alat scan,Reset ECU,Bawa ke bengkel untuk perbaikan ECU
+motor,stang goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda,Ganti pelek di bengkel
+mobil,ac tidak merata,ventilasi tersumbat,Periksa ventilasi AC,Bersihkan ventilasi AC,Lakukan servis sistem AC di bengkel
+motor,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin bergetar,sensor throttle rusak,Periksa koneksi sensor throttle,Reset ECU,Ganti sensor throttle di bengkel
+motor,ban bergetar,roda tidak seimbang,Periksa tekanan angin ban,Balance roda,Ganti pelek di bengkel
+mobil,lampu dashboard mati,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,rem spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem,Bawa ke bengkel untuk pemeriksaan master rem
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,mesin sulit distarter,aki lemah,Periksa koneksi aki,Bersihkan terminal aki,Ganti aki di bengkel
+motor,mesin bergetar,kopling slip,Setel kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,ac berbau,filter kabin kotor,Periksa filter kabin,Ganti filter kabin,Lakukan pembersihan sistem AC di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,mesin tersendat,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala,karburator kotor,Bersihkan karburator,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,kemudi berat,cairan power steering kurang,Periksa level cairan power steering,Isi ulang cairan power steering,Periksa pompa power steering di bengkel
+motor,lampu sein tidak menyala,flasher rusak,Periksa flasher,Ganti flasher,Periksa kabel sein di bengkel
+mobil,mesin berasap hitam,injektor kotor,Bersihkan injektor dengan cairan pembersih,Ganti injektor,Bawa ke bengkel untuk servis sistem bahan bakar
+motor,rem blong,master rem rusak,Periksa master rem,Ganti seal master rem,Bawa ke bengkel untuk ganti master rem
+mobil,mesin mati mendadak,ECU error,Periksa kode error dengan alat scan,Reset ECU,Bawa ke bengkel untuk perbaikan ECU
+motor,stang goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda,Ganti pelek di bengkel
+mobil,ac tidak merata,ventilasi tersumbat,Periksa ventilasi AC,Bersihkan ventilasi AC,Lakukan servis sistem AC di bengkel
+motor,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin bergetar,sensor throttle rusak,Periksa koneksi sensor throttle,Reset ECU,Ganti sensor throttle di bengkel
+motor,ban bergetar,roda tidak seimbang,Periksa tekanan angin ban,Balance roda,Ganti pelek di bengkel
+mobil,lampu dashboard mati,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,rem spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem,Bawa ke bengkel untuk pemeriksaan master rem
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,mesin sulit distarter,aki lemah,Periksa koneksi aki,Bersihkan terminal aki,Ganti aki di bengkel
+motor,mesin bergetar,kopling slip,Setel kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,ac berbau,filter kabin kotor,Periksa filter kabin,Ganti filter kabin,Lakukan pembersihan sistem AC di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,mesin tersendat,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala,karburator kotor,Bersihkan karburator,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,kemudi berat,cairan power steering kurang,Periksa level cairan power steering,Isi ulang cairan power steering,Periksa pompa power steering di bengkel
+motor,lampu sein tidak menyala,flasher rusak,Periksa flasher,Ganti flasher,Periksa kabel sein di bengkel
+mobil,mesin berasap hitam,injektor kotor,Bersihkan injektor dengan cairan pembersih,Ganti injektor,Bawa ke bengkel untuk servis sistem bahan bakar
+motor,rem blong,master rem rusak,Periksa master rem,Ganti seal master rem,Bawa ke bengkel untuk ganti master rem
+mobil,mesin mati mendadak,ECU error,Periksa kode error dengan alat scan,Reset ECU,Bawa ke bengkel untuk perbaikan ECU
+motor,stang goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda,Ganti pelek di bengkel
+mobil,ac tidak merata,ventilasi tersumbat,Periksa ventilasi AC,Bersihkan ventilasi AC,Lakukan servis sistem AC di bengkel
+motor,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin bergetar,sensor throttle rusak,Periksa koneksi sensor throttle,Reset ECU,Ganti sensor throttle di bengkel
+motor,ban bergetar,roda tidak seimbang,Periksa tekanan angin ban,Balance roda,Ganti pelek di bengkel
+mobil,lampu dashboard mati,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,rem spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem,Bawa ke bengkel untuk pemeriksaan master rem
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,mesin sulit distarter,aki lemah,Periksa koneksi aki,Bersihkan terminal aki,Ganti aki di bengkel
+motor,mesin bergetar,kopling slip,Setel kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,ac berbau,filter kabin kotor,Periksa filter kabin,Ganti filter kabin,Lakukan pembersihan sistem AC di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,mesin tersendat,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala,karburator kotor,Bersihkan karburator,Ganti jarum karburator,Bawa ke bengkel untuk servis karburator
+mobil,kemudi berat,cairan power steering kurang,Periksa level cairan power steering,Isi ulang cairan power steering,Periksa pompa power steering di bengkel
+motor,lampu sein tidak menyala,flasher rusak,Periksa flasher,Ganti flasher,Periksa kabel sein di bengkel
+mobil,mesin berasap hitam,injektor kotor,Bersihkan injektor dengan cairan pembersih,Ganti injektor,Bawa ke bengkel untuk servis sistem bahan bakar
+motor,rem blong,master rem rusak,Periksa master rem,Ganti seal master rem,Bawa ke bengkel untuk ganti master rem
+mobil,mesin mati mendadak,ECU error,Periksa kode error dengan alat scan,Reset ECU,Bawa ke bengkel untuk perbaikan ECU
+motor,stang goyang,pelek bengkok,Periksa pelek untuk kerusakan,Balance roda,Ganti pelek di bengkel
+mobil,ac tidak merata,ventilasi tersumbat,Periksa ventilasi AC,Bersihkan ventilasi AC,Lakukan servis sistem AC di bengkel
+motor,mesin tersendat,bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan karburator
+mobil,mesin bergetar,sensor throttle rusak,Periksa koneksi sensor throttle,Reset ECU,Ganti sensor throttle di bengkel
+motor,ban bergetar,roda tidak seimbang,Periksa tekanan angin ban,Balance roda,Ganti pelek di bengkel
+mobil,lampu dashboard mati,sekring dashboard putus,Periksa sekring dashboard,Ganti sekring dashboard,Periksa kabel dashboard di bengkel
+motor,mesin mati saat hujan,kabel busi basah,Keringkan kabel busi,Ganti kabel busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,rem spongy,udara di saluran rem,Periksa level minyak rem,Bleed sistem rem,Bawa ke bengkel untuk pemeriksaan master rem
+motor,lampu rem redup,bohlam rem lemah,Periksa bohlam rem,Ganti bohlam rem,Periksa kabel rem di bengkel
+mobil,mesin sulit distarter,aki lemah,Periksa koneksi aki,Bersihkan terminal aki,Ganti aki di bengkel
+motor,mesin bergetar,kopling slip,Setel kopling,Ganti pelat kopling,Bawa ke bengkel untuk pemeriksaan kopling
+mobil,ac berbau,filter kabin kotor,Periksa filter kabin,Ganti filter kabin,Lakukan pembersihan sistem AC di bengkel
+motor,rantai putus,rantai aus,Periksa kondisi rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,mesin tersendat,sensor oksigen rusak,Periksa kode error dengan alat scan,Reset ECU,Ganti sensor oksigen di bengkel
+motor,mesin overheat,kipas radiator mati,Periksa sekring kipas radiator,Ganti sekring kipas radiator,Bawa ke bengkel untuk ganti motor kipas
+mobil,kemudi bergetar,roda depan tidak seimbang,Periksa tekanan angin ban,Lakukan balancing roda,Ganti pelek atau ban di bengkel
+motor,lampu depan redup,regulator tegangan rusak,Periksa output regulator,Ganti regulator tegangan,Bawa ke bengkel untuk pemeriksaan alternator
+mobil,mesin berasap putih,head gasket bocor,Periksa level oli dan air radiator,Kurangi oli jika berlebih,Bawa ke bengkel untuk ganti head gasket
+motor,rem blong,selang rem tersumbat,Periksa selang rem,Ganti selang rem,Bawa ke bengkel untuk pemeriksaan master rem
+mobil,ac berbau apek,evaporator kotor,Bersihkan evaporator dengan semprotan pembersih,Lakukan pembersihan evaporator di bengkel,Ganti evaporator jika masih bau
+motor,mesin tersendat saat idle,karburator tidak seimbang,Setel karburator,Bersihkan karburator,Ganti karburator di bengkel
+mobil,mesin berdecit,v-belt aus,Periksa v-belt untuk retakan,Ganti v-belt,Bawa ke bengkel untuk pemeriksaan pulley
+motor,stang berat saat belok,bearing stang kotor,Periksa bearing stang dan bersihkan,Lumasi bearing stang,Ganti bearing stang di bengkel
+mobil,lampu sein berkedip cepat,bohlam sein putus,Periksa bohlam sein,Ganti bohlam sein,Periksa flasher di bengkel
+motor,mesin overheat,oli mesin kurang,Periksa level oli mesin,Isi ulang oli mesin,Ganti oli dan periksa kebocoran di bengkel
+mobil,rem kurang pakem,kanvas rem aus,Periksa ketebalan kanvas rem,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,lampu rem tidak menyala,kabel rem putus,Periksa kabel rem,Ganti kabel rem,Bawa ke bengkel untuk pemeriksaan switch rem
+mobil,mesin sulit distarter,starter motor lemah,Periksa koneksi kabel starter,Ganti relay starter,Bawa ke bengkel untuk ganti starter motor
+motor,mesin bergetar hebat,kopling aus,Periksa kopling saat mesin hidup,Setel kopling,Ganti pelat kopling di bengkel
+mobil,ac tidak dingin,kompresor AC macet,Periksa sekring kompresor AC,Ganti sekring kompresor AC,Bawa ke bengkel untuk ganti kompresor AC
+motor,ban kempes,ban bocor,Periksa ban untuk lubang,Tambal ban dengan kit tambal,Ganti ban dalam di bengkel
+mobil,mesin tersendat,filter bahan bakar kotor,Periksa filter bahan bakar,Ganti filter bahan bakar,Bawa ke bengkel untuk pemeriksaan pompa bahan bakar
+motor,lampu depan mati,bohlam lampu putus,Periksa bohlam lampu depan,Ganti bohlam lampu depan,Periksa kabel lampu di bengkel
+mobil,rem berdecit,kanvas rem kotor,Periksa kanvas rem dan bersihkan,Ganti kanvas rem,Periksa cakram rem di bengkel
+motor,mesin mati saat digas,busi rusak,Periksa busi dan bersihkan,Ganti busi,Bawa ke bengkel untuk pemeriksaan sistem pengapian
+mobil,mesin overheat,thermostat macet,Periksa level air radiator,Isi ulang air radiator,Ganti thermostat di bengkel
+motor,rantai berisik,rantai kendor,Setel kekencangan rantai,Lumasi rantai,Ganti rantai di bengkel
+mobil,ac berisik,belt AC kendor,Periksa kekencangan belt AC,Setel belt AC,Ganti belt AC di bengkel
+motor,mesin sulit menyala
