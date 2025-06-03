@@ -4,3 +4,10 @@ matplotlib
 joblib
 sastrawi
 transformers
+fastapi
+faiss-cpu
+tensorflow
+torch
+pydantic
+typing
+onnxruntime
