@@ -8,8 +8,10 @@ from flask import Flask, request, jsonify
 import intent_module
 import retriever_module # Inisialisasi retriever (termasuk FAISS) akan dipanggil di sini
 import chatbot_logic
-
+from flask_cors import CORS
 app = Flask(__name__)
+
+CORS(app)
 
 # Pemuatan model dan resource lain sudah terjadi saat modul diimpor.
 
@@ -18,6 +20,8 @@ def reply_endpoint(): # Mengganti nama fungsi agar tidak bentrok dengan variabel
     try:
         data = request.get_json()
         user_input = data.get('text') # Sesuai dengan Pydantic model di FastAPI ('text')
+        latitude = data.get('latitude')
+        longitude = data.get('longitude')
 
         if user_input is None: # Lebih baik cek None daripada not user_input untuk string kosong
             return jsonify({"error": "Input 'text' tidak ditemukan atau kosong"}), 400
@@ -29,7 +33,7 @@ def reply_endpoint(): # Mengganti nama fungsi agar tidak bentrok dengan variabel
         intent = intent_module.predict_intent(user_input)
 
         # 2. Dapatkan Balasan Chatbot
-        response_message = chatbot_logic.chatbot_reply(user_input, intent) # Ganti nama variabel
+        response_message = chatbot_logic.chatbot_reply(user_input, intent, latitude, longitude) # Ganti nama variabel
 
         return jsonify({"reply": response_message}) # Sesuai output FastAPI
 

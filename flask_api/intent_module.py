@@ -1,40 +1,57 @@
-import onnxruntime as ort
-from transformers import AutoTokenizer
+import torch
+from transformers import AutoTokenizer, AutoConfig, AutoModelForSequenceClassification
 import numpy as np
 from config import INTENT_MODEL_PATH, INTENT_TOKENIZER_PATH, INTENT_LABELS
 
-# Muat sekali saat aplikasi dimulai
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+tokenizer = None
+intent_model = None
+
 try:
-    # Menggunakan path tokenizer yang telah di-fine-tune dari config.py
-    tokenizer = AutoTokenizer.from_pretrained("indobenchmark/indobert-base-p1")
-    intent_session = ort.InferenceSession(INTENT_MODEL_PATH)
-    input_ids_name = intent_session.get_inputs()[0].name
-    attention_mask_name = intent_session.get_inputs()[1].name
-    output_name = intent_session.get_outputs()[0].name
-    print("Flask API: Model klasifikasi intent dan tokenizer (IndoBERT) berhasil dimuat.")
+    # 1. Tokenizer tetap dari checkpoint asli
+    tokenizer = AutoTokenizer.from_pretrained(INTENT_TOKENIZER_PATH)
+
+    # 2. Ambil config dari tokenizer checkpoint
+    config = AutoConfig.from_pretrained(INTENT_TOKENIZER_PATH)
+    config.num_labels = len(INTENT_LABELS)
+
+    # 3. Bangun arsitektur model berdasarkan config
+    intent_model = AutoModelForSequenceClassification.from_config(config)
+
+    # 4. Load bobot dari file .pt (hasil fine-tune)
+    intent_model.load_state_dict(torch.load(INTENT_MODEL_PATH, map_location=device))
+
+    classifier_weights = intent_model.classifier.weight.data
+    print("Classifier weight mean:", classifier_weights.mean().item())
+    print("Classifier weight std:", classifier_weights.std().item())
+
+    # 5. Kirim ke device dan mode eval
+    intent_model.to(device)
+    intent_model.eval()
+
+    print(f"Flask API: Model intent dan tokenizer berhasil dimuat di device '{device}'.")
+
 except Exception as e:
-    print(f"Flask API Error: Gagal memuat model intent atau tokenizer. {e}")
-    tokenizer = None
-    intent_session = None
+    print(f"Flask API Error: Gagal memuat model intent atau tokenizer.")
+    print(f"DETAIL ERROR: {e}")
+
 
 def predict_intent(text: str) -> str:
-    if not intent_session or not tokenizer:
+    if not intent_model or not tokenizer:
         print("Flask API Fallback: Model intent atau tokenizer tidak dimuat.")
         return "fallback"
 
-    inputs = tokenizer(
-        text,
-        return_tensors="pt",
-        padding='max_length',
-        truncation=True,
-        max_length=128
-    )
-    inputs_onnx = {k: v.cpu().numpy() for k, v in inputs.items()}
+    with torch.no_grad():
+        inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True).to(device)
+        outputs = intent_model(**inputs)
+        logits = outputs.logits
+        intent_idx = torch.argmax(logits, dim=-1).item()
 
-    outputs = intent_session.run([output_name], {
-        input_ids_name: inputs_onnx["input_ids"],
-        attention_mask_name: inputs_onnx["attention_mask"]
-    })
-    
-    intent_idx = np.argmax(outputs[0], axis=1)[0]
-    return INTENT_LABELS[intent_idx]
+        if intent_idx >= len(INTENT_LABELS):
+            print("Index out of range:", intent_idx)
+            return "fallback"
+
+        intent_label = INTENT_LABELS[intent_idx]
+        print(f"Predicted intent for '{text}': {intent_label}")
+        return intent_label

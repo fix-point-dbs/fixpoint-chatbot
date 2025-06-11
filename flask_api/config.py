@@ -6,8 +6,8 @@ BASE_APP_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT_DIR = os.path.dirname(BASE_APP_DIR)
 
 # Path Model & Data AKAN MERUJUK KE FOLDER ../generated/ dan ../dataset/
-INTENT_MODEL_PATH = os.path.join(PROJECT_ROOT_DIR, "generated", "intent_classifier.onnx")
-INTENT_TOKENIZER_PATH = os.path.join(PROJECT_ROOT_DIR, "generated", "tokenizer_intent_classifier_indobert") # Ini adalah folder
+INTENT_MODEL_PATH = os.path.join(PROJECT_ROOT_DIR, "generated", "best_intent_classifier_model copy.pt")
+INTENT_TOKENIZER_PATH =  "indobenchmark/indobert-base-p1"
 RETRIEVER_MODEL_PATH = os.path.join(PROJECT_ROOT_DIR, "generated", "siamese_model.keras")
 RETRIEVER_TOKENIZER_PATH = os.path.join(PROJECT_ROOT_DIR, "generated", "siamese_tokenizer.pkl")
 FAISS_INDEX_PATH = os.path.join(PROJECT_ROOT_DIR, "generated", "faiss_index.idx")
@@ -18,10 +18,12 @@ KNOWLEDGE_BASE_CSV_DIR = os.path.join(PROJECT_ROOT_DIR, "dataset", "knowledge_ba
 INTENT_LABELS = [
     "ask_first_aid_solution",
     "ask_possible_cause",
+    "ask_bengkel_by_lokasi",
+    "cari_bengkel_terdekat",
     "casual_greeting",
     "fallback",
     "goodbye",
-    "report_noise_or_smell"
+    "report_noise_or_smell", 
 ]
 
 # Parameter Retriever
