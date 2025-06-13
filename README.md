@@ -41,64 +41,6 @@ Chatbot ini menggunakan pendekatan hybrid yang menggabungkan beberapa teknik Nat
     * Embedding ini kemudian digunakan untuk mencari entri yang paling mirip dalam indeks FAISS (yang berisi embedding dari *knowledge base*).
     * Solusi atau informasi yang relevan dari *knowledge base* kemudian diformat dan dikembalikan sebagai respons chatbot.
 
-## Menjalankan API menggunakan FastAPI
-
-API FastAPI berada di dalam folder `api/` dan file utamanya adalah `main.py`.
-
-**Langkah-langkah:**
-
-1.  **Buat dan Aktifkan Virtual Environment (Direkomendasikan):**
-    ```bash
-    python -m venv venv_fastapi
-    # Windows
-    venv_fastapi\Scripts\activate
-    # macOS/Linux
-    source venv_fastapi/bin/activate
-    ```
-
-2.  **Instal Dependensi:**
-    Pastikan Anda memiliki file `requirements.txt` di dalam folder `api/` yang berisi semua pustaka yang dibutuhkan oleh FastAPI (misalnya, `fastapi`, `uvicorn`, `onnxruntime`, `transformers`, `tensorflow`, `keras`, `faiss-cpu`, `pandas`, `numpy`).
-    ```bash
-    cd api
-    pip install -r requirements.txt 
-    # (Jika requirements.txt belum ada, Anda perlu membuatnya berdasarkan import di main.py)
-    ```
-    Jika Anda menjalankan kode FastAPI yang telah dikirimkan sebelumnya, dependensi utamanya adalah:
-    ```txt
-    # Contoh isi requirements.txt untuk folder api/
-    fastapi
-    uvicorn[standard] # Untuk server ASGI
-    numpy
-    onnxruntime
-    transformers
-    pandas
-    faiss-cpu # atau faiss-gpu jika menggunakan GPU
-    tensorflow # atau tensorflow-cpu
-    keras # Mungkin sudah termasuk dalam tensorflow
-    pydantic
-    python-dotenv # Jika Anda menggunakan .env untuk konfigurasi
-    ```
-
-3.  **Pindah ke Direktori API FastAPI:**
-    Jika belum, pastikan Anda berada di dalam folder `api/`:
-    ```bash
-    cd path/ke/project_chatbot_motor/api/
-    ```
-    Jika Anda sudah di langkah sebelumnya, Anda mungkin sudah di sana.
-
-4.  **Jalankan Server FastAPI menggunakan Uvicorn:**
-    ```bash
-    uvicorn main:app --reload --host 0.0.0.0 --port 8001 
-    ```
-    * `main`: Merujuk ke file `main.py`.
-    * `app`: Merujuk ke objek FastAPI `app = FastAPI()` di dalam `main.py`.
-    * `--reload`: Server akan otomatis restart jika ada perubahan kode (berguna saat pengembangan).
-    * `--host 0.0.0.0`: Membuat server dapat diakses dari alamat IP mana pun di mesin Anda.
-    * `--port 8001`: Menentukan port yang akan digunakan (Anda bisa menggantinya).
-
-5.  **Akses API:**
-    * Endpoint chatbot Anda (sesuai kode FastAPI yang diberikan) adalah `POST` ke `http://127.0.0.1:8001/chatbot-reply/`
-
 ## Menjalankan API menggunakan Flask
 
 API Flask berada di dalam folder `flask_api/` dan file utamanya adalah `app.py`.
@@ -159,7 +101,6 @@ Anda dapat menguji kedua API menggunakan tools seperti Postman, Insomnia, atau `
 
 * **Metode**: `POST`
 * **URL**:
-    * FastAPI: `http://<host>:<port_fastapi>/chatbot-reply/`
     * Flask: `http://<host>:<port_flask>/chatbot-reply`
 * **Headers**:
     * `Content-Type`: `application/json`
@@ -171,6 +112,9 @@ Anda dapat menguji kedua API menggunakan tools seperti Postman, Insomnia, atau `
     ```
 
 Ganti `"motor saya akinya soak dan tidak bisa menyala"` dengan input teks yang ingin Anda uji.
+
+## Link Deploy
+https://flask.fixpoint.my.id/chatbot-reply
 
 ## Catatan Tambahan
 
