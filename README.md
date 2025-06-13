@@ -1,12 +1,30 @@
-## Persiapan Awal (Penting!)
+# FixPoint : Chatbot Pertolongan Pertama Kerusakan Motor
 
-Model-model dan file-file yang telah di-training (seperti model ONNX, model Keras, tokenizer, indeks FAISS, dan DataFrame knowledge base yang sudah diproses) disimpan dalam folder `generated`. Karena ukuran file-file ini bisa sangat besar, mereka tidak disertakan langsung di repositori ini.
+Dokumentasi ini menjelaskan arsitektur, metode yang digunakan, dan cara menjalankan API untuk chatbot pertolongan pertama kerusakan motor.
 
-**Anda perlu mengunduh folder `generated` yang lengkap dari link Google Drive berikut dan meletakkannya di root direktori proyek Anda:**
+---
 
-➡️ **https://drive.google.com/file/d/1TSLaV2dG2WoSbbLMO5d9pANe_vqMNn4a/view?usp=sharing**
+### **Penting: Diperlukan Git LFS untuk Mengunduh Proyek**
 
-Pastikan setelah diunduh dan diekstrak (jika dalam format zip), struktur folder `generated` Anda sesuai dengan yang dibutuhkan oleh konfigurasi API (lihat `config.py` di dalam `flask_api/` atau path yang digunakan di `api/main.py`).
+Repositori ini berisi file model Machine Learning berukuran besar (seperti `.onnx` dan `.keras`). Untuk mengelola file-file ini dengan benar, proyek ini menggunakan **Git LFS (Large File Storage)**. Anda **wajib** menginstal dan mengaktifkan Git LFS **sebelum** melakukan `git clone`.
+
+**Langkah-langkah yang Benar untuk Mengunduh:**
+
+1.  **Instal Git LFS.** Kunjungi [situs resmi Git LFS](https://git-lfs.github.com/) untuk panduan instalasi sesuai sistem operasi Anda (Windows/macOS/Linux).
+
+2.  **Jalankan setup Git LFS pada sistem Anda.** Perintah ini hanya perlu dijalankan sekali per mesin.
+    ```bash
+    git lfs install
+    ```
+
+3.  **Clone repositori seperti biasa.** Setelah Git LFS terinstal dan di-setup, proses `clone` akan secara otomatis mengunduh file-file besar dengan benar.
+    ```bash
+    git clone <URL_REPOSITORI_ANDA>
+    ```
+
+> **Catatan**: Jika Anda sudah terlanjur melakukan `clone` tanpa Git LFS, file model hanya akan berupa *pointer* teks kecil, bukan file sebenarnya. Untuk memperbaikinya, masuk ke direktori proyek dan jalankan `git lfs pull`.
+
+---
 
 ## Persyaratan Umum
 
@@ -102,21 +120,50 @@ Anda dapat menguji kedua API menggunakan tools seperti Postman, Insomnia, atau `
 * **Metode**: `POST`
 * **URL**:
     * Flask: `http://<host>:<port_flask>/chatbot-reply`
+    * Deploy : `https://flask.fixpoint.my.id/chatbot-reply`
 * **Headers**:
     * `Content-Type`: `application/json`
-* **Body** (raw JSON):
+#### **Struktur Body (raw JSON)**
+
+Endpoint ini menerima dua format *body* JSON yang berbeda, tergantung pada jenis permintaan yang Anda buat:
+
+---
+
+**Opsi 1: Permintaan Teks Umum**
+
+Gunakan format ini untuk percakapan umum atau pertanyaan yang tidak memerlukan informasi lokasi.
+
+* **Tujuan**: Mendapatkan balasan chatbot untuk pertanyaan umum.
+* **Contoh Body**:
     ```json
     {
         "text": "motor saya akinya soak dan tidak bisa menyala"
     }
     ```
+    Anda dapat mengganti nilai `"text"` dengan input lain yang relevan.
 
-Ganti `"motor saya akinya soak dan tidak bisa menyala"` dengan input teks yang ingin Anda uji.
+---
+
+**Opsi 2: Permintaan Pencarian Berbasis Lokasi**
+
+Gunakan format ini ketika Anda ingin mencari rekomendasi berbasis lokasi, seperti "bengkel terdekat". API akan menggunakan `latitude` dan `longitude` untuk memberikan saran yang relevan dengan lokasi Anda saat ini.
+
+* **Tujuan**: Mendapatkan rekomendasi bengkel atau layanan lain berdasarkan lokasi GPS pengguna.
+* **Contoh Body**:
+    ```json
+    {
+        "text": "carikan bengkel terdekat",
+        "latitude": "-8.163114",
+        "longitude": "113.706995"
+    }
+    ```
+    Pastikan untuk mengganti nilai `text`, `latitude`, dan `longitude` sesuai dengan kebutuhan pengujian Anda.
+
+---
 
 ## Link Deploy
 https://flask.fixpoint.my.id/chatbot-reply
 
 ## Catatan Tambahan
 
-* Pastikan semua path ke model dan dataset di file konfigurasi (`config.py` untuk Flask, atau langsung di `main.py` untuk FastAPI) sudah benar dan sesuai dengan struktur direktori Anda setelah mengunduh folder `generated`.
-* Untuk penggunaan produksi, disarankan menggunakan server WSGI yang lebih robust untuk Flask (seperti Gunicorn atau Waitress) dan server ASGI yang sesuai untuk FastAPI (Uvicorn sudah baik).
+* Pastikan semua path ke model dan dataset di file konfigurasi `config.py` untuk Flask sudah benar dan sesuai dengan struktur direktori Anda setelah mengunduh folder `generated`.
